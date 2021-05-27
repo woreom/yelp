@@ -167,10 +167,10 @@ def query_api(term, location):
 #             len(businesses), business_id))
 #     response = get_business(API_KEY, business_id)
 
-    data = [get_business(API_KEY, business['id']) for business in businesses ]
+#     data = [get_business(API_KEY, business['id']) for business in businesses ]
 #     print(u'Result for business "{0}" found:'.format(business_id))
 #     pprint.pprint(response, indent=2)
-    return data
+    return businesses
 
 def read_street(path='street_name.txt'):
     with open(path, 'r') as f:
