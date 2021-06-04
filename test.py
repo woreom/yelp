@@ -192,33 +192,35 @@ def main(term='restaurants', location='Philadelphia, Pa', streets_path='street_n
 
 #     input_values = parser.parse_args()
 
+    try:
 
-    streets = read_street(path=streets_path)
-    data=[] if iteration==0 else read_data(data_path).to_dict(orient='records')
-    for (i, street) in tqdm(enumerate(streets)):
-        if i>=iteration: 
-            address = street +' '+ location
-            try:
-                data.extend(query_api(term, address))
-            except:
-                df = pd.DataFrame(data)
-                df.to_pickle(data_path)
-                traceback.print_exc()
-                sys.exit()
-        else:
-            pass
+    	streets = read_street(path=streets_path)
+    	data=[] if iteration==0 else read_data(data_path).to_dict(orient='records')
+    	for (i, street) in tqdm(enumerate(streets)):
+        	if i>=iteration:
+        		address = street +' '+ location
+        		data.extend(query_api(term, address))
+        	else:
+        		pass
         
-    print("-------------------SAVING DATA---------------------")
-    df = pd.DataFrame(data)
-    df.to_pickle(data_path)
+    	print("-------------------SAVING DATA---------------------")
+    	df = pd.DataFrame(data)
+    	df.to_pickle(data_path)
     
-    return df
+    	return df
+
+    except:
+        df = pd.DataFrame(data)
+        print("===========SAVING DATA=============")
+        df.to_pickle(data_path)
+        traceback.print_exc()
+        sys.exit()
 
 
 # In[5]:
 
 if __name__ == '__main__':
-    args=Args(term='restaurants', location='Philadelphia, Pa', streets_path='street_name.txt', data_path= 'data.pkl',iteration=0)
+    args=Args(term='restaurants', location='Los Angeles, CA', streets_path='street names/LA.txt', data_path= 'Data/LA.pkl',iteration=0)
     args=args.init_parsearges()
     main(term=args.term, location=args.location, streets_path=args.streets_path, data_path= args.data_path,iteration=args.iteration)
 

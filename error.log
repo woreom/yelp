@@ -1,5 +1,7 @@
-1942it 'INTERNAL_ERROR'
-2635it 'REQUEST_TIMED_OUT'
-2636it 'REQUEST_TIMED_OUT'
-3819it 'REQUEST_TIMED_OUT'
-3870it 'LOCATION_NOT_FOUND'
+64it [01:45,  1.40s/it]{'error': {'code': 'LOCATION_NOT_FOUND'
+3836it [34:08,  1.35s/it]{'error': {'code': 'INTERNAL_ERROR', 'description': 'Something went wrong internally, please try again later.'}}
+5432it [10:49,  1.51s/it]{'error': {'code': 'LOCATION_NOT_FOUND', 'description': 'Could not execute search, try specifying a more exact location.'}}
+6033it [25:09,  1.32s/it]{'error': {'code': 'ACCESS_LIMIT_REACHED', 'description': "You've reached the access limit for this client. See instructions for requesting a higher access limit at https://www.yelp.com/developers/documentation/v3/rate_limiting"}}
+
+
+
