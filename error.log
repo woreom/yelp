@@ -3,5 +3,3 @@
 5432it [10:49,  1.51s/it]{'error': {'code': 'LOCATION_NOT_FOUND', 'description': 'Could not execute search, try specifying a more exact location.'}}
 6033it [25:09,  1.32s/it]{'error': {'code': 'ACCESS_LIMIT_REACHED', 'description': "You've reached the access limit for this client. See instructions for requesting a higher access limit at https://www.yelp.com/developers/documentation/v3/rate_limiting"}}
 
-
-
