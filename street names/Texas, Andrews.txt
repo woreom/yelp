@@ -1,0 +1,607 @@
+SW 1st Street
+NW Avenue J
+NE 2nd Street
+Parker Street
+Logsdon Avenue
+NE 1300
+NW 5th Street
+Dobbins Avenue
+SE 1400
+NE Sartain Drive
+FM 1788
+0
+Avenue K
+SE 2401
+Avenue Pl E
+SW 5001
+SE 1st Street
+Shepherd Spring
+2800
+Bluebird Lane
+Rice Drive
+121
+NW 9th Street
+NW 1601
+County Road 2001 SE
+NE 2000
+County Road 900
+1
+County Road 211
+2500
+601
+11th Street
+County Road 301
+FM 1967
+NE 5th Street
+NW 10th Street
+Falcon Court
+SE 200
+3701
+1st Street
+SE 2601
+7001
+NE 6000
+SE 1401
+NE Bronstad Drive
+Woodland Street
+SW Avenue D
+SE 700
+Mockingbird Circle
+Broadway Street
+2100
+SE 1000
+SE 900
+NE 301
+NE 201
+SW 3rd Street
+NW 14th Street
+Teakwood Drive
+Reed Road
+McNeese Road
+880
+Sabana Road
+SE 601
+6th Place
+Underwood Drive
+5501
+4th Place
+401
+4301
+Dearen Road
+2201
+1st Place
+4th Street
+SE 600
+Mustang Circle
+SW 7th Place
+7401
+Pne 3600
+SE 4301
+NE 3rd Street
+County Road 1400
+SW 900
+SE 4201
+NE 1st Place
+Von Avenue
+SE 100
+Piedras
+County Road 401
+6000
+NW Avenue F
+NW 7000
+S Horseshoe Lane
+SE James Avenue
+County Road 1001 SE
+Avenue F
+16th Street
+SE Co Road 1000
+1450
+High Chaparral Drive
+SW 10th Street
+NE 2001
+County Road 2100
+9th Street
+Montoya
+NW Avenue M Place
+SE 2651
+NW 3000
+County Road 1201 SE
+Ranch Road 87
+8th Place
+NW 9000
+Hospital Drive
+SE 551
+13th Street
+SE 1200
+SW 11th Street
+2601
+NE 1st Street
+SE 3101
+N Main Street
+State Highway 176
+Dallas Lane
+9000
+NE 1500
+NE 1470
+NW Avenue A
+281
+Louis Circle
+NE Avenue B
+County Road 901
+SE 3701
+ East
+Loleta Road
+NW 4th Street
+Alva
+County Road 2001
+Finley Road
+NE 3200
+Pnw 1601
+SE 1800
+County Road 3000
+SE 2000
+SE 2nd Street
+Abel Avenue
+Mitchell Road
+NE 2200
+8100
+Avenue J
+NW 15th Street
+2501
+2651
+2200
+Quail Ridge Road
+SE 2451
+Telephone Road
+NW Avenue M
+la Paz Drive
+SE 121
+Lively Street
+SW Avenue J
+Llano Street
+7000
+4601
+ South
+NE Avenue G
+Mockingbird Lane
+NE 511
+Prc 2600
+1300
+3001
+NE 1001
+County Road 800
+County Road 2000
+551
+1250
+S FM 1788
+Escondido Street
+200
+SE 5th Street
+151
+SE 6th Street
+Cimmaron Street
+1400
+Avenue F Place
+SE 500
+SE 1650
+201
+NE Avenue F
+NW 401
+SE 5101
+801
+Mustang Drive
+Boys Lane
+SE 4401
+County Road 1401 SE
+Terry Lane
+County Road 1601 SE
+SE 4601
+SW 12th Street
+SE 2901
+3201
+3101
+SW 6th Place
+8th Street
+NE 6th Street
+2401
+Warren Road
+Eunice Highway
+2001
+Mesa Road
+1700
+10th Street
+Sunset Street
+County Road 1001
+7th Street
+Ruskin Road
+NE Hospital Drive
+County Road 201
+NW 16th Street
+County Road 900 SE
+1350
+Pecan Place
+SE 4701
+Avenue D
+W Broadway Street
+NE 8th Street
+Abigail Drive
+NW 9250
+SE Henley Street
+1901
+15th Street
+County Road 1901
+Doran Drive
+2451
+5101
+2901
+850
+Meadowlark Lane
+NE Avenue A
+SE 1290
+SE Avenue D
+Avenue A
+SW 4th Street
+NE Mustang Drive
+NE 8100
+1650
+SW 11th Place
+NE 1250
+Mercedes Street
+NE Avenue H
+County Road 2200
+SE Avenue E
+2801
+Golf Course Road
+Pheasant Lane
+SW 1300
+SE 5601
+SE Echols Street
+County Road 4
+SE 6001
+NE 1400
+2700
+Red Oak Lane
+NE 3100
+Thomas Road
+County Road 1100
+Daisy Road
+5th Street
+NE 4th Place
+NE 4th Street
+Redwood Drive
+SE 1600
+NE Avenue K
+SE 2001
+1401
+Whipporwill Lane
+SE Co Road 2751
+Avenue M
+5551
+SE Avenue C
+County Road 2651
+Aspen Drive
+Sartain Drive
+Crescent Drive
+Zant Lane
+Avenue B
+SW 2001
+SW 2000
+Morningside Drive
+Andrews Street
+ Southwest
+Patsie Avenue
+Red Oak Road
+SE 3rd Street
+Shaffer Lake Road
+3100
+Tacoino
+County Road 2601
+SW Avenue B
+5001
+NE 501
+SE McKinney Avenue
+812
+12th Place
+Avenue E Place
+W FM 1967
+FM 181
+Moxley Street
+3301
+SE 850
+NE 3600
+NE 480
+Fairlane Street
+Avenue C
+Hooper Road
+1600
+SE 1450
+Hilltop Road
+Ranch Road 181
+Heritage Court
+NE Rice Drive
+Taylor Road
+Genesis Road
+101
+SE 5501
+Finley Road E
+SE Mustang Drive
+SW 2501
+Co Road 2751
+Co Road 1000
+600
+Roadrunner
+County Road 3001 SE
+NW Avenue B
+NW Avenue H
+SE 650
+NW Avenue L
+Frankel City Highway
+Hamrick Loop
+2nd Street
+NW 8th Street
+Ranch Road 1788
+SE 1300
+NE Avenue Pl E
+E Broadway Street
+SE 501
+Bellaire Drive
+County Road 501
+NE Avenue D
+NE Avenue E Place
+1290
+NE 411
+Avenue M Place
+6001
+2301
+Mesquite Lane
+Green Acres Road
+SW 1900
+Nehemiah Drive
+Taylor Street
+High Chaparral Street
+SE 2800
+Able Avenue
+Echols Street
+County Road 1450
+NW 13th Street
+1470
+E 411
+Lonis Road
+SE 1100
+Terrace Drive
+Willow Circle
+SW Avenue H
+411
+Kermit Highway
+650
+SW 7th Street
+Sage Circle
+SW Avenue A
+NE 151
+NE Avenue J
+Nolley Lane
+SE 3201
+SE 800
+SE 2201
+5000
+Avenue H
+Elm Street
+SE 101
+3rd Street
+Heritage Boulevard
+SE 1901
+Avenue G
+1601
+NW 3rd Street
+State Highway 115
+ Northeast
+ Northwest
+SE 750
+301
+4401
+1500
+County Road 850
+14th Street
+7th Place
+900
+SE 5551
+Henley Street
+NW Avenue A Place
+500
+SE 201
+County Road 3
+County Road 1300
+Chaparral Drive
+SE 4001
+Collie Way
+SE Von Avenue
+County Road 601
+NW 12th Street
+NE 901st Street
+SW 812
+ North
+NW Avenue D
+County Road 2651 SE
+3200
+100
+US Highway 385
+NE 7100
+SW 2nd Street
+SW 7001
+Fisher Road
+NE 101
+NW 1st Street
+Redwood Street
+Seagraves Street
+NE 1350
+Cedar Circle
+SE 1001
+NW 2nd Street
+Shepherd Circle
+Canaan Road
+NW 12th Place
+Shepherd Way
+SE 2700
+NE 401
+NW 1st Place
+7100
+Main Street
+Daisy Avenue
+SE 1900
+480
+Horseshoe Lane
+Quite Oaks
+SE 1601
+Davis Road
+2751
+NE Avenue F Place
+NW Avenue I
+SE 2500
+NE 281
+Albright Road
+County Road 2500
+9250
+SE 880
+Cardinal Crest Drive
+NW 11th Street
+Stella Lane
+NW Avenue E
+Collie Court
+SE 3301
+SE 8th Street
+1800
+County Road 800 SE
+County Road 151
+251
+SE 4101
+Bronstad Drive
+County Road 1290
+Dove Run Road
+Avenue I
+NE 2100
+SE 5001
+J V McKinney Road
+SE Avenue A
+Seminole Highway
+SE 2751
+Alpine Drive
+SW 3601
+N FM 181
+SW Avenue G
+901st Street
+Hummingbird Lane
+ West
+Fowler Road
+Alva Lane
+SW 5000
+NW 8th Place
+James Avenue
+SE 1500
+County Road 2201
+NE 7th Street
+County Road 1350
+NE 1450
+3601
+McKinney Avenue
+Logsdon Street
+Avenue E
+750
+NE Avenue E
+SW Avenue C
+Shafter Lake Road
+Olive Circle
+SW 251
+SW 13th Street
+W State Highway 115
+NW 7th Street
+SW Avenue E
+SE 3601
+SE 1700
+N E 411
+700
+County Road 2451
+SE 401
+3000
+4101
+6th Street
+3600
+Shrauner Road
+1201
+Phillips Plant Road
+11th Place
+County Road 1
+NW 6th Street
+NE Avenue M
+NE 2500
+211
+NW Mustang Drive
+NW Louis Circle
+Avenue A Place
+NE 601
+N Forty Road
+SW 1250
+NE 7401
+Mallard Lane
+Holmes Road
+5601
+County Road 1000
+SE 4th Street
+2000
+NW Avenue G
+SW 6th Street
+4701
+Cedar Lane
+NW 2001
+Live Oak Lane
+County Road SE 100
+SE Avenue B
+NW Avenue C
+County Road 1500
+Falcon Crest Road
+1200
+S Main Street
+SE 1201
+SW 1200
+County Road SE 1001
+County Road 1470
+County Park Road
+SW 8th Street
+Wallace Road
+N Horseshoe Lane
+Pinnell
+Avenue L
+SW 9th Street
+SE 2801
+501
+NE 801
+SE 3001
+12th Street
+NE Avenue C
+SE 2301
+1001
+1100
+800
+NW 2000
+SE 3000
+SE Patsie Avenue
+County Road 700
+Kolb Road
+1900
+NW Avenue K
+SW Avenue F
+1000
+SE Dobbins Avenue
+511
+SW 5th Street
+4001
+NW 2500
+Prc 3300
+SW Mustang Drive
+Forty Road
+NE Avenue L
+ Southeast
+Cactus Lane
+SW Avenue I
+NE 211
+4201
+County Road 1200

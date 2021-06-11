@@ -1,0 +1,56 @@
+N Foothill Drive
+N 750 E
+W 100 North Street
+E Frontage Road
+W 200 South Street
+W Center Street
+N 100 West Street
+N 700 E
+800 W
+W 100 South Street
+N 300 West Street
+S 200 West Street
+N 300 E
+S 200 E
+E 200 South Street
+Elkridge
+E 2900 N
+E 335 North Street
+W 300 South Street
+800 E
+E 100 North Street
+S 300 East Street
+E 400 N
+N 200 East Street
+300 S
+E 300 South Street
+N Foothill Drive E
+Frontage Road
+N Main Street
+S 750 East Street
+S Main Street
+N 200 West Street
+Red Creek Road
+E 300 N
+N First East Street
+S 300 West Street
+N 100 East Street
+N 2400 W
+S 200 East Street
+S 700 East Street
+N 100 E
+State Route 143
+W 200 North Street
+Third East Street
+S Canyon Road
+City View Drive
+S 100 East Street
+E Center Street
+E 100 South Street
+S 100 West Street
+State Route 271
+E 200 North Street
+N 300 East Street
+Eighth West Street
+S 600 W
+Canyon Road

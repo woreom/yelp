@@ -1,0 +1,515 @@
+W 500 N
+Village Green Drive
+1000 N-1
+900 N
+N 250 W
+S 3rd Street
+E 450 N
+200 W
+S 700 E
+Johns Street
+600 E-1
+Indiana Ohio Line Road
+Morningstar Drive
+300 W
+Cardinal Pass
+650 N
+County Road 400 E
+Grey Goose Boulevard
+Berkshire Drive
+E 700 N
+11th Street
+Stony Point Way
+400 W
+1st Street
+High Street
+50 S
+W Wayne Lane
+Evergreen Lane
+Porter Vis
+700 W
+Waters Edge Drive
+Edgemont Drive
+Mix Avenue
+McBarnes Street
+1050 N
+Bollman Street
+Rochester Court
+John Street
+Eagle Road
+W 1000 N-1
+Windsor Court
+W Creek Road
+County Road 300 E
+W Oak Street
+1000 N
+Master Drive
+4th Street
+E 650 N
+Eagle Glen Court
+500 N
+N 650 W
+950 N
+W US Highway 224
+Bellmont Boulevard
+N 12th Street
+100 N
+E Monroe Street
+N 600 E-1
+800 E-90
+Westlawn Drive
+N 650 W-1
+W 700 N
+250 N
+W 1200 N-1
+16th Street
+500N
+E US Highway 33
+Beech Drive
+Brandywine Lane
+350 W
+W 300 N
+N 125 W
+9th Street
+850 N
+500 W
+1200 N-1
+W 1100 N-1
+N 11th Street
+13th Street
+N 200 W
+800 E
+225 N
+Seikirk Lane
+N 1st Street
+Woodland Court
+E Lakeside Drive
+N 16th Street
+S 11th Street
+25 N
+N Main Street
+W Wildwood Lane
+N 300 W
+N 2nd Street
+Emenhiser Road
+Dierkes Street
+N Minnich Road
+Cambridge Court
+E State Road 124
+Stratford Court
+600 W
+Stevenson Street
+S 600 W
+1100 N
+Droege Road
+ East
+Briarwood Trail
+E 1100 N-1
+Rod Street
+500 E
+000 Road
+S 500 E
+Walter Street
+S 500 W
+Scheuman Road
+150 W
+Penn Street
+ South
+W 850 N
+Reiter Street
+Patterson Street
+St Marys Street
+W Chapel Chase Drive
+E North Adams Drive
+US Highway 27
+350 N
+E 250 N
+700 W-1
+Salem Road
+Oak Grove Place
+N 000 Rd-1
+Woodlynn Drive
+Marshall Street
+Straford Court
+Woodridge Drive
+N 7th Street
+600 E
+W 450 N
+Willow Run
+N US Highway 27
+Maplecrest Road
+Faurote Avenue
+8th Street
+E 950 N
+Al Pa Drive
+East Drive
+Dormac Street
+10th Street
+7th Street
+Cherry Lane
+State Road 124
+E Jackson Street
+Piedmont Lane
+Madison Street
+Quinn Street
+E Rugg Street
+N 9th Street
+1150 N
+15th Street
+W Jackson Street
+Maplecrest Street
+N 000th Road
+Short Street
+Eagle Ridge Court
+Whitetail Drive
+500 E-1
+W 000 Road
+W 100 S
+Mercer Avenue
+S County Line Road
+S 10th Street
+Windmiller Drive
+550 W
+US Highway 224
+Quayle Run
+N 800 E-90
+250 E
+Fawn Court
+Studebaker Street
+State Road 101
+Maple Drive
+E 600 N
+Tiger's Trail
+Hickory Road
+W 1000 N
+East Street
+Wheat Ridge Court
+Bellmont Road
+1200 N
+Oakdene Drive
+Quinn Court
+S 16th Street
+Woodridge Court
+Guy Brown Drive
+N 600 E
+17th Street
+W State Road 124
+Church Road
+S Salem Road
+E Grant Street
+N 15th Street
+Limberlost Trail
+Sunset Lane
+Edge Water Court
+Eastbrook Drive
+Mulberry Street
+S 600 E
+5th Street
+E 200 N
+Lewis Place
+Riverside Court
+N Salem Road
+N 450 W
+N 6th Street
+N 550 W
+E Woodstone Lane
+200 N
+Line Street
+800 N
+Morningstar Boulevard
+W 50 E
+W 900 N
+E 900 N
+400 N
+S 200 E
+W 100 N
+Schroeder Road
+E 550 N
+Fairway Drive
+US Highway 33
+Northbrook Court
+W 400 N
+E 800 N
+Old Course Court
+Frank Road
+S 6th Street
+Meibers Street
+Waynesboro Avenue
+Wayne Lane
+Roe Drive
+S 7th Street
+Commerce Drive
+Red Oak Drive
+W Main Street
+450 W
+W Marshall Street
+Deer Run Trail
+N 150 W
+S 4th Street
+W Washington Street
+S 12th Street
+Minnich Road
+W 650 N
+W Quayle Run
+N 13th Street
+W 1050 N
+Roeville Road
+S 650 E
+Yorktown Road
+E 1150 N-1
+Spencer Street
+NW Main Street
+Park Street
+E Jefferson Street
+Cross Pointe
+W Oakdene Drive
+Ohio - Indiana State Line Road
+Krick Street
+N Monmouth Road
+E 1150 N
+Winchester Street
+300 E
+E 100 S
+2nd Street
+N Waters Edge Drive
+Lewis Street
+Selkirk Lane
+700 E
+Fairway Court
+County Road 700 E
+300 N
+Schirmeyer Street
+Division Way
+Lake Court
+Waynesboro Road
+Monroe Street
+000th Road
+E 350 N
+W Adams Street
+Wildwood Lane
+Brookside Drive
+County Road 1175 N
+Winchester Road
+W 200 N
+Blue Heron Cove
+County Road 000
+E Oak Street
+Gage Avenue
+N 3rd Street
+in Ohio State Line
+Harrison Street
+Jefferson Street
+Freemont Lane
+650 E
+E 100 N
+S 28th Street
+in Oh State Line
+N 700 W-1
+S 9th Street
+N 350 W
+Elm Street
+Barrington Drive
+County Line Road E
+3rd Street
+Decatur Road
+Woodhue Court
+County Line Road
+Nuttman Avenue
+Paradise Lane
+N 700 E
+ Northeast
+300 E-1
+Meadow Lane
+ Northwest
+Myers Road
+650 W
+George Street
+State Line Road
+N 400 W
+Angus Drive
+Vine Street
+N State Road 101
+14th Street
+S 250 E
+Canterbury Drive
+Piqua Road
+Maple Street
+Adams Street
+Barkley Road
+Indiana Street
+S County Line Road E
+W 1100 N
+Closs Street
+Jackson Street
+Southampton Drive
+N Barrington Drive
+N 500 E-1
+ North
+E US Highway 224
+N 600 W
+Maplewood
+E 225 N
+N US Highway 33
+Seton Cv
+E 50 S
+E Bellmont Road
+N 28th Street
+Stratton Way
+S 300 E
+N 125 E
+N 100 W
+Stadium Drive
+Bell Brook Boulevard
+Grant Street
+N 400 E
+Twin Lakes Drive
+Chapel Chase Drive
+W Jefferson Street
+E 25 N
+Harvester Lane
+Park Place
+Niblick Street
+Clermont Avenue
+50 E
+N 10th Street
+Main Street
+Deerfield Court
+Trl End
+N 500 W
+Monmouth Road
+W 100 S-1
+James Street
+Twp Highway 11
+100 E
+N 500 E
+County Road 500 N
+North Adams Drive
+Berkley Court
+Chamber Drive
+Fallen Timbers Trail
+Countrybrook Road
+Marion Center Road
+N 250 E
+W 600 N
+Shaffer Street
+400 E
+N Piqua Road
+E 1200 N-1
+Russell Street
+N 650 E
+Woodstone Lane
+Court Street
+NW Winchester Road
+Hogan's Alley
+100 S
+Oakridge Place
+1100 N-1
+Oak Street
+W Rugg Street
+ West
+Dayton Street
+Central Avenue
+N 700 E-1
+Fornax Street
+Kekionga Street
+450 N
+750 N
+N 300 E
+Water Street
+Al-Pa Drive
+Manchester Street
+County Road 800 E
+Lake Shores Court
+W Commerce Drive
+Yorkshire Drive
+Ogg Street
+550 N
+700 N
+Yearling Court
+County Road 375 E
+Walnut Street
+600 N
+Downridge Drive
+6th Street
+S 2nd Street
+Barnhart Street
+Woodcrest Place
+Shady Lane
+S 13th Street
+W Monroe Street
+N 4th Street
+Rugg Street
+100 S-1
+S 8th Street
+E 50 N
+Kemper Lane
+Cleveland Street
+000 Rd-1
+S 400 E
+Lopez Lane
+W Paradise Lane
+Front Street
+N 5th Street
+Bush Street
+Honeysuckle Lane
+Everhart Drive
+700 E-1
+Lake Shores Drive
+650 W-1
+N Hickory Road
+S 14th Street
+125 E
+E 850 N
+Creek Road
+Washington Street
+N 700 W
+E 150 N
+Eastridge Drive
+Eitting Court
+1150 N-1
+W 550 N
+W 1200 N
+S 15th Street
+County Road 600 E
+Colonial Court
+S 1st Street
+150 N
+200 E
+12th Street
+Twp Highway 9
+W 750 N
+Parkview Drive
+County Road 1200 N
+Highview Court
+N 800 E
+Homestead Drive
+N 300 E-1
+NE Adams Street
+County Road 200 E
+County Road 150 N
+E 1200 N
+W Grant Street
+E 1000 N
+Lakeside Drive
+Brookwood Drive
+Industrial Park
+100 W
+250 W
+28th Street
+E 400 N
+Highland Park
+125 W
+NW Brookside Drive
+S 5th Street
+County Road 750 N
+E 1100 N
+NW Indiana Street
+E 300 N
+W Seton Cv
+N 100 E
+N 200 E
+Faurote Street
+N 8th Street
+50 N
+Indiana State Line Road
+Grenelefe Court

@@ -1,0 +1,648 @@
+Rd A
+Kanaka Street
+Iliili Street
+Kahualani Road
+Kunihi Street
+Ilau Street
+Lihau Street
+Paia Place
+Hane Street
+Kukuki Street
+Ocean View Pkwy
+Akele Street
+Kuki'o Nui
+Iwa Place
+Keanaaina Street
+Hao Street
+Kinoulu
+Kona Belt Road
+N Pueo Place
+Kuhinanui Street
+Oneo Way
+Nuhi Place
+Hoowaiwai Court
+Ala Onaona Street
+Laka Place
+Kahakai Road
+Kueni Place
+Awakea Street
+Welo Street
+Makaula Road
+Hookuku Moho Place
+Puu Napoo Drive
+Kahananui Place
+Alihilani Drive
+Kupapa Place
+Kamilo Place
+Melomelo Street
+Alii Drive
+Leone Street
+Kiekie Street
+Lania Place
+Lulana Street
+Iuna Place
+Papala Place
+Bamboo Lane
+Lehua Road
+Kumuao Place
+Ala Kapua Street
+E Kakalina Street
+Pia Place
+Kipapa Place
+Napoo Place
+Lolo Lane
+Aeo Place
+Ailina Street
+Makalei Drive
+Akahipuu Place
+Hua Place
+Kalaoa Street
+Kailana Place
+Ala Wahikanaaho
+Puuolokaa Place
+Uluweuweu Akau Place
+Hoomohala Road
+Paku Way
+Eluna Street
+Haoa Street
+Huehue Street
+Kaloko Drive
+Kuakapu Street
+Nana Uka Place
+Halehau Street
+Akoni Drive
+Heohe Place
+Hoolaupai Street
+Kanaka Lane
+Puohulihuli Street
+Walua Road
+Leone Way
+S Kahapili Loop
+Keokeo Street
+Haleolono Street
+Pelenike Drive
+Lunahana Place
+Punihaole Road
+Makalauna Place
+Imiloa Place
+Kuakini Highway
+Hooilina Court
+Kaloko Halia Place
+Kali Iki Street
+Ola Kino Street
+Lawehana Street
+Mahuahua Place
+Waipahe Street
+Kaleiopapa Street
+Makamaka Street
+Anini Street
+Holomakani Street
+Makamae Place
+Queen Kalama Avenue
+Laimana Street
+Loloku Street
+Kahapili Loop
+Moana Hema Place
+Nana Street
+Luhia Street
+Elena Place
+Kaala Place
+Hookumu Street
+Moana Akau Place
+Muku Place
+Nightingale Lane
+Kealakehe Pkwy
+Keneti Street
+Alakai Street
+Lupa Place
+Nahale Place
+Lapanui Street
+Pumehana Way
+Makelina Place
+Alika Place
+Kamehameha III Road
+Kaalaea Place
+Pumehana Street
+Lea Place
+Manu Mele Street
+Ilima Papa Place
+Kailoa Lane
+Old Palani Road
+Seaview Circle
+Mania Lane
+Koa Road
+Kaila Place
+Halawai Way
+Kahakea Place
+Kakalina Street
+Laui Street
+ East
+Ilimano Place
+Kepano Place
+Hawaii Belt Road
+Puohe Street
+Pualani Street
+Kakalina Place
+Kapuahi Street
+Kamahi'ai Place
+Malia Place
+Kalala Place
+Akaula Street
+Nani Ohai Place
+Lelehuna Street
+Kupuna Street
+Anapau Place
+Iwalani Place
+Kai Nani Place
+Haiku Place
+Queen Kaahumanu Highway
+Hoowaiwai Place
+Koko Olua Way
+Ono Road
+Hanahanai Loop
+Ha'awina Street
+Ihilani Place
+Hao Way
+Kahawaliwali Place
+Ainanani Street
+Ihupani Place
+Aloha Kona Drive
+Palihiolo Place
+Likana Lane
+Holoholo Street
+ South
+Lopeka Place
+Greenwell Mt Road
+Ulili Place
+Ili Ili Place
+Puu Kamanu Place
+Kahikina Lane
+Kaheiau Street
+Pomaikai Street
+Kamalani Street
+Kalani Street
+Puu Kamanu Loop
+Kahi Loop
+Lower Government Road
+Akina Place
+Ahulani Street
+Royal Poinciana Place
+Keolani Sbd
+Kinau Street
+Kewalo Street
+Holo Kula Place
+S Pakalakala Place
+Church of God Road
+Paihi Street
+Iliana Street
+Kalani Way
+Lalo Kawena Place
+Maiau Street
+Hualalai Road
+Aeo Street
+Nohealani Place
+Nakukui Drive
+Royal Poinciana Drive
+Mauka Road
+Kau Place
+Olowalu Street
+Koana Way
+State Highway 190
+Iki Place
+Oma Place
+Kaanee Place
+Hookele Street
+Kauhola Street
+Kamanu Street
+Alihilani Place
+Holu Street
+Hulikoa Drive
+N Pakalakala Place
+Kipuka Owe Owe Place
+Laakea Street
+Lapa'au Place
+Kaahumanu Place
+Haleamau Street
+Lei Kaunaoa Place
+Emalia Place
+Kele Place
+Eho Street
+Sunset Drive
+Puuloa Road
+Kilohana Street
+Rd C Puukala
+Hokulii Place
+Lae Kikaua Mauka Street
+Kipehi Place
+Halihali Place
+Lewa Place
+Nakukui Place
+Haku Mele Place
+Paani Place
+Pamalo Place
+Waiola Place
+Mau Loa Hema Place
+Akaaka Place
+Ailina Place
+Lanakoi Place
+Koko Olua Place
+Hao Place
+Puu Lani Drive
+Mamalahoa Highway
+Poipu Place
+Iluna Place
+E Kawena Place
+Melelina Place
+Ka Mua Place
+Hookuku Moho Street
+Leialoha Street
+Naniloa Drive
+Ohana Road
+Ahi Ahi Street
+Keaupuni Place
+Kiwi Street
+Boat Park Road
+Ahu Street
+Malie Place
+Kulanui Place
+Kapukapu Street
+Huaala Place
+Pakalakala Place
+Puapuaanui Street
+Paulina Place
+Puu Lani Loop
+Huaai Street
+Kopiko Street
+W Kakalina Place
+Kaalele Street
+Manuoku Way
+Maile Street
+Polinahe Way
+Kooloaula Place
+Plumeria Road
+Noelani Way
+Ike Loea Place
+Opae Ula Place
+Kam III Road
+Moeuhane Place
+Kukuna Street
+Uapo Way
+Kamakaeha Avenue
+Stardust Lane
+Kakau Place
+Greenwell Mountain Road
+Kahuna Ao Road
+Papaana Place
+Hamanamana Street
+Makenawai Street
+Mauu Pili Place
+Kupaloke Street
+Alaha Street
+Hamo Street
+Lalei Street
+Alahee Place
+Kai Opua Street
+Heneli Place
+Melemele Street
+Manu O Ku Way
+Kauhale Street
+Lapaau Place
+Ooma Place
+Hoolana Place
+Maliko Street
+Melelina Way
+Akoa Street
+Keakealani Drive
+Poepoe Place
+Pa Place
+Loko Paakai
+Namaka Place
+Paa'kai Way
+Manu O Ku Place
+Bishop Road
+Pilia Place
+Nanaina Way
+Kukulu Place
+Homestead Road
+Melelina Street
+Hoopai Road
+Puuhalo Street
+Uluaoa Place
+Pelekila Place
+Papala Street
+Omilo Place
+Old Government Road
+Makalapua Road
+Kolo Street
+Palanehe Place
+Kauilaniakea Drive
+Nawahie Loop
+Kakapa Place
+Heenalu Road
+Kahauli Place
+Ioke Elena Place
+Manuoku Place
+Kaiupoho Place
+Awalua Place
+Alopa Street
+Palila Place
+Lamaokeola Street
+Puukala Road
+Ililele Street
+Akamai Street
+Io Street
+Paulehia Street
+Kalawa Street
+Uluroa Place
+Kinoulu Street
+Kumu Place
+Olua Place
+Pakalana Road
+Kauwila Street
+Kio-Paa Place
+Lo Kualua Way
+Oni Oni Street
+Alahou Street
+Lako Street
+Captain Cook Road
+Loloa Way
+Kaluna Street
+N Kona Belt Road
+Olomea Place
+Kiipohaku Street
+Hauoli Place
+Poni Place
+Kealapua Place
+Ihumoe Street
+Puupele Road
+Hookaana Street
+Keaupuni Street
+Ohala Place
+Peahi Place
+Kuni
+Namanu Way
+Punihaole Place
+Vermillion Lane
+Kawena Street
+Judd Trail
+Nohealani Street
+Nehiwa Street
+Ililoa
+Holualoa Hui Road
+Kawena Place
+Lo Kualua Place
+Palani Road
+Waikane Place
+Lalii Place
+Liilili Place
+Puukala Loop Road
+Nalukai Place
+Loloa Drive
+Princess Keelikolani Drive
+Malalo Place
+Henaloli Road
+Pawai Place
+Kumukehu Street
+Mala Street
+Hooloa Street
+Mikilana Street
+Mahi Street
+N Manu O Ku Place
+Allied Quarry Road
+Maka Koa Place
+Henry Street
+Kaiwi Street
+Oneone Street
+Uluweuweu Hema Place
+Kuuleialoha Circle
+Lana Place
+Halewili Place
+Napala Place
+Kealoha Street
+Lei Ohai Place
+Uuku Place
+Holua Road
+Leilani Street
+Kuahiwi Place
+Ehukai Street
+Kaelewaa L
+Hao-Kuni Place
+Mahilani Drive
+Mau Loa Akau Place
+Kuhinanui Place
+Alihilani Street
+Kamilo Street
+Nalani Street
+Hoopili Place
+Nuuanu Place
+Puuiki Road
+Hollualoa Beach Road
+Princess Keelikolani Street
+Haku Mele Street
+Halawai Place
+Keaolani Drive
+ North
+Hienaloli Kahului Road
+Kakahiaka Street
+Kumakani Street
+Akele Place
+Makaula Place
+Laaloa Avenue
+Kaiminani Drive
+Pohu Place
+Kolomikimiki Place
+Marlin Road
+Mele Place
+Manini Owali Drive
+Kahoolele Street
+Makapono Place
+Niau Place
+Waiulu Street
+Hamiha Street
+Wainana Place
+Kaumalumalu Drive
+Huaala Street
+Naulu Place
+Hina Lani Street
+Pahee Place
+Lealea Street
+Alapa Street
+Kahaluu Road
+Huehue Ranch Road
+Lilia Place
+Onaona Drive
+Pukiawe Street
+Ulunui Place
+Kealakaa Street
+Kahualani Place
+Kololia Street
+Pumehana Place
+Hao Kuni Street
+Maunawili Road
+Lupalupa Way
+Makolea Street
+Kahakai School Access Road
+Puulu Place
+Kaalele Place
+Hoomama Street
+Eluna Place
+Malu Place
+Kohana Iki Homestead Road
+Kamaka Lane
+Alaha Place
+Oluolu Place
+Kukuinui Street
+State Highway 11
+Uluwehi Place
+Kaloko Hills Drive
+Ololi Road
+Kenika Place
+Loio Street
+Oluolu Street
+Alanoe Place
+Kalana Lo Place
+Manukai Street
+Puuokaliu Place
+S Manuoku Place
+Kealapua Street
+Maleka Street
+Ohianani Place
+Kehau Nani Street
+Imo Place
+Pualena Street
+Paihi
+Uluaoa Street
+Oneone Place
+Hukilau Drive
+Io Place
+ West
+Mahiehie Street
+Ahikawa Street
+Palupalu Place
+Kalia Place
+Oleka Place
+Himeni Place
+Mahi Iulani Place
+Lipine Place
+S Pueo Place
+Ohikapua Place
+Koakoa Street
+Kihawahine Place
+State Highway 19
+Donahue Road
+Hienaloli Road
+Aniani Street
+Hulilau Street
+Jacaranda Drive
+Kaipoi Street
+Punawele Street
+Kanai Place
+Wikolia Street
+Kaao Place
+Wela Place
+Middle Road
+Haleolono Place
+Koikoi Street
+Holualoa Beach Road
+Malulani Drive
+Apela Place
+Olelo Place
+Kaniohale Loop
+Kiaaina Street
+Hiolani Street
+Paiaha Street
+Haawina Trail
+Hiolani Place
+Tomi Tomi Drive
+Imi Ike Place
+Kona Bay Drive
+Nani Kailua Drive
+Halahua Place
+Kekai Street
+Laelae Street
+Kialoa Place
+Kauwela Place
+Hikimoe Street
+Manukai Road
+Wana Street
+Nani Kailua Place
+Puu Kamanu Lane
+Akai Street
+Pahinahina Place
+Ho'omau Road
+Kualono Street
+Haku Place
+Puka Ana Street
+Ilio Holo Kai Street
+Kaiolu Drive
+Kanewa Place
+Kohanaiki Road
+Amaama Street
+Kilapa Street
+Hua Ai Street
+Milena Place
+Lunapule Road
+Hau Nani Street
+Old Mauka Government Road
+Nalu Way
+Ke Ana Wai Street
+Lihilihi Place
+Kahi Place
+Mania Road
+Pueo Place
+Wehilani Drive
+Uanani Place
+Halekou Place
+Onipaa Street
+W Kawena Place
+Maheu Circle
+Malino Place
+Piena Place
+Hoohonua Court
+Nele Place
+Kaa'ea Way
+Leone Place
+Mea Lanakila Street
+Hoene Street
+Kamehamalu Street
+Lulu Place
+Hulali Place
+Malulani Road
+Kaika Place
+Pa Kukui Place
+Heeia Way
+Aumoe Street
+Old Mamalahoa Highway
+Keneti Road
+Hanama Place
+Kaula Street
+Reef Pkwy
+Puuwai Alii Place
+Nuole Place
+S Haku Mele Place
+Oneo Loop
+Kini Loop
+Halolani Street
+Kini Place
+Hooloa Place
+Kekai Place
+Ola Mau Street
+Lula Street
+Mololani Street
+Kealakehe Street
+Kalakua Street
+Pu Ho'aloha Place
+Pamahoa Place
+Puia Drive
+Makala Boulevard
+Old Mamalahoa Road
+Old Homestead Road
+Paai Place
+Neke Place
+Hoomaluhia Drive
+Kanalani Street
+State Route 11
+Wanane Place
+Nawahie Street
+Halawai Street
+Kuhinanui Way

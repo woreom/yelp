@@ -1,0 +1,70 @@
+Third
+N 4400 W
+W 2200 N
+S Front Street
+Montana Street
+N 4000 W
+N 6000 W
+W 800 N
+Bird Refuge Road
+N 6400 W
+N Golden Spike Drive W
+N 6800 W
+2550 N
+18800 W Road
+N 2000 W
+W 2300 N
+W 2500 N
+N Mule Ranch Circle W
+N 4800 W
+Sand Hollow Road
+N 3950 W
+N East Promontory Road
+W 2400 N
+W 2600 N Street
+N 5600 W
+N Front Street
+N 4700 W Street
+28400 W
+N 7200 W
+Second
+2250 N
+Cemetery Road
+N 3850 W
+N 7600 W
+N Mule Ranch Road W
+State Route 13
+N 3800 W
+N 3900 W
+W 3600 N
+18700 W
+Iowa String
+W 3200 N
+N 4100 W
+N 8400 W
+W 4000 N
+Idaho Street
+Colorado Street
+Washington Street
+N 4800 W Street
+N 5200 W
+Iowa String Road
+Fourth
+W 1600 N
+W 3000 N
+S East Promontory Road
+Arizona Street
+W Mule Ranch Circle N
+W 2000 N
+2350 N
+S 6800 W
+W 2600 N
+S East Promontor Road
+W 3300 N
+W 4300 N
+6400 N Road
+N 4050 W
+2500 N
+Golden Spike Loop Road
+Promontory Road
+22300 W

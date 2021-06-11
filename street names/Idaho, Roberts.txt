@@ -1,0 +1,52 @@
+100N
+E 900 N
+N 2858 E
+Diamond Road
+N 2884 E
+2300 E
+E 500 N
+E 670 N
+N 2850 E
+N Bassett Road
+N 2880 E
+N 2400 E
+Farm To Market Road
+E 650 N
+E 725 N
+Black Road
+E 960 N
+E 1000 N
+E Butte Road
+Hackwart Road
+Lowell Moore Road
+E 400 N
+E 700 N
+N 3167 E
+E 2300 N
+E 800 N
+N 2600 E
+N 2865 E
+Pole Line Road
+E 642 N
+E 664 N
+E 300 N
+Old Highway 91
+N Berrett Road
+E 200 N
+N 2500 E
+Blue Stem Road
+E 625 N
+E 671 N
+Mc Carty Road
+N 2300 E
+E 657 N
+N 2800 E
+N Old Butte Highway
+N 2900 E
+State Highway 48
+E 627 N
+E 600 N
+800 N
+N 2700 E
+E 634 N
+Stibal Road

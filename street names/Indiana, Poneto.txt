@@ -1,0 +1,63 @@
+S 300 W
+Grape Street
+W 800 S
+150 E
+S 450 W
+275 W
+500 W
+W 2nd Street
+W State Road 218
+S 400 W
+W Walnut Street
+100 E
+S 100 W
+W 1000 S
+Market Street
+S 150 E
+200 W
+600 W-90
+E State Road 218
+W 1st Street
+300 W
+900 S
+S 275 W
+W 500 S
+Cherry Street
+100 W
+Meridian Road
+W 900 S
+S Wayne Street
+State Road 218
+W 950 S
+S 200 W
+1000 S
+400 W
+S Market Street
+Walnut Street
+1st Street
+S 500 W
+Wayne Street
+S Main Street
+S Meridian Road
+Washington Street
+500 S
+700 S
+ South
+2nd Street
+800 S
+Main Street
+E Walnut Street
+950 S
+W Main Street
+W 700 S
+450 W
+S 100 E
+E 800 S
+600 W
+S 600 W-90
+W Washington Street
+ West
+E 700 S
+S 600 W
+ East
+E Washington Street

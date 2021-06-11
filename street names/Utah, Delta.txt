@@ -1,0 +1,215 @@
+N 525 East Street
+S 300 W
+W 500 N
+N 50 W
+N Robin Hood Drive
+E 750 N
+E 250 N
+E 1500 S
+S 4000 W
+W 1500 N
+US Highway 50
+N 3100 W
+N250W
+S 100 W
+E 450 N
+N Jones Road
+S 350 E
+S 3000 W
+N 2000 W
+W 2500 N
+Eagle Drive
+W 2600 North Street
+S 2625 W Street
+N Sugar Factory Road
+N 5500 W
+S 1000 W
+S 1500 E
+N 5400 W
+E 2000 S
+Birch Drive
+E 700 N
+N 250 E
+N 5000 W
+S 200 W
+S 500 East Street
+S Locust Avenue
+W 4600 S
+E 300 S
+N 2500 W
+S Center Street
+E 100 S
+N Days Avenue
+Willow Avenue
+N 490 E
+W 1250 S
+S 150 W
+W 3000 N
+S 350 W
+S Cottonwood Drive
+W 50 N
+S 1750 W
+Silver Maple Road
+State Route 257
+Juniper Heights Road
+N 1000 E
+S Robin Hood Drive
+S 2500 E
+W 4665 S
+N 4250 W
+W 4500 N
+N 420 E
+Sunset Street
+S 50 E
+S Lone Tree Road
+McCornick Road
+W 11000 North Street
+Sandrock Ridge Road
+Silver Maple Drive
+N 4000 W
+Day's Avenue
+N 300 E
+US Highway 6
+W 1000 S
+W 5500 S
+E 1000 S
+W 200 N
+Sherwood Shores County Road
+E 220 N
+S 320 W
+E Day's Avenue
+S 300 East Street
+N 455 E
+N 3000 W
+Center Street
+W 50 S
+W 3500 South Street
+W 100 S
+E 100 N
+Mc Cormick Road
+4250 W
+Bristlecone Lane
+N 390 E
+S Island Park Drive
+N Center Street
+W 3500 S
+S 2540 W
+E 3500 S
+W 875 N
+S 3250 W
+Topez Boulevard
+W 6000 N
+E 4500 S
+N 50 E
+S Church Court
+W 1000 N
+W 450 S
+Oasis Road
+W 300 N
+N 3000 West Street
+S 400 E
+S 450 W
+500 W
+E 450 S
+N 6000 W
+W Shoreline Drive
+Juniper Street
+E 2500 S
+State Route 174
+W 7000 N
+W 4000 S
+E 400 S
+350 E
+Locust Avenue
+N 400 W
+S 4250 W
+N 200 W
+W 4250 S
+N 3200 W
+S 2020 E
+Thomas Road
+N Main Street
+S 250 E
+E 3200 S
+Shadow Run
+N 300 W
+S 1950 W
+S 2000 E
+S Nottingham Drive
+N 4500 W
+E 200 N
+Sherwood Drive
+Oak Drive
+N Island Park Drive
+Manzanita Avenue
+N 450 W
+W 300 S
+S 700 East Street
+W 2000 N
+Martindale Lane
+N Thomas Street
+W 3500 N
+W 4500 S
+S 1000 E
+S 2000 W
+W 5500 N
+N 3200 West Street
+W 200 S
+W 2100 North Street
+W 6000 S
+W 3750 South Street
+N 800 E
+Cottonwood Avenue
+E 440 South Street
+W 2000 S
+N 2250 W
+N 150 E
+S 400 W
+S 50 W
+White Sage Avenue
+S 200 E
+W 100 N
+N 1000 W
+N Ctr Street
+Tamarix Street
+E Millard Street
+E 50 S
+E 280 N
+N Sunset Drive
+S 250 W
+S 1000 West Street
+S 300 E
+S 4100 W
+N 100 W
+W 2500 S
+N 400 E
+W Ashby Road
+W 400 N
+E 200 S
+W 7500 N
+W 1500 S
+E 800 N
+E Main Street
+S 500 W
+W 4000 N
+E 370 N
+W 6500 N
+E 300 N
+N 400 West Street
+50 West Street
+W 11350 N
+4500 W
+Main Street
+W Main Street
+N 100 E
+S 100 E
+S 2750 W
+W 400 S
+N 200 E
+N 350 E
+N 150 W
+S 2500 W
+W 2700 N
+W 8500 N
+Skeem Lane
+N 500 W

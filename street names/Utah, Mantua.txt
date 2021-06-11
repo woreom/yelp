@@ -1,0 +1,31 @@
+W 500 N
+S 300 W
+W Center Street
+US Highway 91
+E Fish Hatchery Road
+E 750 N
+E 135 S
+S Park Drive
+S 100 W
+W 100 N
+W 200 N
+US Highway 89
+S 300 E
+N 100 W
+Park Drive
+S 200 W
+W 50 S
+E 300 S
+N Main Street
+Willard Peak Road
+S Main Street
+W 100 S
+E North Dam Road
+E 100 S
+N 130 W
+E Rocky Dugway Road
+S 100 E
+E Center Street
+N Meadow Road
+S 80 E
+S Meadow Road

@@ -1,0 +1,173 @@
+S 300 W
+E Iroquois Street
+W 1400 S
+W 1550 S
+1250 S
+W Tom Road
+Oak Lane
+368 W
+Seymour Street
+S 3rd Street
+Elizabeth Place
+Wilson Street
+W 1075 S
+Eastmeare Street
+E 1200 S
+Graham Street
+300 W
+Northrose Street
+W US Highway 24
+E Allen Street
+W Railroad Street
+N 7th Street
+1st Street
+Dunlap Street
+N Ade Street
+525 W
+E Goss Street
+S 375 W
+2nd Street
+W Dunlap Street
+700 W
+W 1250 S
+S 150 W
+County Road 400W
+US Highway 24
+Ray Street
+County Road 800 W
+Dunaway Street
+S 350 W
+County Road 700 W
+W Carroll Street
+Goss Street
+ West
+1275 S
+E Carroll Street
+376 W
+Carroll Street
+S 50 E
+County Road 50W
+7th Street
+Hawkeye Lane
+Iroquois Street
+W 1700 S
+Water Street
+4th Street
+Batton Drive
+50 W
+E Capitol Street
+US Highway 41
+E 1700 S
+S 368 W
+1517 S
+S Fairground Street
+County Road 3200 E
+N Hawkeye Lane
+Ade Street
+N 3rd Street
+W Seymour Street
+E 1550 S
+1400 S
+S US Highway 41
+1100 S
+Lincoln Street
+6th Street
+Punkin Vine Road
+W 1125 S
+County Road 1550 S
+S State Road 71
+Fairground Road
+Eastrose Street
+1325 S
+N 4th Street
+W Lincoln Street
+3rd Street
+E Kent Street
+E Bailie Street
+County Road 600W
+E Graham Street
+Tom Road
+1700 S
+E Lincoln Street
+350 W
+1200 S
+E Dorsey Street
+1508 S
+E Owen Street
+W Iroquois Street
+S 450 W
+500 W
+E 1300 S
+Meadow Lane
+W Goss Street
+E Hawkeye Lane
+Holley Drive
+E Seymour Street
+375 W
+N 1st Street
+Capitol Street
+W 1508 S
+Railroad Street
+S 700 W
+Lutz Street
+5th Street
+Maple Street
+Washington Street
+State Road 71
+E Ray Street
+N 6th Street
+E Holley Drive
+W Allen Street
+1300 S
+Jeanette Drive
+S 1st Street
+200 E
+W Owen Street
+ East
+E Washington Street
+US Highway 52
+1550 S
+E Dunlap Street
+S 525 W
+ North
+E Maple Street
+W 1200 S
+W 1325 S
+Dorsey Street
+S 50 W
+S 200 E
+Allen Street
+1075 S
+S 250 W
+1150 S
+W 1275 S
+250 W
+S Punkin Vine Road
+Kent Street
+S 376 W
+W 1500 S
+S 500 W
+W 1517 S
+150 W
+1125 S
+Fallon Street
+ South
+Andrew Court
+50 E
+Owen Street
+W 1150 S
+1500 S
+450 W
+N Meadow Lane
+Fairground Street
+W Graham Street
+N Fairground Road
+S 4th Street
+W 1300 S
+E 1100 S
+W Washington Street
+E 1400 S
+N Lutz Street
+UHighway 41
+Bailie Street
+County Road 800

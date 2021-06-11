@@ -1,0 +1,14 @@
+E 900 N
+ North
+265 W
+255 W
+W 1900 S
+ West
+900 N
+1900 S
+Wabash Street
+N 265 W
+1900S
+N 255 W
+County Road 900
+ East

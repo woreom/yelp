@@ -1,0 +1,16 @@
+400 W
+W 13500 N
+W 14300 N
+N 4400 W
+N 4800 W
+N 4200 W
+N 5800 W
+N 400 W
+Riverview Lane
+State Route 23
+State Route 61
+N 5600 W
+N 4500 W
+W 14000 N
+W 12200 N
+W 13400 N

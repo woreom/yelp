@@ -1,0 +1,80 @@
+W Center Street
+S 800 E
+E 11600 N
+W Center
+E 12400 N
+S 100 W
+E 13000 N
+E 11800 N
+E 2000 S
+W 11400 N
+S 200 W
+400 W
+W 11800 N
+E 11900 N
+W 13400 N
+N 2400 W
+N 4200 W
+E 800 S
+S Shaw Lane
+2000 S
+E 12600 N
+800 W
+2000E
+State Route 61
+W 12200 N
+E 1600 S
+W 2400 S
+E 12700 N
+Riverview Lane
+State Route 23
+W 13000 N
+High Creek Road
+Lower Richmond Road
+N 1200 E
+Cannibal Road
+N 1600 W
+W 100 S
+E 14200 N
+N Center Street
+S 2400 W
+E Center Street
+Park Lane
+1600 S
+US Highway 91
+1200 N
+N 800 W
+W 800 N
+S 1600 W
+N 1600 E
+N Mountain Home Road
+N 2400 E
+Big Sky Drive
+N 400 W
+N 2100 E
+E 2400 S
+E 12100 N
+N Main Street
+S Main Street
+W 300 S
+E 11300 N
+S 1000 E
+W 200 S
+N 1300 E
+E 12800 N
+N 4400 W
+N 800 E
+W 2000 S
+W 800 S
+E 12300 N
+Upper Richmond Road
+S 200 E
+N 4800 W
+N 5600 W
+N 1400 E
+N 400 E
+E 200 S
+E 800 N
+E Mountain Home Road
+N 5800 W
+E 13400 N

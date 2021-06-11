@@ -1,0 +1,14 @@
+S 800 E
+Celestine Road S
+E Market Street
+Elm Street
+Chesnut Street
+100 S
+E 100 S
+800 E
+ South
+S Celestine Road S
+Market Street
+Schnellville Road
+ East
+E Schnellville Road

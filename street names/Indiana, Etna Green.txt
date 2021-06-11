@@ -1,0 +1,137 @@
+W 500 N
+W Cherry Street
+W Anglin Road
+350 N
+E State Street
+900 N
+N 1100 W
+S Walnut Street
+S Pearl Street
+14B Road
+W 640 N
+W Pleasant Street
+650 N
+N Etna Street
+W Old Road 30
+W 600 N
+W Railroad Street
+High Street
+N 625 W
+Beech Road
+W 450 N
+W North Street
+700 W
+S Wray Street
+850 W
+W Spring Street
+Broadway Street
+E Evergreen Drive
+100 S
+S High Street
+300 N
+N Tower Street
+ West
+75 N
+800 W
+County Road 1100 W
+1050 W
+450 N
+Tower Street
+Wray Street
+750 N
+N 1050 W
+North Street
+W 200 N
+E Pleasant Street
+W 250 N
+Old Road 30
+N 650 W
+500 N
+W 125 N
+W Broadway Street
+700 N
+Town Road
+State Road 10
+Walnut Street
+W 350 N
+600 N
+W 100 S
+N 750 W
+State Street
+Welch Road
+Elm Street
+W 25 S
+N 950 W
+W 700 N
+250 N
+14th Road
+County Line Road
+750 W
+920 W
+N Town Road
+W 300 N
+W 75 N
+850 N
+Anglin Road
+S Etna Street
+N 875 W
+N 800 W
+S 950 W
+W 800 N
+650 W
+US Highway 30
+N 850 W
+640 N
+1100 W
+225 N
+Cherry Street
+625 W
+1000 W
+Byrer Road
+E County Line Road
+575 N
+Railroad Street
+W 225 N
+W State Street
+N Main Street
+S Main Street
+N 700 W
+E 14th Road
+200 N
+600 W
+800 N
+E High Street
+E Spring Street
+State Road 19
+ East
+W 750 N
+W 900 N
+W High Street
+N Byrer Road
+S 900 W
+ North
+N Pearl Street
+N 600 W
+400 N
+25 S
+N 1000 W
+Spring Street
+N Walnut Street
+Evergreen Drive
+W 575 N
+W 400 N
+950 W
+125 N
+900 W
+S Elm Street
+ South
+W 850 N
+N 900 W
+Pearl Street
+W Welch Road
+Main Street
+Pleasant Street
+N 920 W
+875 W
+Etna Street
+W 650 N

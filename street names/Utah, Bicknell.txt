@@ -1,0 +1,31 @@
+W 300 N
+Bicknell City Street
+350 N
+N 300 E
+S 400 W
+E 1600 S
+S 100 W
+W 100 N
+W 200 N
+Bicknell Circle
+E 400 S
+E Hatchery Road
+N 100 W
+S Red Gulch Road
+N 200 W
+S 1600 S
+E 1300S
+S 200 W
+E Main Street
+W 100 S
+E 100 N
+State Route 24
+N 300 W
+E 100 S
+E 300 N
+E 200 N
+N Center Street
+W Main Street
+N 100 E
+S 100 E
+N 200 E

@@ -1,0 +1,130 @@
+750 S
+150 E
+275 W
+100 E
+S 100 W
+S 150 E
+S 208 E
+200 W
+E 375 S
+75 E
+S 350 E
+W 8th Street
+W 500 S
+Meridian Road
+Prince William Road
+S 200 W
+650 S
+400 E
+600 E
+E 650 S
+10 W
+300 E
+50 S
+500 S
+S 75 E
+S 150 W
+S 350 W
+E 500 S
+S 20 W
+S Prince William Road
+8th Street
+ West
+Michigan Street
+10th Street
+S 50 E
+7th Street
+5 W
+E 750 S
+S State Road 75
+5 E
+State Road 22
+15 W
+W 550 S
+4th Street
+Haun Drive
+Mill Road
+375 S
+S Michigan Street
+Wildcat River Way
+208 E
+W 750 S
+Center Street
+S Meridian Road
+6th Street
+State Road 29
+550 S
+S 450 E
+3rd Street
+W 375 S
+State Road 75
+350 W
+190 E
+225 E
+Church Street
+600 S
+9th Street
+S 10 W
+575 S
+S 400 E
+S 225 E
+E 480 S
+350 E
+E 525 S
+S 5 W
+S 275 W
+S 75 W
+E 620 S
+575 E
+S 600 E
+Washington Street
+800 S
+W 600 S
+400 S
+W 700 S
+E 600 S
+W 480 S
+S 190 E
+Jackson Street
+E 485 S
+200 E
+Bluff Street
+75 W
+480 S
+ East
+525 S
+W 800 S
+Mill Street
+S 200 E
+County Road 500 W
+E 50 S
+20 W
+S 250 W
+S 300 E
+500 E
+E 7th Street
+100 W
+250 W
+S 175 W
+450 E
+S 575 E
+S 500 E
+S 15 W
+W 575 S
+150 W
+175 W
+620 S
+S State Road 29
+485 S
+700 S
+ South
+W 485 S
+S 5 E
+50 E
+Main Street
+S 100 E
+Zook Lane
+W 400 S
+E Mill Road
+E 700 S
+Harrison Road

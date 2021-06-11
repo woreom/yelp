@@ -1,0 +1,107 @@
+N 5250 W
+S 300 W
+W 1400 S
+W 15500 N
+100 E
+N 500 E
+S 100 W
+S 350 E
+N 6800 W
+900 S
+W 500 S
+300W
+W 17100 N
+N 5400 W
+N 2nd W
+S 200 W
+E 1250 S
+E 300 S
+W 15200 N
+400 E
+E 100 S
+500 S
+S 1400 W
+N East Garland Road
+S 350 W
+N 5325 W
+W 14800 N
+W 15600 N
+N 4000 W
+N 300 E
+W 1000 S
+W 780 S
+W 200 N
+S 835 W
+E 12000 N
+E 1325 S
+1400 S
+N 4600 W
+W 100 S
+E 100 N
+N 5200 W
+Harley Drive
+W 860 S
+N 5200 W Street
+S Box Elder Way
+W 1000 N
+W 19200 N
+1200 S
+W 17600 N
+S 400 E
+W 18400 N
+N 6000 W
+1020 N
+E 1300 S
+State Route 30
+Riverview Drive
+N 1600 E
+W 15400 N
+E 10th N
+N 200 W
+N 7200 W
+W 900 S
+N 2320 W
+N Main Street
+Marsh Drive
+Poplar Court
+S Main Street
+N 300 W
+5600 W
+E 200 N
+W 13900 N
+W 300 S
+W 700 S
+W 12000 N
+W 200 S
+N 4400 W
+W 14400 N Street
+Canal Bank Road
+E Factory Street
+Wendall Way
+W 100 N
+W 13600 N
+N 4800 W
+N 100 W
+4740 W
+N 400 E
+W 10th N
+W 14400 N
+State Route 13
+W 1025 S
+W 20000 N
+Main Street
+Willow Lane
+5450 W
+Cottonwood Court
+W 16800 N
+N 100 E
+450 W
+W Factory Street
+N 200 E
+5840 W
+E 1100 S
+E 1400 S
+W 925 S
+E 700 S
+Cutler Dam Road
+W 12800 N

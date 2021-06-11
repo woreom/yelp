@@ -1,0 +1,26 @@
+W 1000 N
+W 1050 N
+ North
+Mill Street
+N 250 W
+Garfield Street
+Spring Street
+200 W
+1000 N
+Pottawtame Street
+N 200 W
+Morton Street
+250 W
+Woodring Road
+Lake Street
+Tamarac Street
+Eel Street
+Wayne Street
+N Main Street
+Lukens Lake Road
+Wabash Street
+Main Street
+County Road 1000 N
+Troyer Road
+1050 N
+ West

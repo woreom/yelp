@@ -1,0 +1,709 @@
+W 500 N
+W Willow Drive
+N 50 W
+275 W
+N 250 W
+S 100 W
+E 450 N
+200 W
+E 375 S
+E 450 W
+N Miller Street
+Aitken Street
+S 775 W
+300 W
+Long Beach Drive
+Pine Street
+N 375 E
+650 N
+Whitetail Court
+E 700 N
+N 425 W
+Wabash Road
+11th Street
+300 S
+400 W
+High Street
+W Co Road 1000 S
+E 650 S
+Lincoln Way
+50 S
+N State Road 17
+525 N
+S 375 W
+County Road 325 W
+700 W
+W 650 S
+S 150 W
+W 50 N
+County Road 75 W
+225 W
+California Street
+Bob White Court
+E 12th Street
+W 15th Street
+County Road 100 W
+Monarch Lane
+N State Road 9-57
+E 9th Street
+675 N
+Owl Drive
+W 550 S
+4th Street
+W 250 N
+Captains Court
+Vintage Drive
+E 650 N
+500 N
+E Schoolview Drive
+425 W
+Big Hills Road
+State Road 25
+350 S
+Adele Drive
+Center Street
+Schoolview Drive
+Jay Street
+100 N
+Franklin Street
+Oakhill Drive
+County Road 850 S
+Zina Drive
+E 17th Street
+County Road 200 W
+County Road 100 E
+Sanford Drive
+N 750 W
+Co Road 1000 N
+Hill Street
+950 S
+County Road 300 N
+150 S
+N 825 E
+E Division Road
+County Road 200 S
+675 E
+250 N
+W 700 N
+16th Street
+750 W
+Marina Drive
+W 300 N
+350 W
+Mitchell Drive
+S 125 E
+9th Street
+Ash Lane
+500 W
+E 500 N
+E State Road 14
+W 800 N
+425 N
+N 325 W
+E 400 S
+13th Street
+County Road 725 W
+S 75 W
+N 200 W
+800 E
+225 N
+Woodland Court
+N 675 E
+Cardinal Circle
+County Road 125 E
+S Sweetgum Road
+Spruce Lane
+Railroad Street
+N Main Street
+W 16th Street
+575 E
+Camp Shohola Drive
+N 300 W
+800 S
+N 450 E
+N Paradise Drive
+600 W
+Coral Drive
+E 6th Street
+N 725 E
+N South Street
+ East
+775 N
+State Road 114
+Perry Street
+S Park Road
+900 E
+E 8th Street
+Co Road 1000 S
+W Olson Road
+Ball Court
+County Road 500 W
+W Frontier Drive
+Lakeview Drive
+E 5th Street
+E 150 S
+Mount Zion Road
+500 E
+E 7th Street
+Deere Run Drive
+450 E
+Erie Drive
+N Old US Highway 31
+S 500 E
+South Street
+Lakeshore Drive
+S Apple Tree Lane
+State Route 110
+W 150 S
+W Sanford Drive
+150 W
+N 550 E
+Old State Road 17
+ South
+Sun Flower Lane
+Pearl Street
+N 775 E
+Huddleston Drive
+Walnut Lane
+Westwood Lane
+W Monticello Road
+P Street
+S Birch Lane
+S 425 E
+E 675 N
+E 11th Street
+Country Club Drive E
+S 300 W
+Skyview Lane
+County Road 550 N
+County Road 450 N
+350 N
+E 250 N
+Pheasant Court
+E 14th Street
+E 2nd Street
+S 150 E
+Cottonwood Lane
+W 500 S
+E 18th Street
+Zebra Lane
+Arthur Street
+N Cedar Lane
+275 N
+S Dogwood Drive
+Wood Lane
+600 E
+County Road 400 W
+W 450 N
+Liberty Lane
+E Ford Drive
+E 900 S
+E 825 S
+Paradise Drive
+W Beaman Lane
+County Road 900 E
+County Road 700 W
+8th Street
+Ohio Street
+W 3rd Street
+W 675 S
+County Road 375 W
+Wabash Avenue
+Spade Drive
+Maplewood Lane
+Wood Drive
+10th Street
+Praire Avenue
+7th Street
+E 750 S
+Colonial Drive
+White Creek Drive
+E 15th Street
+Madison Street
+Sunset Drive
+Vfw Drive
+River Drive
+W Fortna Drive
+15th Street
+W 750 S
+Parkway Lane
+675 S
+E 275 N
+Lowell Street
+Rouch Place Drive
+Sweetgum Road
+Willow Drive
+E 250 S
+Kent Drive
+E 13th Street
+W 100 S
+S Prairiewood Drive
+Wabash Street
+Bessmore Park Road
+Cherry Tree Lane
+N 525 E
+550 S
+E 16th Street
+State Road 9-57
+Fulton Avenue
+250 E
+E Fort Wayne Avenue
+Meridian Line Road
+Spear Street
+County Road 250 N
+County Road 675 S
+E Center Street
+E 600 N
+Hawthorne Lane
+775 W
+Ferndale Drive
+E 75 S
+Poplar Drive
+Rochester Plaza
+N 800 W
+E 10th Street
+S Old US Highway 31
+Fortna Drive
+450 S
+S Wabash Road
+N 475 E
+E 850 S
+18th Street
+N 600 E
+17th Street
+1000 W
+Columbia Street
+Sunset Lane
+W State Road 14
+S 700 W
+State Road 14
+Pine Drive
+Tater Lane
+5th Street
+Trails End Road
+E 200 N
+Elizabeth Street
+County Road 475 E
+Hickory Lane
+525 E
+825 E
+Manitou Park Drive
+N 450 W
+Boulevard Street
+200 N
+Liberty Road
+County Road 775 W
+800 N
+W McCarty Lane
+E Sycamore Drive
+Heritage Drive
+75 W
+Scott Street
+Ridge Road
+W 200 S
+Ravencrest Drive
+Aspen Drive
+Clover Street
+W 800 S
+E Maple Street
+Wentzel Street
+200 S
+Bancroft Avenue
+Goose Pond Road
+400 N
+S Hawthorne Lane
+N Elm Lane
+N Monticello Road
+S 200 E
+W 100 N
+Vermont Street
+Woodlawn Hospital Drive
+E 550 N
+Division Line Road
+Oakhill Lane
+Bowen
+County Road 525 E
+Bittersweet Lane
+1300 W
+Franklin Avenue
+W 400 N
+W Boicourt
+1000 S
+S Miller Street
+Troy Drive
+N 900 W
+W 850 S
+Southway 31
+Jackson Boulevard
+N Railroad Street
+450 W
+W 350 S
+N 175 E
+N 150 W
+W 650 N
+S 650 E
+County Road 225 E
+N 1100 W
+E 425 N
+375 N
+County Road 300 W
+Peace Tree Village
+Park Street
+Bachelor Lane
+S Perry Street
+775 E
+Park Road
+Fort Wayne Avenue
+Peach Lane
+Meridian Road
+County Road 700 S
+S 200 W
+Brown Avenue
+Oklahoma Street
+County Road 350 N
+E 300 S
+650 S
+W Side Road
+N State Road 25
+Arrowhead Drive
+E 100 S
+Calumet Street
+2nd Street
+N 275 W
+N Evergreen Street
+S Liberty Lane
+E 500 S
+700 E
+County Road 175 E
+300 N
+County Road 1300 W
+E 375 N
+N Wentzel Street
+S 25 W
+W 6th Street
+N 225 E
+325 W
+E Co Road 1000 N
+Monroe Street
+E 350 N
+E Mount Zion Road
+Dunn Street
+W 200 N
+Maples Court
+County Road 750 W
+W 12th Street
+Boicourt
+Virginia Street
+Petty Drive
+W 475 N
+Blacketor Drive
+Erie Avenue
+N Birch Lane
+Barr Street
+75 S
+Jefferson Street
+Old UHighway 31
+Old US Highway 31
+650 E
+E 100 N
+E 775 N
+E Wood Drive
+N 350 W
+Brown Street
+Elm Street
+3rd Street
+County Road 150 W
+Birch Lane
+S 225 W
+County Line Road
+N 25 W
+Lynn Drive
+Briar Lane
+N 700 E
+Barrett Road
+Manitou Park Road
+325 S
+W 2nd Street
+E 450 S
+825 S
+N Prairiewood Drive
+650 W
+Reed Lane
+County Road 650 S
+350 E
+N 400 W
+Apache Drive
+County Road 225 W
+Smith Court
+Meiser Drive
+County Road 475 N
+Lakeview Bend
+W 900 S
+W 9th Street
+W Brown Street
+S Paradise Drive
+575 N
+14th Street
+S 250 E
+White Tail Drive
+Maple Street
+Side Road
+850 S
+Adams Street
+County Road 500 S
+Oak Drive
+Pontiac Street
+Wallace Avenue
+W 300 S
+County Road 1000 N
+250 S
+E 950 S
+School Street
+E 600 S
+Riverwood Acres Drive
+Sunflower Lane
+Wolfs Point Drive
+Westside Road
+Fort Wayne Road
+State Road 110
+US Highway 31
+E Wood Lane
+Bayview Drive
+ North
+Prairie Street
+N 600 W
+Boyer Lake Drive
+Bachelor Road
+N 1000 W
+W 150 N
+E 225 N
+Lake View Bend
+E 50 S
+N Walnut Lane
+County Road 650 N
+Oakwood Street
+N Walnut Street
+S 250 W
+Greyfeather Lane
+N 100 W
+S Rhodes Street
+S 325 W
+A Street
+W Ridge Road
+Aspen Lane
+Boosewood Drive
+N 400 E
+E 350 S
+Big Hills Drive
+Division Road
+Dogwood Drive
+Wayne Street
+E 3rd Street
+W 325 S
+900 W
+Park Place
+Treasure Is
+N 775 W
+Waterview Drive
+Sycamore Bend
+Elizabeth Avenue
+50 E
+Chickory Lane
+W Dunn Street
+Admirals Court
+Main Street
+S Elizabeth Avenue
+Race Street
+County Road 650 W
+S 100 E
+State Road 9
+S State Road 25
+Elm Lane
+S 1300 W
+Monticello Road
+W 1550 N
+Frontier Drive
+Gregory Farm Village
+175 E
+W 400 S
+675 W
+N Maple Lane
+W 7th Street
+N 500 W
+W Center Street
+750 S
+550 E
+Section Drive
+25 W
+150 E
+Miller Street
+100 E
+N 500 E
+Forrest Lane
+75 E
+W 4th Street
+County Road 500 N
+E 550 S
+W State Road 110
+900 S
+W 8th Street
+S Railroad Street
+Lucas Street
+W State Road 114
+Country Club Drive S
+Canal Drive
+N 250 E
+W 600 N
+W 375 N
+Bowen Street
+County Road 25 W
+College Avenue
+400 E
+E 575 N
+500 S
+N 650 E
+S 75 E
+State Road 17
+Loomis Street
+1550 N
+Fords Court
+N Lucas Street
+Talma Road
+Court Street
+W 275 N
+N Spruce Lane
+Wright Street
+100 S
+Maple Lane
+475 N
+Oak Street
+ West
+Bobolink Avenue
+Clay Street
+Clayton Street
+W 11th Street
+S 50 E
+N Beach Lane
+Ford Drive
+800 W
+450 N
+W 1000 S
+North Street
+W 18th Street
+375 S
+County Road 800 N
+50 W
+E Olson Road
+375 E
+Evergreen Street
+550 N
+Kelly Street
+700 N
+County Road 375 E
+N Meridian Road
+Walnut Street
+County Road 150 S
+Buskirk Drive E
+600 N
+E 4th Street
+S Meridian Road
+6th Street
+S 125 W
+Bailey Lane
+Northgate Circle
+State Street
+Indiana Avenue
+River Street
+Oakwood Drive
+Ewing Road
+Beaman Lane
+E 50 N
+Audubon Avenue
+W Larue Street
+E State Road 110
+225 E
+Church Street
+600 S
+S 400 E
+Idlewild Drive
+Fawn Trail
+Cortland Court
+Prairiewood Drive
+W 250 S
+Buskirk Drive W
+N 675 W
+N Perry Street
+375 W
+Cedar Lane
+W 13th Street
+1100 W
+Rhodes Street
+Olson Road
+W Section Drive
+Deere Trail Court
+Beach Lane
+125 E
+Washington Street
+725 E
+N 700 W
+McCarty Lane
+W 600 S
+400 S
+County Road 275 N
+W 550 N
+W 700 S
+County Road 600 E
+150 N
+200 E
+12th Street
+County Road 250 S
+W 5th Street
+N 800 E
+County Road 550 S
+Montana Street
+Apple Tree Lane
+County Road 200 E
+County Road 425 E
+County Road 150 N
+Man-Chester Drive
+McDonald Drive
+425 E
+County Road 175 W
+Sycamore Drive
+County Road 250 W
+Rochester Boulevard
+100 W
+250 W
+E 400 N
+S 575 E
+Poets Drive
+S 650 W
+125 W
+S Schoolview Drive
+475 E
+Federal Drive
+175 W
+E Fort Wayne Road
+W 525 N
+700 S
+N 175 W
+E 300 N
+N 900 E
+West Street
+E Lucas Street
+County Road 75 E
+Manchester Drive
+Davis Street
+N Old State Road 17
+Larue Street
+N 100 E
+Storm Street
+W Schoolview Drive
+N 375 W
+N 200 E
+N 350 E
+County Road 1600 N
+Strawberry Lane
+W 10th Street
+50 N
+E Aitken Street

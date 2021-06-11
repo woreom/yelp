@@ -1,0 +1,78 @@
+150 E
+Fox Street
+S 100 W
+S 150 E
+200 W
+E 1200 S
+W 950 S
+S 200 W
+Byers Drive
+400 W
+High Street
+400 E
+County Road 400 W
+525 W
+300 E
+E Elm Street
+S 350 W
+S 475 W
+Corwin Drive
+E Randolph Street
+ West
+Corwin Place
+E County Line Road S
+US Highway 231
+Rose Street
+1100 S
+S County Line Road
+S 125 W
+1325 S
+950 S
+Elm Street
+Paris Lane S
+W County Line Road S
+County Line Road
+W 1100 S
+1240 S
+1200 S
+350 W
+East Street
+S 400 E
+500 W
+County Road 150 E
+County Line Road S
+1200 N
+E 1300 S
+W 1240 S
+N 400 W
+475 W
+County Road 525 W
+800 S
+Randolph Street
+School Street
+1300 S
+W 1200 N
+ East
+Mikels Street
+County Road 1200 N
+S 525 W
+ North
+W 800 S
+W 1200 S
+W 1325 S
+Chase Lane
+S 400 W
+E 1200 N
+State Road 28
+S 300 E
+1150 S
+100 W
+S 175 W
+125 W
+S 500 W
+175 W
+ South
+W 1150 S
+W 1300 S
+W 925 S
+925 S

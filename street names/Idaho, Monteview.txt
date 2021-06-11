@@ -1,0 +1,46 @@
+N 800 E
+N 700 E
+Mitchell Road
+E 2400 N
+N 500 E
+Shivley Road
+Cope Road
+E 1700 N
+E 2900 N
+N 665 E
+State Highway 22
+N 600 E
+1057 E
+E 2100 N
+State Highway 33
+McCrary Road
+Bell Road
+E 2700 N
+N 400 E
+E 3000 N
+Schwendig Road
+N 1100 E
+2200 N
+Sauer Road
+Zweifel Road
+E 2300 N
+State Highway 28
+Wadsworth Road
+Yocum Road
+Monteview Highway
+Attkins Road
+N 900 E
+E 2800 N
+Hawker Road
+E 1800 N
+Chasen Road
+N 1054 E
+E 1500 N
+Staley Road
+E 2200 N
+E 2500 N
+N 1000 E
+N Salmon Highway
+E 2600 N
+Sullivan Road
+E 1525 N

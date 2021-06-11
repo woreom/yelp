@@ -1,0 +1,14 @@
+W 300 S
+W Center Street
+N 100 E
+S 100 E
+Silver Maple Road
+W 400 S
+E 100 N
+E Center Street
+W 200 S
+E 100 S
+N 300 E
+US Highway 6
+S 100 W
+Main Street

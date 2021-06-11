@@ -1,0 +1,658 @@
+Windtree Street
+Nilsen Avenue
+McDermott Avenue
+Gleeson Street
+Railroad Square
+Yorkshire Street
+Birge Street
+Barber Street
+Pine Street
+Scott Drive
+Perkins Street
+Elmwood Terrace
+Nathaniel Street
+Westover Street
+Blake Street
+Fairlawn Drive
+High Street
+Hartford Avenue
+Cole Street
+Turner Avenue
+Chelsea Court
+State Highway 4
+Tara Drive
+Glenwood Avenue
+Roulin Street
+McDonald Street
+Ginger Lane
+Wimbleton Gate S
+Princeton Street
+Allison Drive
+Edward Avenue
+Ticonderoga Drive
+John Street
+Thomas Street
+Guilford Street
+Lipton Place
+Margerie Street
+Visconti Avenue
+Wyoming Avenue
+Hungerford Street
+West Road
+Lorraine Lane
+Oak Avenue
+Dartmouth Street
+Ivy Lane
+Evergreen Road
+Eishner Road
+Bird Street
+Cypress Court
+Albrecht Road
+Center Street
+Pepper Drive
+Franklin Street
+Iowa Street
+Joseph Street
+Greenwoods Road
+Hill Street
+Blue Street
+Chatam Lane
+New Litchfield Street
+Mapleridge Drive
+Hill Road
+Roosevelt Trail
+Boston Street
+Simmons Street
+Whitewood Road
+Birney Brook Drive
+Crestwood Road
+Birchwood Drive
+Jordan Lane
+Irving Avenue
+Mikelin Drive
+Fairmount Avenue
+Morse Place
+Torringford Street
+Marcia Drive
+Putnam Street
+Tioga Street
+Fox Run
+Greenwood Road
+Ella Grasso Avenue
+Burr Mountain Road
+Pershing Street
+Circle Drive
+Proprietors Lane
+Norton Street
+Old Farms Road
+Rockledge Loop
+Arlene Street
+Cardinal Circle
+Starview Drive
+Willow Place
+Upper Valley Road
+Harrison Avenue
+Harris Drive
+Cedar Knoll
+Carmody Court
+Griswold Street
+Pothier Road
+Weed Street
+Four Story Lane
+Doolittle Drive
+Oxford Way
+Louis Circle
+Ascot Lane
+Buttrick Road
+County Road
+Trotters Way
+Lois Street
+ East
+Neidt Road
+Stonegate Drive
+Ben-Porte Terrace
+Newfield Spring Road
+Torringford West Street
+Roosevelt Avenue
+Briarwood Trail
+Maiden Lane
+Dale Street
+Mountain View Manor
+N Grace Street
+Machuga Road
+Evergreen Drive
+Harvard Drive
+Kinney Street
+South Street
+Brookside Avenue
+Goodwin Street
+S Wadhams Avenue
+Moore Drive
+Cliffside Drive
+Charles Street
+Albert Street
+ South
+Magnolia Court
+Lyman Drive
+Willow Gardens Road
+Pearl Street
+Hayden Hill Road
+Dibble Street
+Patterson Street
+Oregon Street
+Darling Street
+Pineridge Road
+Smith Street
+Fairview Street
+Suncrest Court
+Juniper Court
+Lafayette Street
+Wood Street
+Field Street
+Coolidge Avenue
+Clearview Avenue
+Orchard Lane
+Hoerle Boulevard
+Dennison Road
+Newbury Place
+Apple Street
+Richard Road
+Brandy Hill Road
+Cross Street
+Ivain Road
+Babbling Brook Road
+Planet Street
+White Oak Way
+Revere Street
+Eagle Ridge
+Marshall Street
+Lynn Heights Road
+Calhoun Street
+Dutton Hill Road
+Arthur Street
+Twining Farm Lane
+Yale Avenue
+Pearl Road
+Overlook Court
+Greenridge Road
+Cameron Street
+Colorado Avenue S
+Winsted Road
+Woodbine Street
+Wright Road
+Liberty Lane
+Warder Lane
+Falcon Ridge Road
+E Elm Street
+Cobblestone Court
+Torrington Office Plaza
+Marion Avenue
+Christine Street
+French Street
+N Chapel Street
+Brightwood Avenue
+Colt Avenue
+Maplewood Avenue
+Harmon Street
+Chapel Street
+Ryan Terrace
+Tognalli Drive
+Lorenzo Street
+Augustyn Court
+Birge Park Road
+John Brown Road
+Kansas Street
+Spyglass Court
+Prospect Street
+Johnson Street
+Pfeiffer la
+Clark Street
+Franklin Drive
+Pondside Lane
+Ford Lane
+Hershberg Road
+Prescott Street
+Saint Andrews Close
+Mountain Laurel Lane
+Klug Hill Road
+Westledge Terrace
+Arel Drive
+Garden Street
+Meadow Street
+Meadowbrook Lane
+River Drive
+Tunxis Lane
+Old Burrville Road
+Mason Street
+Eno Avenue
+Hornfischer Terrace
+Meadowview Drive
+Westview Terrace
+Rosen Avenue
+Hitchingpost Drive
+Workman Avenue
+The Way
+Alice Street
+Elsie Street
+Lawton Street
+Avenue A
+Adam Drive
+Weigold Road
+Westledge Circle
+Wildwood Road
+Hayes Street
+E Center Street
+Laurel Acres
+Bancroft Street
+Craig Street
+Hickory Road
+Concord Road
+Ridgebrook Road
+Brightwood Avenue No 1
+Pfeffer Lane
+Norfolk Street
+Washington Avenue
+Deepwood Road
+Lincoln Avenue
+Harpswell Street
+Farnham Avenue
+Dennison Drive
+Cherry Street
+Henrietta Street
+Maud Street
+Lawn Street
+Park Drive
+Weed Road
+Wilson Avenue
+Lake Drive
+E Farms Road
+Belmont Drive
+Sunset Lane
+Albany Avenue
+Hillandale
+Persechino Drive
+Belleview Avenue
+Joyce Street
+Sherwood Drive
+Guerdat Road
+Devaux Road
+Mountain Road
+Rossi Road
+Litchfield Street
+Prospect Place
+Penny Lane
+Park Avenue
+Whipporwill Lane
+Barbaret Road
+Winburton Road
+Riverside Avenue
+Woodland Road
+Ridge Road
+Culvert Street
+Village Center
+Brewer Street
+Mill Lane
+Lindbergh Street
+Knollwood Road
+Castlewood Lane
+Morningside Drive
+Andrews Street
+Allen Street
+Heron Road
+Pilgrim Road
+Lake Street
+Whittlesy Lane
+Tarlton Street
+Westledge Drive
+Hunter Court
+Inverrary Court
+Nelson Street
+Eastwood Road
+Dalton Street
+Hogan Drive
+Cider Mill Xing
+Hart Drive
+Linton Street
+Beverly Road
+Pythian Avenue
+Arbor Drive
+Borough Street
+Rockwell Drive
+Homestead Road
+Sunny Lane
+Portman Street
+Bishop Street
+Barbero Drive
+Oak Avenue Exn
+Mortimer Street
+Travis Street
+Plain Street
+Lexington Avenue
+Seymour Street
+Koury Terrace
+Sunrise Drive
+Dwyer Place
+Oliver Street
+Wimbledon Gate N
+King Street
+Park Road
+Roberts Street
+Stoneridge Drive
+Eggleston Street
+Deruyter Drive
+Harwinton Avenue No 2
+N Elm Street
+Nutmeg Drive
+South Road
+Fern Drive
+Horace Street
+Starks Road
+Summer Street
+Volkman Lane
+Westside Lane
+Oxbow Drive
+Talbot Street
+Torrington Heights Road
+Wysteria Court
+Old Winsted Road
+Elton Street
+Oakbrook Lane
+Dewey Street
+Lewis Street
+Adelaide Terrace
+Mc Dermott Avenue
+Zappula Drive
+Alvord Street
+Migeon Avenue
+Alder Street
+Grace Street
+Wahnee Road
+Chestnut Hill Road
+Hall Meadow Road
+Alvord Park Road
+Durand Street
+Victoria Street
+W Horace Street
+Allen Road
+Mc Guinness Street
+Wadhams Avenue
+Monroe Street
+Red Oak Hl
+Taylor Street
+Butler Street
+Scoville Street
+Birden Street
+Orchard Road
+Aetna Avenue
+Dorothy Drive
+Heritage Way
+Highland Avenue
+Thompson Drive
+Terrace Drive
+Meenahga Lane
+Forest Court
+Harwinton Avenue
+Brook Street
+Knollwood Drive
+Bradford Road
+Hyde Street
+Peck Road
+Blinkoff Court
+Farley Place
+Industrial Lane
+Limestone Drive
+Funston Avenue
+Elm Street
+S Chapel Street
+Sandy Brook Road
+Gaylord Lane
+University Drive
+Greenfield Drive
+Dawes Avenue
+Red Mountain Avenue
+Felicity Lane
+E Pearl Street
+Litchfield Hollow Drive
+Winterberry Way
+Windtree E
+Bannon Street
+Buena Vista Avenue
+Millard Street
+Northside Drive
+Briar Lane
+Coe Place
+Loretta Road
+Mc Kinley Street
+Fairview Avenue
+Clinton Street
+Lindberg Street
+Chestnut Avenue
+Colorado Avenue N
+Pulaski Street
+George Street
+Sharon Avenue
+Cook Street
+Crystal Lane
+Grandview Avenue
+Fenna Street
+Quail Run
+Jardon Street
+Ella T Grasso Avenue
+Berkshire Oval
+Gillette Road
+Benham Street
+Tamarack Court
+Williams Avenue
+Canterbury Court
+Putter Lane
+Farms Road
+Farmstead Lane
+E Hill Road
+Munson Avenue
+Maple Street
+Wedgewood Drive
+Beecher Street
+Schibi Street
+W Hill Road
+Goshen Road
+Highfield Drive
+Woodside Circle
+School Street
+E Lawton Street
+Elmira Avenue
+Hotchkiss Place
+Jackson Street
+Brightwood Avenue No 2
+W Pearl Road
+Hungerford Place
+Westside Road
+Cedar Swamp Road
+Chamberlain Street
+Caulfield Road
+Norfolk Road
+Lower Bogue Road
+Hawthorne Terrace
+Arbor Ridge
+Birney Brook Road
+ North
+Gate Post Lane
+Hoerle Blvd N
+Winesap Run
+Woodlawn Drive
+Larkspur Farm Road
+Frederick Street
+Laurelton Drive
+Pinewoods Road
+Northridge Avenue
+Daycoeton Place
+Grant Street
+E Albert Street
+McKinley Street
+Dogwood Drive
+E Main Street
+State Highway 183
+Baeder Street
+Beechwood Avenue
+Highland Lake Road
+Marshall Lake Road
+Mc Donald Street
+Bogue Road
+Milici Drive
+Barton Street
+Sage Way
+Main Street
+Timberlake Court
+Pleasant Street
+Trailsend Drive
+Bonvicini Drive
+Middle Lane
+Notting Hill Gate
+Irene Street
+Palmer Bridge Street
+Tracy Avenue
+Whittlesey Lane
+Pulver Street
+Major Besse Drive
+Riccardone Avenue
+Grove Street
+James Street
+Miller Street
+Parson Terrace
+Torringford East Street
+Settlers Lane
+Norwood Street
+Gale Court
+Litchfield Road
+Linden Street
+Winthrop Street
+Old Farms
+Pierce Street
+Eastlawn Drive
+Mount Pleasant Terrace
+Willow Street
+Britton Avenue
+Silver Fox Lane
+Lovers Lane
+City Hall Avenue
+Schuman Road
+Starks Hill Road
+College Avenue
+Torcon Drive
+Hillside Avenue
+Queens Road
+View Street
+Forest Street
+US Highway 202
+Maple Lane
+ West
+Chester Street
+Cooper Street
+Broad Street
+Heights Drive
+Auburn Way
+Central Avenue
+Battell Street
+Country Club Road
+Sherman Street
+Hoffman Street
+Silbro Drive
+Stonehouse Way
+Longmeadow Drive
+Essex Court
+Wall Street
+Fowler Avenue
+Water Street
+North Street
+Hassig Road
+Hemlock Road
+Whiting Avenue
+Cookes Ridge
+Clove Court
+Eagle Street
+Brass Mill Dam Road
+Wilmot Street
+Tall Tree Lane
+McKay Street
+Walnut Street
+Wood Duck Lane
+Edgewood Drive
+Hoerle Blvd E
+Coach Light Lane
+Laurel Hill Road
+Meyer Road
+Lawrence Lane
+Kimball Lane
+Clarence Street
+Sunny la
+Hoerle Blvd W
+Ledge Drive
+Saw Mill Hill Road
+Wheeler Lane
+Bridle Circle
+Hardy Street
+Surrey Lane
+Martha Street
+Church Street
+Amherst Street
+Donahue Place
+Village Drive
+White Pine Road
+Garfield Street
+Newfield Road
+Marvin Street
+State Highway 272
+Cedar Lane
+Lisle Street
+Hodges Hill Road
+Rock Creek Lane
+Santa Maria Drive
+Spencer Road
+Mundry Road
+S Main Street
+New Harwinton Road
+Baron Lane
+McGuinness Avenue
+E Pearl Road
+Doman Drive
+Soapstone Hill Road
+Deerpath
+Luther Street
+Evans Street
+Weaver Street
+Chelton Street
+Baltic Road
+Carroll Drive
+Brooker Street
+Dawn Avenue
+Spruce Drive
+Hinsdale Road
+Wolcott Avenue
+Carriage Lane
+Raiano Street
+Shirley Road
+Casson Avenue
+Spring Street
+St John Place
+W Chapel Street
+Apter Drive
+Sycamore Drive
+Commercial Boulevard
+Victoria Avenue
+Cantor Lane
+Calli Street
+State Highway 263
+Daley Drive
+Brownstone Drive
+Deercrest Drive
+Hillcrest Street
+Berry Street
+Jones Street
+West Street
+Davis Street
+Colin Drive
+Silver Brook Lane
+Castle Street
+Judi Terrace
+Harrison Road
+Kennedy Drive
+Holley Place

@@ -1,0 +1,103 @@
+S 3rd Street
+N 1100 W
+N County Line Road
+Sycamore Street
+S State Road 352
+900 S
+Pine Street
+W 500 S
+650 N
+S 1000 W
+E Pine Street
+300 S
+N State Road 352
+Highway 325 S
+500 S
+2nd Street
+E Elm Street
+700 W
+Rd 2250 E
+W Michigan Street
+Forest Street
+State Road 26
+Ohio Street
+N 3200 East Road
+Oak Street
+ West
+County Road 900 S
+Goodwine Street
+E Beech Street
+Michigan Street
+W Forest Street
+800 W
+County Road 1100 W
+1000 N
+4th Street
+E Oak Street
+County Road 3200 E
+700 N
+Walnut Street
+Iowa Street
+6th Street
+W Ohio Street
+W Illinois Street
+W Ash Street
+S State Road 71
+Beech Street
+Elm Street
+3rd Street
+W 700 N
+W Maple Street
+County Line Road
+Illinois Street
+W 1000 N
+600 S
+850 N
+500 W
+N 800 W
+N 5th Street
+State Line Road
+W Indiana Street
+1100 W
+W 900 S
+1000 W
+N Goodwine Street
+W State Road 26
+5th Street
+Maple Street
+State Road 71
+Indiana Street
+N 700 W
+W 600 S
+400 S
+E Walnut Street
+W 300 S
+W 1100 N
+600 W
+Ash Street
+1100 N
+W 200 S
+ East
+S 900 W
+ North
+Prairie Street
+E Maple Street
+N 600 W
+200 S
+E Sycamore Street
+County Road 7505
+County Road 1100 N
+W State Road 352
+S 5th Street
+900 W
+ South
+S 6th Street
+W 850 N
+N 900 W
+3200 East Road
+State Road 352
+S 1100 W
+W 400 S
+S 4th Street
+W 650 N
+N 500 W

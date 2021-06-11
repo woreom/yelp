@@ -1,0 +1,26 @@
+W 300 N
+McCornick Road
+W 11000 North Street
+Stevens Lane
+S 100 W
+W 100 N
+200 W
+W 200 N
+Woodhill Drive
+N 400 W
+N 100 W
+W 11700 North Street
+100 W
+Coats Road
+N 800 East Street
+State Route 64
+E 200 S
+Center Street
+Haywire Lane
+N200 W
+E 100 N
+E 300 N
+E 200 N
+Main Street
+N 100 E
+N 3200 West Street

@@ -1,0 +1,50 @@
+S 300 W
+W 300 N
+Pine Creek Road
+Draw Road
+S 400 West Street
+W 400 North Street
+N 300 E
+S 100 W
+S 200 E
+Pine Creek Lane
+S Griffin Lane
+W 100 N
+W 200 N
+S 300 E
+N 100 W
+N 200 W
+E 200 S
+S 200 W
+State Route 12
+E Main Street
+E 300 S
+S 500 W
+S 800 W
+W 350 N
+S Center Street
+E 100 N
+W 100 S
+N 300 W
+E 100 S
+Proctor Road
+N 400 West Street
+Racetrack Road
+E 200 N
+N 450 E
+S800 W
+N Center Street
+Lizard Ranch Road
+Ascot Drive
+S 800E
+W 300 S
+W Main Street
+N 100 E
+S 100 E
+Posey Lake Road
+S Center
+W 400 S
+N 200 E
+25 North Street
+S 100 West Street
+W 200 S

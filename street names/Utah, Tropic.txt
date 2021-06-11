@@ -1,0 +1,29 @@
+W Center Street
+S 300 W
+S 400 W
+S 600 West Street
+S 100 W
+W 100 N
+W 200 N
+Bryce Way
+N 400 W
+N 100 W
+N 200 W
+S 200 W
+Center Street
+State Route 12
+W 150 S
+N Main Street
+S Main Street
+W 100 S
+N 300 W
+00 North South Street
+Francisco Lane
+4000 S
+N Bryce Meadow Lane
+N 100 E
+S 100 E
+W 550 N
+E Center Street
+00 East West Street
+N 500 W

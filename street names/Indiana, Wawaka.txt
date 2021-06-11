@@ -1,0 +1,133 @@
+W 1050 N
+E Frantz Drive
+Philips Drive
+E 750 N
+Tibbott Street
+900 N
+N 250 W
+100 E
+200 W
+County Road 300 W
+N Triplett Street
+300 W
+1075 N
+650 N
+Triplett Street
+W 600 N
+400 W
+140 E
+1st Street
+525 W
+525 N
+290 W
+Frantz Drive
+1050 N
+ West
+N Alley Street
+Cosperville Road
+325 W
+750 N
+US Highway 6
+Summit Street
+15 W
+River Drive
+550 N
+N 525 W
+700 N
+E Willow Lane
+Lincoln Street
+Waldron Lake Drive
+Maplewood Drive
+600 N
+625 N
+N 350 W
+E Lakeview Drive
+Brown Street
+W 700 N
+Gerber Street
+County Line Road
+E Maplewood Drive
+Steinbarger Lake Road
+E Philips Drive
+W 1075 N
+350 W
+Baseline Road
+N 125 W
+850 N
+1200 N
+Diamond Lake Court
+W 800 N
+N West Street
+1025 N
+N Lincoln Street
+N 325 W
+N 400 W
+N 200 W
+N 140 E
+County Road 800 S
+475 W
+Depot Street
+E Railroad Street
+W River Drive
+Railroad Street
+E Alley Street
+N 15 W
+E 850 N
+N 300 W
+Decker Street
+W US Highway 6
+County Road 450 W
+N 450 W
+Francis Street
+W 550 N
+W 1100 N
+W 1200 N
+Strater Road
+600 W
+County Road 260 W
+800 N
+Richmond Street
+1100 N
+W Waldron Lake Drive
+ East
+Alley Street
+W 750 N
+W 900 N
+E 900 N
+ North
+N 600 W
+W Diamond Lake Road
+N 290 W
+N Albion Street
+E Summitt Street
+Lakeview Drive
+W 1025 N
+County Road 250 W
+N 100 W
+N Francis Street
+W 625 N
+100 W
+250 W
+Summitt Street
+N Steinbarger Lake Road
+South Street
+Diamond Lake Road
+125 W
+E 800 N
+150 W
+W 525 N
+W 850 N
+N Decker Street
+West Street
+N 475 W
+Main Street
+Willow Lane
+Albion Street
+450 W
+Derby Street
+N 100 E
+N 175 E
+N 150 W
+175 E
+W 650 N
+W County Line Road

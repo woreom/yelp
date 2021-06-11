@@ -1,0 +1,57 @@
+W Center Street
+W 300 N
+S 444 E
+S 800 E
+E 3800 S
+E 250 N
+N 150 E
+E 350 N
+E 500 N
+N 300 E
+400 N
+S 100 W
+S 200 E
+E 450 N
+W 100 N
+W 200 N
+E 550 N
+S 300 E
+N 100 W
+S 600 East Street
+N 140 E
+E 350th N
+N 400 E
+E 350 S
+E 700 N
+E 200 S
+N 250 E
+S 500 E
+S 200 W
+W 400 N
+Canal Road
+E 300 S
+N Main Street
+S Main Street
+S 600 E
+E 100 N
+Canyon Road
+Nibley Road
+E 100 S
+W 100 S
+E 300 N
+E 200 N
+Main Street
+N 380 E
+W 300 S
+N 100 E
+S 100 E
+W 550 N
+N 200 E
+E Center Street
+N 350 E
+E 600 N
+E Mill Road
+S 550 E
+E 400N
+W 200 S
+E 2900 S

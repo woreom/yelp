@@ -1,0 +1,97 @@
+S 300 W
+County Road 1100 S
+300 W
+900 S
+W 500 S
+S 1000 W
+Co Road 1100 S
+County Road 700 S
+W 950 S
+400 W
+1st Street
+650 S
+500 S
+700 W
+W 650 S
+850 W
+County Road 800 W
+S 475 W
+ West
+635 W
+S 550 W
+Wine Street
+800 W
+W Co Road 1100 S
+W 1000 S
+County Road 510 W
+Elm
+1100 S
+Walnut Street
+S 800 W
+Banning Road
+US Highway 36
+550 W
+State Street
+950 S
+Elm Street
+S Indian Trail
+S Huntsville Road
+S State Road 1
+S 560 W
+State Road 1
+S 635 W
+County Line Road
+W 1100 S
+County Road 490 W
+600 S
+500 W
+S Elm
+560 W
+1100 W
+625 W
+W 900 S
+1000 W
+475 W
+E County Line Road
+S 700 W
+County Road 1100
+N Main Street
+S 625 W
+W State Street
+S Main Street
+Maple Street
+850 S
+800 S
+W 600 S
+400 S
+Indian Trail
+W 700 S
+600 W
+Jackson Street
+ East
+W Randolph County Line
+510 W
+S 900 W
+Carlos Road
+ North
+W 800 S
+S 400 W
+N Economy Road
+490 W
+Huntsville Road
+S 850 W
+1000 S
+S 500 W
+Economy Road
+900 W
+700 S
+Randolph County Line
+ South
+S 490 W
+W 850 S
+Main Street
+S 1100 W
+N Elm
+W 400 S
+675 W
+S 510 W

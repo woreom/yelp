@@ -1,0 +1,155 @@
+S 800 E
+E 750 N
+150 E
+E Westwood
+S 400E
+100 E
+N 500 E
+Beechwood Trail
+Harper Street
+E 550 S
+775 E
+Brookville Road
+E 700 N
+N 250 E
+Asbury Road
+N Rigdon Street
+S Oak Street
+High Street
+S Midway Street
+N Asbury Road
+400 E
+600 E
+W North Street
+300 E
+E 550S
+E Freeport Road
+S Co Road 800 E
+Cottonwood Trail
+Broadway Street
+County Road 1000 W
+S Washington Street
+S Cottonwood Drive
+W 50 N
+700 E
+County Road 900 E
+E 950 N
+Oak Street
+ West
+Hanover Drive
+E Johnson Street
+Midway Street
+Johnson Street
+750 N
+N 300 E
+North Street
+1000 N
+County Road 800 E
+W Broadway Street
+950 N
+700 N
+E Beechwood Trail
+Locust Street
+Westwood
+S Locust Street
+Freeport Road
+600 N
+625 N
+980 W
+550 S
+Co Road 850 E
+250 E
+E North Street
+Blue River Trail
+E 600 N
+County Road 850 N
+Chestnut Street
+N Morristown Road
+N 750 E
+N 700 E
+600 S
+E Chestnut Street
+S 400 E
+850 N
+Fletcher Street
+1200 N
+500E
+Mockingbird Court
+Morristown Road
+W Johnson Street
+E 600S
+Rigdon Street
+S Patterson Street
+N 600 E
+N Poplar Street
+800 E
+1000 W
+550S
+Abbey Court
+Cottonwood Drive
+E 850 N
+Washington Street
+600S
+N 450 E
+N Range Line Road
+N Morrison Street
+E 600 S
+N 980 W
+N Jackson Street
+Blue River Road
+N 625 E
+Jackson Street
+W South Street
+800 N
+200 E
+Co Road 800 E
+1100 N
+ East
+Poplar Street
+US Highway 52
+N 800 E
+ North
+N 150 E
+E Cottonwood Trail
+625 E
+E Brookville Road
+E 1200 N
+N 1000 W
+S Co Road 850 E
+County Road 600 S
+Gordon Road
+E Fletcher Street
+S Jackson Street
+N Washington Street
+500 E
+E 1000 N
+Range Line Road
+450 E
+S 500 E
+South Street
+750 E
+E Interurban Avenue
+E 800 N
+E Main Street
+Interurban Avenue
+E 1100 N
+S 500E
+ South
+N Patterson Street
+N State Road 9
+West Street
+Main Street
+E 625 N
+E US Highway 52
+N 775 E
+W Main Street
+N 100 E
+Morrison Street
+Patterson Street
+State Road 9
+N 200 E
+S Poplar Street
+S Harper Street
+400E
+E South Street
+50 N

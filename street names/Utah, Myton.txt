@@ -1,0 +1,69 @@
+S 300 W
+E 5000 S
+13000 S
+W 300 N
+W 11350 S
+8200 S
+S 400 E
+S 4500 E
+4th W
+N 300 E
+S 400 W
+Independence Road
+N 500 E
+S 200 E
+W 100 N
+W 200 N
+US Highway 40
+Odekirk Street
+2500 W
+W 11650 S
+S 300 E
+N 400 W
+3250 S
+N 100 W
+N 600 E
+N 200 W
+3500 E
+S 1000 W
+(Ivie Ln)
+N 400 E
+E 400 N
+W 400 N
+E 7550 S
+S 500 E
+11th Street
+S 200 W
+S 5500 W
+Peterson Street
+Center Street
+E Main Street
+S 500 W
+S Myton Road
+3750 S
+S 600 E
+E 100 N
+9100 S
+7300 S
+E 100 S
+N 300 W
+S Center Street
+E 300 N
+US Highway 191
+W 100 S
+E 200 N
+Riverdale Road
+10000 S
+N Center Street
+Wells Draw Road
+8000 S
+W Main Street
+1500 S
+Indian Highway
+N 100 E
+S 100 E
+N 200 E
+6490 S
+W 9000 S
+Young Lane
+N 500 W

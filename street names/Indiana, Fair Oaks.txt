@@ -1,0 +1,89 @@
+700N
+W 500 N
+550 E
+900 N
+N 500 E
+S 350 E
+650 N
+County Road 400 E
+County Road 900
+E 700 N
+W 600 N
+1st Street
+400 E
+600 E
+300 E
+E 100 S
+2nd Street
+100 S
+300 N
+ West
+Shepard Street
+County Road N 600 E
+S State Road 55
+County Road 300 E
+W 200 N
+4th Street
+N State Road 55
+W 250 N
+500 N
+E 946 N
+600N
+E State Road 55
+700 N
+County Road 150 S
+600 N
+Alexander Street
+200N
+State Road 55
+E Division Road
+3rd Street
+N 1200 W
+E 600 N
+W 700 N
+250 N
+250N
+E North Star Road
+650N
+E State Road 14
+North Star Road
+County Road 1000
+350 E
+N 600 E
+W State Road 14
+County Road 1100
+State Road 14
+575 E
+5th Street
+E 200 N
+1200 W
+200 N
+800 N
+200 E
+Carrol Street
+ East
+E 900 N
+ North
+County Road 700
+400 N
+S 200 E
+S 300 E
+E Shepard Street
+500 E
+946 N
+N 400 E
+W 400 N
+S 575 E
+Kent Street
+E 800 N
+Division Road
+N 550 E
+County Road 1200 W
+ South
+E 300 N
+Hendricks Street
+400N
+N 200 E
+County Road 800
+W 650 N
+County Road 1200

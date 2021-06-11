@@ -1,0 +1,121 @@
+S 300 W
+550 E
+W 100 S-1
+S 650 E
+Salem Road
+Hocker Street
+W Walnut Street
+Clover Lane
+100 E
+S 100 W
+200 W
+Harvest Lane
+S 350 E
+S 700 E
+Park Street
+Indiana Ohio Line Road
+UHighway 27
+300 W
+300W
+S 200 W
+300 S
+400 W
+E 300 S
+400 E
+S Center Street
+300 E
+50 S
+E 100 S
+Christener Drive
+S US Highway 27
+W 50 N
+700 E
+100 S
+County Road 700 E
+Meridian Avenue
+ West
+S 400 W-1
+S 550 E
+State Road 124
+E Jackson Street
+S Van Buren Street
+50 W
+W Jackson Street
+S 675 E
+350 S
+Center Street
+Walnut Street
+W 50 S
+100 N
+Keller Street
+W 000 Road
+W 100 S
+650 E
+E 100 N
+Keller
+W 200 S-1
+Studebaker Street
+150 S
+100 S-1
+675 E
+N 125 W
+Memorial Drive
+S 400 E
+300 S-1
+200 S-1
+E 400 S
+350 E
+E Andrews Street
+N 200 W
+Polk Street
+S Salem Road
+N Van Buren Street
+400 W-1
+N 300 W
+Washington Street
+Adams Street
+400 S
+E Walnut Street
+W 300 S
+E State Road 124
+W Andrews Street
+Jackson Street
+200 E
+S Keller Street
+W 200 S
+ East
+E Washington Street
+ North
+200 S
+S 400 W
+S 50 W
+S 000 Road
+S Memorial Drive
+Andrews Street
+S 200 E
+W 100 N
+S 250 W
+S 300 E
+E 150 S
+N 100 W
+500 E
+S Polk Street
+100 W
+250 W
+E 350 S
+000 Road
+E 200 S
+S 500 E
+South Street
+125 W
+220 S
+ South
+N Polk Street
+W 300 S-1
+Van Buren Street
+N 100 E
+S 100 E
+S Adams Street
+W Washington Street
+50 N
+Indiana State Line Road

@@ -1,0 +1,20 @@
+W 100 North Street
+W 200 South Street
+N 100 West Street
+Uwan Drive
+E 100 North Street
+S 00 East West Street
+Center Street
+State Route 12
+W 00 North South Street
+W Main
+Main Street
+Loop Road
+N 100 East Street
+W 200 North Street
+W 300 S
+S 100 East Street
+E 100 South Street
+S 100 West Street
+E 200 North Street
+W 100 South Street

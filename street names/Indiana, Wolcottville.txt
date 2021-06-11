@@ -1,0 +1,351 @@
+165 E
+085 E
+S 725 E
+S 130 E
+S 100 W
+200 W
+S 700 E
+S 135 E
+Ramona Street
+275 E
+610 S
+Baseline Road-57
+Co Line Road
+E 645 S
+Booth Street
+W 525 S
+300 S
+E 610 S
+S 275 E
+140 E
+N Woodruff
+1st Street
+E 650 S
+160 E
+080 W
+Chicago Street
+E 715 S
+E 800 S
+1050 N
+Dogwood Lane
+S 140 E
+E 615 S
+S 970 E
+N State Road 9-57
+W 550 S
+4th Street
+645 S
+S 050 W
+535 S
+S 055 E
+130 E
+S 675 E
+510 E
+178 E
+W Race Street
+Myers Street
+082 E
+675 E
+Leroy Street
+670 S
+W 450 S
+Baseline Road
+190 E
+S 125 E
+720 S
+195 E
+1100 E
+E 400 S
+S 095 E
+E 525 S
+E 790 S
+N Baseline Road-57
+095 E
+N 1st Street
+County Road 800 S
+1075 E
+S 030 W
+Railroad Street
+N Main Street
+070 E
+800 S
+N 2nd Street
+S 190 E
+S 1000 E
+S 755 E
+ East
+E 1200 N-57
+900 E
+075 E
+S 1075 E
+S 120 E
+500 E
+S 1040 E
+450 E
+S 500 E
+075 W
+170 E
+690 S
+E Wabash Street
+495 S
+S 170 E
+485 S
+ South
+Bayshore Lane
+N Woodruff Road
+220 E
+E 690 S
+S 180 E
+E 635 S
+W Co Line Road
+S 425 E
+E Myers Street
+790 S
+S 080 W
+S 455 E
+745 S
+S 150 E
+Co Road 895 E
+S 930 E
+E 660 S
+S 145 E
+600 E
+625 S
+1040 E
+980 E
+070 W
+S 085 E
+530 E
+660 S
+S State Road 9
+E 585 S
+S 185 E
+Willow Bend Drive
+E 750 S
+S 165 E
+W Dutch Street
+520 E
+E 560 S
+680 S
+1150 N
+S 178 E
+W 750 S
+S 520 E
+490 S
+E Chicago Street
+S 122 E
+215 E
+085 W
+Wabash Street
+E Co Road 800 S
+W County Line Street
+E 465 S
+550 S
+S 450 E
+State Road 9-57
+755 E
+1200 N
+E 435 S
+S 1100 E
+055 E
+Albany Street
+450 S
+090 E
+E 620 S
+State Road 3
+050 W
+S 530 E
+S 080 E
+S 00Ew
+E 430 S
+S 600 E
+172 E
+950 E
+168 E
+S 065 E
+135 E
+S 215 E
+Lovette Street
+960 E
+Cemetery Street
+Mill Street
+570 S
+065 E
+E Orange Street
+S 200 E
+945 E
+W 575 S
+060 E
+010 W
+S 090 E
+S 085 W
+E 475 S
+N Railroad Street
+N 175 E
+S 070 W
+S 075 E
+465 S
+E 625 S
+S 060 E
+W 625 S
+940 E
+145 E
+County Line Street
+640 S
+Park Street
+S 200 W
+E 300 S
+650 S
+S 070 E
+E 1150 N
+300 E
+2nd Street
+S 020 W
+Angling Road
+E 670 S
+E 500 S
+700 E
+770 S
+050 E
+635 S
+435 S
+E 775 S
+Taylor Street
+E 765 S
+W 590 S
+E Wolcott Street
+E 520 S
+S 210 E
+S 900 E
+S 082 E
+430 S
+765 S
+115 E
+S 940 E
+3rd Street
+Douglas Street
+County Line Road
+E 640 S
+E 535 S
+S 950 E
+575 S
+W Orange Street
+E 450 S
+S Albany Street
+Union Street
+S 172 E
+E 530 S
+Vine Street
+030 W
+E 600 S
+185 E
+120 E
+E 720 S
+020 W
+525 S
+ North
+080 E
+S 160 E
+W Co Road 800 S
+Wolcott Street
+S 195 E
+S 250 W
+S 300 E
+S 960 E
+210 E
+S 168 E
+S 115 E
+Main Street
+615 S
+Race Street
+S 050 E
+S 100 E
+State Road 9
+W Cemetery Street
+175 E
+E 700 S
+590 S
+585 S
+750 S
+550 E
+James Street
+122 E
+150 E
+Bay Lane
+100 E
+455 E
+560 S
+E 550 S
+580 S
+E 1050 N
+E 490 S
+400 E
+500 S
+ West
+E 580 S
+020 E
+S 075 W
+S 550 E
+S Co Road 890 E
+930 E
+S 175 E
+S 945 E
+S 220 E
+E 680 S
+Kelly Street
+Co Road 890 E
+S Co Road 895 E
+775 S
+Morell Street
+530 S
+N 4th Street
+S 010 W
+600 S
+S 400 E
+S 510 E
+E 665 S
+E 570 S
+E 480 S
+970 E
+Dutch Street
+475 S
+E County Line Road
+S Main Street
+125 E
+725 E
+Orange Street
+W 600 S
+400 S
+Albany
+00Ew
+W 700 S
+665 S
+County Road 425 S
+W 1200 N
+S 980 E
+E 485 S
+N Baseline Road
+Woodruff
+200 E
+480 S
+County Road 1200 N
+E 745 S
+Co Road 800 S
+E 1200 N
+425 E
+E 770 S
+520 S
+Dallas Bay
+100 W
+250 W
+180 E
+E 495 S
+Woodruff Road
+N Albany
+715 S
+620 S
+1200 N-57
+700 S
+S 020 E
+1000 E
+W County Line Road

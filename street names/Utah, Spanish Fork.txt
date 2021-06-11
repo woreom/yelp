@@ -1,0 +1,897 @@
+E 1450 S
+W 500 N
+E 1500 S
+Crosswind Drive
+S 1000 East Street
+S 130 E
+S Covered Bridge Drive
+S 100 W
+Spanish Oaks Drive
+S 700 E
+S 1320 E
+E 6800 South Street
+S 2250 East Street
+E 1200 S
+E 60 S Street
+W 4600 South Road
+W 5600 S
+S 2070 E
+S 2770 E
+N 1120 East Street
+S 2550 E
+S 1500 E
+W 7800 South Street
+S 690 E
+E 700 N
+S 2050 E
+S 500 East Street
+W 6800 S
+E 7650 South Street
+7900 South Street
+N 1420 E
+W 6250 South Street
+N 920 E
+S 1320 East Street
+E 290 N
+E 6400 S
+S 580 E
+Dover Drive
+Toronto Lane
+N Black Horse Loop
+S 300 West Street
+W 7800 S
+S 2000 East Street
+E 1380 South Street
+S 2950 E
+State Highway 77
+E 1370 S
+E 800 S
+N 1000 E
+S 2800 West Road
+E 100 South Street
+S 400 West Road
+E 200 North Street
+N 880 East Street
+S 2230 East Street
+S 1180 E
+S 1040 East Street
+E 550 South Street
+E 1180 South Street
+N 370 West Street
+N 1070 E
+S 2300 E
+E 400 South Street
+S 970 E
+S 1170 East Street
+E 1000 S
+E 60 South Street
+S 3200 W
+E 1750 S
+W 250 N
+S 2370 E
+E 550 North Street
+W 1400 North Street
+Kirby Lane
+E 1700 S
+S Fox Hill Drive
+N Rees Avenue
+Fairway Circle
+E 660 N
+W 6400 South Street
+S 3120 E
+E 1550 S
+W 920 S
+W 210 S
+E 410 S
+State Highway 214
+E 300 South Street
+S 2960 E
+S 800 W
+W 710 N
+S River Drive
+S 630 W
+S 1530 E
+E Canyon Crest Drive
+W 350 South Street
+S 1200 E
+W 2050 N
+S 3150 E
+W 550 North Street
+S 2650 W
+E 810 S
+N 1120 E Street
+S 2400 W
+E 1540 S
+River View Drive
+W 180 North Street
+E 660 North Street
+S 1850 West Road
+W 700 N
+E 1720 S
+W 5900 South Road
+S 590 West Street
+S Oak Ridge Drive
+E 160 S Street
+W 450 S
+W 300 N
+Mitchell Drive
+S 860 E
+N South Gate Loop
+W 6400 S
+E 740 S
+S 1560 East Street
+E 1600 South Street
+E 500 N
+E Deer Trail Drive
+S 1400 West Street
+Shurtz Trail Road
+S 950 W
+W 800 N
+S 1600 W
+S Fairway Lane
+W 180 S
+E 400 S
+E 1470 S
+E 1035 South Street
+S 4850 West Street
+W Volunteer Drive
+N 200 W
+S 1550 E
+S Oakview Lane
+S 820 E
+E 1470 South Street
+E 950 South Street
+E 1025 S
+W 6000 South Street
+W 350 North Street
+N Main Street
+N 860 West Street
+N 1000 East Street
+E 820 South Street
+N 300 W
+E Sterling Drive
+E 1320 S
+S 500 West Street
+E 500 North Street
+S 3300 West Street
+S 1600 E
+E 1000 North Street
+N 1110 E
+E 1350 S
+E Fairway Circle
+N 1650 E Street
+S 880 W
+N 500 East Street
+Spanish Trails Boulevard
+S 2490 E
+S 1200 W
+S 1480 E
+E 1850 South Street
+S 1000 E
+S 1660 East Street
+W 230 S
+E 1370 South Street
+S River Ridge Lane
+E 1050 S
+State Highway 198
+W 5000 South Road
+River Rock Road
+W 6800 South Street
+E 600 South Street
+W 480 North Street
+N 560 W
+W 1600 North Street
+E 1510 S
+E 8800 S
+E 1430 S
+Fairway Lane
+E Somerset Village Way
+E 150 S
+S 2280 W
+E 1130 North Street
+Southgate Loop
+W 7300 S
+Mountain View Drive
+S 1040 E
+S 1150 E
+W 5950 South Road
+N 1290 E
+W 250 North Street
+N 1590 E Street
+N 1290 East Street
+E 200 S
+S 500 E
+Childs Road
+S 2520 E
+S 3400 W
+E 120 South Street
+S 1660 E
+S 500 W
+del Monte Road
+E 720 South Street
+N 710 W
+E 1350 South Street
+Expressway Lane
+E 1420 S
+W 8600 S
+S 1300 East Street
+W 5950 South Street
+S 2990 E
+N 1280 E
+S 1250 East Street
+S 200 East Street
+N 920 W
+E 1850 S
+S 1100 W
+E Rio Grande Drive
+S 100 East Street
+W 5400 South Street
+E 1480 S
+S 1850 East Street
+E 1400 S
+S 590 W
+N 920 West Street
+Pole Canyon Road
+N 1210 E
+S 1800 East Street
+N 880 E
+S 300 W
+E 750 South Street
+S 800 E
+E 990 South Street
+S 2130 East Street
+E 1440 South Street
+S 3310 W
+Oakridge Drive
+S 800 East Street
+S 2700 East Street
+S 1230 E
+S 2060 E
+N 400 East Street
+S 1580 E
+S 1760 E
+S 1450 West Road
+E 10 N
+Oak Crest Circle
+S 2280 West Road
+W 2050 North Street
+E 130 North Street
+W 500 S
+W 390 S
+S Maple Drive
+W 520 S
+E 480 North Street
+W 5000 S
+Birch Drive
+S Wolf Hollow Drive
+S 2650 West Road
+S 6000 West Street
+E 1250 S
+E 1310 S
+S 2850 E
+S 2940 E
+Spanish Fields Drive
+S 650 West Road
+S 540 West Street
+S 2990 East Street
+E 1570 South Street
+S 750 W
+S 630 West Street
+E 1240 S
+E 1610 S
+N 1160 East Street
+S 1400 W
+E 1100 South Street
+Loafer Canyon Road
+E 900 S
+S 1060 E
+S 470 West Street
+E 230 S Street
+S 4850 W
+Willow Way
+Sandbar Way
+N 300 East Street
+Industrial Park Drive
+S 1450 East Street
+E 750 S
+S 1750 East Street
+S 2300 East Street
+S 2900 East Street
+Oak Haven Circle
+S 1170 W
+E 1120 S
+S 2000 West Street
+E 300 North Street
+E 1650 South Street
+S 2400 East Street
+Bullfrog Drive
+E 1660 S
+S 920 W
+River Drive
+S Oak Haven Drive
+E 1200 South Street
+S 4380 W
+E 1250 South Street
+N 800 East Street
+W 8060 S
+S 2480 East Street
+E 800 South Street
+S 1550 East Street
+E 570 N
+N Ridge Court
+N 710 West Street
+W 8200 S
+River Cross Road
+W 4780 S
+E 600 North Street
+W 350 N
+Zero Street
+W 100 S
+S 1740 E
+E 910 South Street
+E 920 S
+E 230 South Street
+S 2950 East Street
+E 7650 S
+E 230 S
+S 1900 E
+S 920 West Street
+S 1650 E
+N 800 West Street
+Maple Drive
+E Center Street
+E 600 N
+S 1360 E
+E 500 South Street
+N 1430 E
+W 390 N
+E 1570 S
+S 1360 East Street
+S 1800 E
+E 1150 S
+W 1000 N
+W 100 North Street
+W 8000 S
+W 7550 South Street
+N 800 W
+E 1700 South Street
+Burnell Road
+S 1100 E
+E 640 South Street
+S 1930 E Street
+US Highway 89
+S 2800 W
+N 630 West Street
+1600 W
+E 400 North Street
+E 850 S
+W 5200 S
+N 600 E
+S del Monte Road
+W 170 N
+W 6300 S
+S 600 East Street
+Cattail Drive
+S 530 E
+W 7550 S
+W 60 N
+N 200 East Street
+S 2600 East Street
+E 700 North Street
+S 3050 E
+E 810 South Street
+S 700 W
+S 3030 East Street
+W 470 N
+S 600 E
+N 1120 E
+3120 E
+S 2000 E
+E 200 N
+S 2380 E
+S 420 E
+S 2070 E Street
+N 450 W
+S 1720 W
+S 700 East Street
+E 8800 South Street
+Lily Pad Drive
+E Ridgefield Road
+S 3400 West Road
+S 3500 West Road
+N 860 W
+E 900 South Street
+E 1330 S
+W 200 S
+E 850 South Street
+E 570 North Street
+S 1400 E
+S 1050 West Street
+W 465 South Street
+E 900 N
+W 900 N
+N Ridge Way
+W 120 North Street
+N 630 W
+S 400 West Street
+N 300 West Street
+W 400 North Street
+S 1680 E
+E 1330 South Street
+N 900 East Street
+S 1780 E
+S 200 E
+W 100 N
+River Way Road
+E 550 N
+E 1660 South Street
+S 2970 E
+S 1340 East Street
+Fairway Drive
+S 2320 East Street
+Slant Road
+Dragonfly Lane
+S 2340 E
+E 410 South Street
+S 1200 East Road
+S 1700 East Street
+S 1880 East Street
+E 7200 S
+W 400 N
+E 1060 N
+S 850 E
+W 5600 South Street
+E 1520 S
+E 800 N
+W 6050 S
+E 1310 South Street
+Swenson Lane
+E 900 North Street
+N 970 East Street
+S 1400 East Street
+S 2190 East Street
+W 350 S
+N 700 East Street
+S 2510 East Street
+N 150 W
+E 1100 S
+S 100 West Street
+W Banks Road
+S 2550 East Street
+S 860 East Street
+N 1070 East Street
+465 S
+S Street
+W 200 South Street
+S Nebo Drive
+N 560 West Street
+S 770 East Street
+E Canyon Glen Loop
+S 1290 E
+E 1440 S
+S 1460 E
+E 1360 South Street
+E 200 N Street
+E 1800 S
+W 8400 S
+S 1580 East Street
+E 1800 South Street
+S 3310 West Road
+S 850 East Street
+Scenic Drive
+E 920 South Street
+E 1050 South Street
+S 1060 East Street
+E 780 South Street
+W 4600 S
+S 200 W
+E 300 S
+S Spanish Ridge Road
+S 2330 E
+E 100 S
+S 530 East Street
+S 3400 E
+S 2910 E
+Spanish Ridge Drive
+W 250 South Street
+S 540 W
+E 1060 North Street
+E 1580 S
+E Black Horse Loop
+E 500 S
+E Powerhouse Road
+S 1560 E
+E 1620 South Street
+S 1750 W
+S 4000 West Road
+S 1050 West Road
+W 7570 South Street
+S 1450 E
+S 2250 E
+S 630 E
+E 1790 S
+S 130 East Street
+E 480 N
+E 860 S
+S 1150 East Street
+W 520 North Street
+W 8200 South Street
+E 775 S
+N 1110 East Street
+S 1440 East Street
+W 5350 S
+E 1740 S
+US Highway 6
+E 175 N
+E 200 South Street
+W 180 N
+S 1530 East Road
+Bottoms Road
+Covered Bridge Drive
+W 200 N
+E 1180 S
+S 4800 West Street
+Lynnbrook Drive
+N 1690 E Street
+S 2450 E
+W 590 S
+E 1420 South Street
+E 8400 S
+S 2230 E
+E 100 North Street
+S 300 East Street
+S 2750 E
+S 400 East Street
+S State Road
+S 900 E
+S 1880 E
+7300 South Street
+S 1830 E
+W 900 South Street
+S 2700 E
+State Highway 147
+Benjamin Road
+E 1630 South Street
+E 1670 S
+S 2180 East Street
+E 100 N
+E 1760 South Street
+S 1520 East Street
+S Woodland Hills Drive
+S 2900 E
+S 1600 East Street
+South Lane
+Greens Lane
+S 970 East Street
+N 1270 East Street
+S State Street
+W 4400 South Street
+S 1850 W
+S 1960 E
+S 2400 E
+W Southfield Road
+E 640 S
+S 1550 West Street
+S 1850 E
+W 290 South Street
+E 1590 S
+State Highway 115
+N 1280 East Street
+S 1700 E
+N 700 E
+E 1400 South Street
+W 6050 South Street
+S 950 E
+S 1230 East Street
+E 1600 N
+Oak Haven Drive
+E 1130 N
+S 1270 E
+W 8000 South Street
+S 1800 East Road
+E 20 S
+S 2400 West Road
+W 500 South Street
+Hawk Drive
+N 400 W
+Lincoln Beach Road
+S 1340 E
+E 740 South Street
+N 1100 East Street
+W 900 S
+E Blackhorse Drive
+W 6930 S
+S 1650 East Street
+S 2700 West Street
+W 6970 S
+S 1550 W
+N 200 West Street
+S 2770 East Street
+N Blackhorse Drive
+W Mitchell Drive
+W 7900 S
+S 2450 West Street
+W 4780 South Street
+W 1600 N
+N 100 East Street
+N Diamond Fork Loop
+W 300 S
+E 950 S
+S 1420 E
+E 600 S
+E 130 N
+S 1430 E
+E 260 N Street
+S 1590 E
+W 5550 South Street
+S 1240 East Street
+S 2200 W
+E 320 N Street
+E 720 S
+E 1300 South Street
+E Flonette Avenue
+S 2000 W
+S 1200 West Road
+W 6300 South Street
+2600 W
+W River Hill Drive
+S 2250 E Street
+W 5400 S
+N 700 West Street
+S Cutbridge Slant Road
+E 1900 S
+S 300 E
+E 680 North Street
+S 980 East Street
+N 100 W
+Valley Drive
+W 8800 S
+Crosswinds Drive
+S 4800 W
+S 1170 E
+N 400 E
+S Stony View Drive
+E 6800 S
+S 2100 E Street
+E 1500 South Street
+E 1750 South Street
+E 910 S
+S 690 East Street
+S 1500 East Street
+E Southfield Road
+S 2410 E
+E 780 S
+S 2640 E
+W 200 North Street
+S 100 E
+S 1050 W
+W 400 S
+S 770 E
+E 440 N
+W 5200 South Street
+Dowmeys Lane
+E 1710 S
+E 700 S
+E 120 S
+Firefly Drive
+Quail Drive
+S 1450 W
+S 4500 W
+N 500 W
+S
+Chappel Drive
+S 2440 E
+E 160 S
+W 480 N
+W 7900 South Street
+S 4400 West Street
+S 1600 West Street
+W Center Street
+W 4800 South Street
+N 500 West Street
+S 2120 East Street
+470 W
+E 1620 S
+S 4000 W
+N 1270 E
+N 680 W
+N Mitchell Drive
+S 2450 W
+E 1170 South Street
+N 500 E
+E 1640 S
+W 4800 S
+W River Side Lane
+E 550 S
+S 2960 East Street
+Chapple Drive
+E 1520 South Street
+S 1290 East Street
+S 3050 East Street
+S 3800 W
+S 420 East Road
+S 950 East Street
+S Fairway Circle
+S 1280 W
+S 1440 E
+W 600 N
+Sterling Drive
+E 230 N
+S 2370 East Street
+E 1025 South Street
+E 260 N
+Palmyra Drive
+S 1300 E
+E 390 N Street
+E 1170 S
+S 2610 W
+S 3500 West Street
+E 1010 North Street
+S 2120 E
+S 1250 E
+E 150 South Street
+W 300 North Street
+E 1150 South Street
+E Stony Hill Way
+N 370 W
+E 1630 S
+River Ridge Lane
+E Fairway Lane
+S 2050 East Street
+S 1750 West Road
+W 800 North Street
+N 600 East Street
+E 1010 N
+E 1240 South Street
+E 280 S Street
+Oakview Lane
+S 2000 West Road
+E 680 N
+N 100 West Street
+S 1800 West Street
+E 180 South Street
+S 2630 West Street
+E Somerset Drive
+River Bottom Road
+N 300 E
+Villa Circle
+E 1600 S
+S 2320 E
+W 5950 S
+Mt Loafer Circle
+S 3200 West Street
+E 1320 South Street
+W 1900 N
+N 1360 E
+S 2640 East Street
+E 1360 S
+N 1100 E
+E 320 N
+S 1860 E
+W 700 North Street
+E 540 N
+S River Side Lane
+E 970 S
+S Mill Road
+Canyon Drive
+S 2510 E
+E 1460 S
+E 1000 South Street
+S 1150 West Road
+S 2180 E
+E Canyon Road
+S 460 W
+S 1270 East Street
+S 1520 E
+S Birch Drive
+E 1600 North Street
+E River Bottoms Road
+6800 South Street
+S 1700 W
+S Dixon Road
+S Conestoga Drive
+Anderson Road
+2630 W
+N 1160 E
+E 1130 S
+S 3600 W
+W 5350 South Road
+Mount Loafer Circle
+W 60 North Street
+E 390 N
+S 400 E
+E 440 North Street
+W 4400 S
+E 1300 S
+N 970 E
+W 900 North Street
+S 1200 West Street
+W 250 S
+W 8800 South Street
+E 800 North Street
+N Valley Drive
+S 3030 E
+S 6000 W
+W 500 North Street
+E Meadow Lark Lane
+W 520 N
+E 360 N
+S 2130 E
+S 3450 E
+W 600 North Street
+S 1480 East Street
+W 710 North Street
+S 1230 W
+Skylark Drive
+S Main Street
+Dairy Fork
+E 1530 South Street
+E 1380 S
+Mapleton Slant Road
+N 700 W
+S 1600 East Road
+W 8400 South Street
+E 820 S
+W 550 N
+W 8600 South Street
+S 980 E
+S 1800 W
+W 7570 S
+Sterling Circle
+E 1480 South Street
+E 180 S
+W 6000 S
+N 800 E
+W 6320 South Street
+S 3500 W
+E 60 S
+W 5300 South Road
+W River Ridge Lane
+S 200 West Street
+S 1100 East Road
+S 1990 E
+S 400 W
+S River Fork Road
+E 1710 South Street
+S 1240 E
+E 1530 S
+S 1327 W
+E 1590 South Street
+Calpac Avenue
+E 7200 South Street
+S 1920 E
+N 1700 E
+S 4400 W
+S 1100 East Street
+E 1000 N
+W 300 South Street
+W 260 N
+N 1400 E
+S 3800 West Road
+E 400 N
+S 1150 W
+S 3300 W
+W 4400 South Road
+Depot Road
+S 650 W
+S 900 East Street
+E 1610 South Street
+E 760 South Street
+S 2900 West Street
+S 1430 East Street
+S 2200 West Road
+S 2200 West Street
+N 900 E
+E 300 N
+E 870 S
+S 2600 E
+S 3600 West Road
+N 100 E
+Escalante
+S 2630 W
+N 200 E
+E 450 S Street
+E 1410 S
+E 1650 S
+S 800 West Road
+S 1180 East Street

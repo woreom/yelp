@@ -1,0 +1,225 @@
+N 615 E
+245 E
+N 465 E
+E 750 N
+350 N
+N 250 W
+100 E
+N 500 E
+375 N
+E 450 N
+200 W
+W 570 N
+W 640 N
+E 475 N
+235 E
+315 N
+320 E
+County Road 705 N
+N 950 E
+Park Street
+775 E
+300 W
+N 185 W
+N 375 E
+N 190 W
+650 N
+N 020 W
+770 N
+310 E
+E 700 N
+1060 E
+N 250 E
+W 600 N
+400 W
+1st Street
+600 E
+410 N
+W 450 N
+300 E
+2nd Street
+570 N
+Co Road 815 N
+N 065 E
+State Road 120
+290 W
+700 E
+County Road 305 E
+W Co Road 815 N
+300 N
+475 N
+ West
+E 375 N
+020 E
+Broad Street
+050 E
+W 635 N
+W 639 N
+E 480 N
+210 W
+480 N
+7th Street
+N 225 E
+190 W
+N 1050 E
+450 N
+N 205 E
+312 E
+750 N
+N 300 E
+N 245 E
+County Road 100 W
+695 N
+Defiance Street
+4th Street
+Meadowbrook Lane
+375 E
+500 N
+550 N
+635 N
+County Road 420 N
+700 N
+N 1100 E
+N 315 E
+E 540 N
+W 350 N
+N Co Road 800 E
+600 N
+E Co Road 800 N
+205 E
+N 235 E
+215 E
+6th Street
+N 780 E
+185 W
+N 390 E
+N 525 E
+230 E
+Co Road 850 E
+639 N
+N 170 W
+250 E
+N 325 E
+N 050 E
+N 010 W
+3rd Street
+E 600 N
+W 700 N
+540 N
+N 50 E
+N 310 E
+270 E
+485 N
+Co Road 800 N
+N 750 E
+325 N
+W 300 N
+190 E
+N 610 E
+225 E
+N 700 E
+E 500 N
+Hillside Drive
+Front Street
+105 E
+Market Street
+1100 E
+Union Street
+N 215 E
+390 E
+N 475 E
+N 400 W
+640 N
+170 W
+N 600 E
+375 W
+N 200 W
+State Road 3
+E 695 N
+E 315 N
+E 325 N
+575 N
+615 E
+N 230 E
+N 270 E
+Pleasant Lane
+575 E
+125 E
+5th Street
+E 485 N
+N 300 W
+Washington Street
+725 E
+N 190 E
+W Co Road 800 N
+E 200 N
+N 160 W
+525 E
+N 450 W
+N 145 W
+145 W
+W 550 N
+E 410 N
+N 320 E
+200 N
+610 E
+N 725 E
+950 E
+N Market Street
+325 E
+Co Road 800 E
+ East
+Poplar Street
+W 750 N
+020 W
+W 770 N
+ North
+N 210 W
+900 E
+405 N
+610 N
+N 105 E
+065 E
+400 N
+N 290 W
+N 020 E
+N 1060 E
+N 125 E
+Williams Street
+500 E
+250 W
+W 575 N
+E 400 N
+W 400 N
+N 312 E
+South Street
+750 E
+475 E
+150 W
+N Co Road 850 E
+Wayne Street
+175 W
+465 E
+N 900 E
+N 175 W
+E 300 N
+ South
+720 E
+010 W
+50 E
+N 720 E
+W 610 N
+N 775 E
+N 100 E
+450 W
+780 E
+N 375 W
+State Road 9
+S Poplar Street
+315 E
+160 W
+N 150 W
+E 405 N
+W 650 N
+1050 E
+N 575 E

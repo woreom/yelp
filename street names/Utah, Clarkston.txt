@@ -1,0 +1,101 @@
+W Center Street
+S 300 W
+N 7000 W
+S 100 W
+N 6800 W
+W 9200 N
+W 8200 N
+N 9000 W
+W 6200 N
+N 7600 W
+S 200 W
+E 300 S
+W 10200 N
+Fielding Road
+W 11800 N
+E 100 S
+N 8900 W
+W 7400 N
+N 8600 W
+W 13400 N
+W 10600 N
+N 8200 W
+Harts Grave Road
+W 11000 N
+W 10400 N
+N 8700 W
+W 10000 N
+W 13200 N
+N 8000 W
+Cott Street
+N 6400 W
+W 200 N
+W 9700 North Street
+W 9900 N
+State Route 23
+W 13000 N
+W 6600 N
+W 14200 N
+Stink Creek Road
+W 10300 N
+Center Street
+7200 N
+N 8400 W
+W 100 S
+Creamery Road
+W 9700 N
+W 9600 N
+W 14700 N
+W 8600 N
+Dirty Head Road
+E Center Street
+N 10800 W
+N 7300 W
+Anderson Road
+W 7700 N
+W 10500 N
+N 6300 W
+W 300 N
+N 8800 W
+State Route 218
+N 6000 W
+W 7900 N
+W 12400 N
+W 7000 N
+W 9400 N
+N 5300 W
+N 400 W
+N 7200 W
+N Main Street
+S Main Street
+N 6200 W
+W 300 S
+W 12000 N
+6200 W
+N 8100 W
+6800 W
+5700 W
+W 200 S
+N 10400 W
+N 9200 W
+S 400 W
+S 200 E
+Hart's Gravel Road
+W 100 N
+W 10100 N
+W 13600 N
+8500 N
+N 100 W
+State Route 142
+E 200 S
+Harris Grave Road
+N 7900 W
+W 7800 N
+W 9950 N
+W 9500 N
+N 100 E
+S 100 E
+Long Divide Road
+N 200 E
+W 10700 N
+N 11200 W

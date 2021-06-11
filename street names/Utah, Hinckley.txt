@@ -1,0 +1,55 @@
+W 500 N
+W 300 N
+W Center Street
+W 2000 S
+E 750 N
+N 11000 W
+N 7000 W
+N 7400 West Street
+E 500 N
+N 250 W
+N 4000 W
+N 300 E
+N 6000 W
+S 4000 W
+S 550 West Street
+N 500 E
+S 100 W
+US Highway 50
+US Highway 6
+W 100 N
+S 6000 W
+W 200 N
+W 750 North Street
+W 2500 N
+W 500 South Street
+W 3800 N
+W 4500 N
+N 400 W
+N 100 W
+N 200 W
+S 1000 W
+State Route 64
+E 400 N
+W 400 N
+E 2000 S
+W 600 North Street
+W 700 North Street
+N Main Street
+S Main Street
+E 100 N
+W 200 S
+W 1500 N
+E 300 N
+Main Street
+W 3000 N
+S 350 W
+N 100 E
+State Route 257
+W 1750 N
+N 200 E
+E Center Street
+W 3500 N
+N 7500 W
+N 500 W
+N 6250 West Street

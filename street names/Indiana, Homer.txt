@@ -1,0 +1,15 @@
+W State Road 44
+255 S
+250 S
+725 W
+S 725 W
+County Road 235 S
+State Road 44
+W 255 S
+ West
+ South
+Hurst Cemetary Road
+W 250 S
+S 715 W
+S Hurst Cemetary Road
+715 W

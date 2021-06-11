@@ -1,0 +1,156 @@
+W 4700 S
+5050
+W 5375 S
+White Rail Lane
+S 7100 W
+S 4400 W Street
+W 4800 S
+S 6700 W
+S 5275 W
+W 5600 S
+S 3800 W
+S 4950 W
+S 5250 W
+S 5050 W Street
+N 5500 W
+S 4300 W
+W 4200 S
+W 5000 S
+S 5100 West Street
+N 5000 W
+S 4550 W Street
+S 4875 W Street
+W 4600 S
+S 5300 W
+S 4600 W Street
+S 4925 W
+S 4525 W Street
+S 5050 W
+S 6050 W Street
+W 4275 S
+W 5150 S
+4200 South Street
+S 5225 W
+W 5100 S
+S 6450 W
+S 6800 W
+W 5625 S Street
+W 5675 S Street
+5725 S
+W 5300 S
+S 6150 W Street
+W 5300 S Street
+W 4050 S Street
+S 5000 W
+S 7500 W Street
+S 6500 W
+S 6250 W Street
+S 5800 W
+W 5350 S
+W 5200 S Street
+W 5500 S
+W 4725 S
+5900 South Street
+W 3700 S
+W 5800 S
+W 5950 S
+S 5600 W
+W 1925 N
+W 5750 S Street
+N 6150 W
+W 5325 S Street
+4300 West Street
+Kanesville Meadows Lane
+S 4650 W Street
+S 5150 W Street
+S 3675 W
+S 5400 W
+S 4100 W Street
+W 4525 S
+W 3625 S
+W 3900 S
+W 4825 S
+W 5825 S
+3925 South Street
+W 4425 S
+S 3600 W
+S 6400 W
+S 7500 W
+W 5875 S
+5200 S
+4800 South Street
+W 5800 S Street
+N 6000 W
+S 4450 W
+S 6100 W
+S 6000 W
+W 5725 S
+N 5300 W
+W 4000 S
+W 3800 S
+W 5200 S
+W 4250 S
+S 4300 W Street
+6300 West Street
+N 6500 W
+S 3750 W
+3900 South Street
+S 4925 W Street
+W 5700 S
+N 4500 W
+W 5450 S
+S 4700 W
+S 5300 W Street
+W 5900 S
+W 5125 S
+S 4375 W
+S 5950 W
+State Route 37
+W 4175 S
+W 4325 S Street
+S 5350 W
+S 4325 W
+S 4525 W
+S 3500 W
+W 3700 S Street
+W 2425 N
+S 5225th Street W
+3900 West Street
+S 6950 W
+S 6125 W
+S 6300 W
+E 5900 N
+S 5100 W
+W 4950 S
+S 4400 W
+S 4325 W Street
+S 4600 W
+N 5600 W
+W 5375 S Street
+S 4800 W
+S 3900 W
+W 5600 S Street
+W 5850 S
+S 5375 W
+S 5500 W
+S 4425 W Street
+W 3925 S
+W 4325 S
+S 4550 W
+W 5850 S Street
+W 5750 S
+W 4825 S Street
+W 5050 S
+S 4300 West Street
+W 5350 South Street
+W 4350 S
+S 5825 W Street
+S 5950 W Street
+W 4450 S
+S 5700 W
+S 6950 W Street
+S 5725 W Street
+S 4500 W
+S 6150 W
+5100
+S 5900 W

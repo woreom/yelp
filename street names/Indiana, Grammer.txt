@@ -1,0 +1,21 @@
+355 S
+E 355 S
+S 1010 E
+365 S
+995 E
+E 365 S
+345 S
+1010 E
+E 340 S
+E 350 S
+S 990 E
+350 S
+340 S
+S 995 E
+ South
+990 E
+County Road 1000 E
+E 345 S
+1000 E
+S 1000 E
+ East

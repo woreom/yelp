@@ -1,0 +1,599 @@
+Prospect Avenue
+White Pine Court
+Mars Court
+Norwalk Lane
+Tower Place
+Branch Drive
+Tree Top Terrace
+Woodrow Lane
+Lorraine Court
+Cambridge Drive
+Singer Lane
+Talbot Lane
+Scott Drive
+Sandy Hollow Drive
+Rose Court
+Edison Place
+Timber Croft Way
+Three Pond Road
+Harloquin Drive
+Elm Avenue
+Whispering Woods Drive
+River Road
+Northside Circle
+Argyle Place
+Grand Street
+Harvard Avenue
+John Street
+Rotondi Court
+Buxton Way
+Kings Highway
+Mt Pleasant Road
+Wichard Boulevard
+Cedar Drive
+Howell Drive
+Sweetbriar Drive
+Churchill Lane
+Gorham Lane
+Dehan Street
+Bowers Court
+Old Hauppauge Road
+Oak Avenue
+Eton Path
+Hempstead Avenue
+State Route 25
+Cypress Court
+Summit Drive
+Blydenburg Avenue
+E Hill Drive
+Woodland Drive
+W Jericho Tpke
+Franklin Street
+Timothy Court
+Wheelright Way
+Prescott Lane
+Winslow Lane
+Monroe Court
+Magnolia la
+Burham Drive
+Hindes Court
+Format Lane
+Teapot Lane
+Basswood Lane
+Larch Lane
+Standish Place
+Leslie Court
+Kingfisher Drive
+Frank Street
+Brilner Drive
+Manor Road
+Bank Avenue
+Hamilton Street
+Marcella Court
+Mayflower Avenue
+Salt Hay Way
+Valley Avenue
+Cleveland Place
+Welsley Lane
+Hunter Drive
+West Avenue
+Bow Drive E
+Florence Avenue
+Ingelore Court
+Asbury Drive
+Canter Court
+Larsen Avenue
+Colonial Road
+Coolidge Place
+Jennifer Road
+Fairoak Lane
+Wyandanch Boulevard
+Iona Lane
+Broadway Avenue
+Pine Ridge Drive
+Flamingo Drive
+Fir Lane
+Sylvan Road
+Stone Gate Court
+Judges Lane
+Coe Court
+Wadsworth Place
+Laurene Court
+Cornwall Lane
+Taft Drive
+Reeves Street
+ East
+Moonlit Court
+Terrace Lane
+Looking Glass Court
+Aberdeen Road
+Pia Boulevard
+Sheryl Cres
+Barry Lane
+Jerome Street
+New Highway
+Redwood Lane
+Penn Drive
+Dorchester Road
+High Gate Drive
+Links Road
+Jericho Tpke
+Middle Country Road
+Lizetta Street
+Old Landers Court
+Veronica Court
+Winston Drive
+Laurel Drive
+Brook Lane
+Loft Road
+Hill Gate
+Charter Lane
+Linden Place
+Hurtin Boulevard
+Arthur Drive
+ South
+Woodhollow Road
+Daphne Place
+Bezel Lane
+Romeo Drive
+Mike Lane
+Roosevelt Drive
+Kent Place
+Foothill Lane
+Oak Tree Drive
+Central Road
+Haskel Lane
+County Road 15
+Raynors Way
+Carnegie Drive
+Blackman Street
+Lot Road
+Smithtown Boulevard
+Fairview Street
+Woodland Lane
+Grassy Lane
+Plaza Drive
+Maylin Court
+Rice Lane
+Stony Hill Path
+Priscilla Road
+McArthur Lane
+Burham Court
+Cross Street
+Bass Court
+Monitor Road
+Doe Court
+Kim Avenue
+Hill Lane
+Cedar Street
+Sandy Drive
+Kohlsaat Court
+Oreste Street
+Hemlock Lane
+Karl Avenue
+Maple Avenue
+Hilltop Drive
+Hadley Drive
+Colgate Drive
+Merrivale Drive
+Wood Lane
+Dorchester Court
+Steven Place
+Smithtown Cres
+Alberta Court
+Jillit Drive
+County Road 87
+Prospect Street
+Scarborough Drive
+Cherry Lane
+Landing Meadow Road
+Tanglewood Drive
+Veterans Highway
+Colonial Drive
+Clark Street
+Pond Path
+Thrush Drive
+Franklin Drive
+Steven Pl W
+Madison Street
+Grassy Pond Drive S
+Hillspark Lane
+Edgewood Avenue
+Higbie Drive
+Rosalia Court
+Clover Drive
+Oakside Road
+Manor Place
+Parnell Drive
+S Gate
+Edgar Drive
+Lindron Avenue
+Long Hill Road
+Bradley Court
+Aron Street
+State Route 111
+Ingram Court
+Lincoln Street
+Hillcrest Drive
+Smithtown Byp
+Wagon Wheel Court
+West Court
+Glacier Drive
+Cornell Avenue
+Seaver Lane
+Percy Avenue
+Whisper Lane
+Plaza Court
+Fulton Avenue
+Sandalwood Drive
+East Lane
+Wayside Lane
+Bayberry Lane
+Sandpiper Court
+Executive Court
+Hemlock la
+E Hill Gate
+Gazebo Lane
+Morewood Drive
+Morgan Court
+Birchbrook Drive
+Washington Avenue
+Poplar Drive
+Abbot Road
+Townline Road
+Lonni Lane
+W Pond Court
+Claremont Court
+Lincoln Avenue
+Park Court
+State Route 454
+Five Acre Court
+Belmont Drive
+Country Road
+Sunset Lane
+Mill Dam Road
+Dana Lane
+Hickory Lane
+Mount Pleasant Road
+Fawn Place
+Knollwood Lane
+Lawrence Avenue
+Leahs Court
+Roundabout Road
+Fair Oaks Lane
+Hunter Place
+Hollywood Drive
+Gardiner Road
+Nowick Lane
+Ridge Road
+Westbrook Lane
+Hillcrest Drive W
+Half Acre Court
+Buttonwood Path
+Saint Nicholas Avenue
+Pond Court
+St Johnland Road
+Lilac Lane
+Smithtown Islip Townline Road
+Erita Lane
+Tishner Lane
+Supreme Court
+Coventry Lane
+Crystal Court
+Brook Court
+Estate Road
+Villa Lane
+Friendly Road
+Croft Lane
+Verdi Street
+Privet Court
+Sutton Place
+Marlan Court
+Hiawatha Lane
+Hanover Place
+Meadow Road
+Beverly Road
+Bellemeade Avenue
+W Main Street
+Summerset Drive
+Fordham Drive
+Helen Avenue
+Weston Lane
+Neil Drive
+White Birch Court
+Lexington Avenue
+Vernon Place
+Mobrey Lane
+Elliott Place
+County Road 16
+Avalon Circle
+Caroline Avenue
+Devon Lane
+Lower Road
+Pond View Lane
+Alpine Court
+N Country Road
+River Heights Court
+Averly Place
+South Avenue
+Sycamore Place
+4th Avenue
+Dale Lane
+Oxford Lane
+Hawkins Avenue
+Oakside Drive
+Tiffany Lane
+Stacey Lane
+Legend Court
+Plaisted Avenue
+5th Avenue
+Ridgeley Road
+Broadway
+Horseshoe Circle
+Bonny Court
+Head of the River
+Teal Lane
+Shirley Court
+Monroe Street
+New York Avenue
+Lanenne Court
+Wildwood Lane
+Periwinkle Court
+Willow Ridge Drive
+Ardra Court
+North Avenue
+Community Drive
+Hills Park Lane
+Thatch Pond Road
+Hazel Drive
+Cornell Ct S
+Siracusa Boulevard
+Holly Drive
+Einstein Place
+Quaker Lane
+Ursular Court
+Cornell Drive
+John Jones Lane
+Knoll Lane
+Traister Court
+Pironi Court
+Henlee Court
+Wild Run
+Washington Boulevard
+Thomas Place
+Darling Avenue
+Waverly Avenue
+Old Willets Path
+Amsterdam Road
+Moore Street
+Sherbrooke Drive
+Overhill Drive
+Leslie Lane
+Ray Lane
+Ward Drive
+Dove Lane
+Village Way
+State Route 347
+Fairview Avenue
+Hofstra Drive
+Lynch Lane
+6th Avenue
+Bianco Court
+George Street
+Ash Court
+Blanchard Street
+Hawthorne Drive
+Potter Court
+Thide Court
+Pineacre Drive
+Miller Place
+Sundale Court
+Dunedin Street
+N Ingelore Court
+Shelly Court
+Albatross Lane
+Bridle Path Road
+Landing Avenue
+Mc Lain Drive
+Whitney Court
+Rutgers Street
+Lynam Court
+Easton Avenue
+ North
+Hauppauge Road
+Sterling Lane
+Norton Drive
+Rogers Lane
+Berkley Place
+Hill Drive
+State Route 25A
+Terry Road
+Briaroot Drive
+Wandering Way
+Georgetown Place
+Wisteria Court
+Cottontail Court
+Lone Oak Path
+Nissequoque River Road
+County Road 76
+Dartmouth Drive
+Annette Avenue
+Belford Lane
+Dogwood Drive
+E Main Street
+Sammis Street
+Nissequogue River Road
+Twilight Lane
+Southern Boulevard
+Stanwich Road
+Landing Road
+Ivy Hill Drive
+Elizabeth Avenue
+Patricia Court
+Wayfarer Lane
+Main Street
+Stengel Place
+Graystone Lane
+Andrea Lane
+Atterbury Drive
+Dawn Drive
+Strongs Court
+Elayne Court
+Crawford Street
+Navy Drive
+William Street
+Hallock Avenue
+Grandview Lane
+Sheppard Lane
+Greenbelt Court
+Kent Court
+White Oak Drive
+Wesleyan Road
+Howard Court
+Wood Duck Court
+Mark Drive
+Miller Road
+Hauppauge Boulevard
+Rhoda Avenue
+Carriage House Road
+Weatherstone Way
+Willow Street
+The Spout
+Trent Lane
+Daisy Lane
+Columbus Avenue
+Gilbert Avenue
+Plymouth Boulevard
+Schubert Drive
+Redan Drive
+Millerridge Lane
+Princeton Avenue
+Knob Hill Drive
+Sunrise Lane
+Dillmont Drive
+Iris Lane
+Larkspur Drive
+Glamore Court
+Valleywood Road
+Bridge Branch Road
+Harding Street
+Oak Street
+Chester Street
+ West
+Cygnet Drive
+Branch Brook Drive
+Laconia Place
+Highgate Court
+Cedar Ridge Avenue
+Arthur Place
+Brooksite Drive
+Forest Lane
+Brasswood Lane
+Riviera Drive
+Kensington Drive
+S Lot Road
+Pond Lane
+7th Avenue
+Ramondo Lane
+Stuyvesant Lane
+Trent Court
+Eckernkamp Drive
+Colony Court
+Fifty Acre Road S
+Annetta Avenue
+Candlelight Court
+Sybil Place
+Noel Place
+Tall Tree Lane
+Rose Street
+North Lane
+Hayloft Court
+Walnut Street
+Paddington Circle
+Holly Lane
+Burlington Boulevard
+Derby Place
+Ledgewood Drive
+Tyler Road
+Shady Lane
+Spruce Court
+Grant Avenue
+Washington Court
+Evergreen Avenue
+Harcourt Avenue
+Rowan Street
+Nesconset Highway
+Cornell Ct N
+Hidden Ponds Circle
+Spruce Street
+New Mill Road
+Quincy Lane
+Eden Drive
+Grassy Pond Drive
+Mallard Lane
+Mulberry Drive
+Nesconset-Port Jefferson Highway
+Yellow Top Lane
+Ellbert Street
+Clearbrook Drive
+Platt Avenue
+Cornell Drive S
+Chelsea Drive
+Amherst Lane
+Catherine Avenue
+Hancock Street
+Creek Road
+Seaver Court
+Martha Lane
+Belinda Court
+Carrie Court
+Wesleyan Court
+Everett Place
+Baylor Drive
+Bridlepath Road
+Haven Lane
+Larson Avenue
+Legion Drive
+Leonard Street
+Windmill Court
+Juniper Avenue
+Ruth Street
+Marquette Drive
+Salt Box Court
+Barton Lane
+Meyer Lane
+Landing Meadows Road
+Valant Court
+Whitney Gate
+Gate
+Cakewalk Terrace
+Edgewater Avenue
+River Heights Drive
+Riverview Terrace
+Rose Lane
+S Pond Lane
+Bishops Road
+Nadia Court
+Astor Place
+Saxon Court
+Theodore Street
+Vassar Place
+Cresthill Place
+Barnes Street
+Demont Street
+Blydenburgh Avenue
+Jefferson Place
+Gedney Avenue
+Purdue Lane
+Greenwich Road
+Lindner Place
+Vistas Circle
+Alice Lane
+Pantzer Street
+Concord Lane
+Lehigh Drive
+Crescent Place
+Percy Street
+Cortland Row
+Everit Place
+Cindy Street

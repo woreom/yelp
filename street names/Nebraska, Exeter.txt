@@ -1,0 +1,105 @@
+Rd A
+Rd B
+W Boundary Street
+S East Boundary Street
+Boundary Street
+S East Boundary Avenue
+W Cheyenne Street
+Rd 17
+Rd X
+West Boundary Street
+E Cheyenne Street
+W Osceola Street
+South Depot Street
+County Road 476
+W Arapahoe Street
+N Union Avenue
+State Highway 74
+Rd K
+Rd J
+E Tecumseh Street
+East Boundary Street
+ West
+Rd D
+W South Boundary Street
+South Boundary Street
+Road S
+River Avenue
+E Boundary Street
+N Burlington Avenue
+Osceola Street
+US Highway 6
+N Depot Street
+W North Boundary Street
+N Empire Avenue
+W Tecumseh Street
+Rd 1
+N Exeter Avenue
+Empire
+E Liberty Street
+Otoe Street
+Rd U
+S Empire Avenue
+S Union Avenue
+Road W
+N West Boundary Street
+S West Boundary Avenue
+Union Avenue
+N Missouri Avenue
+Rd 3
+Tecumseh Street
+S River Avenue
+E Otoe Street
+Exeter Avenue
+Rd 18
+Osage Street
+W North Depot Street
+East Boundary Avenue
+Rd V
+Maplewood Street
+Rd 2
+Rd 23
+W Kiowa Street
+E Boundary Avenue
+Rd 21
+W Otoe Street
+Rd C
+E Osage Street
+Depot Street
+S Burlington Avenue
+W South Depot Street
+Burlington Avenue
+West Boundary Avenue
+Rd 20
+Rd 4
+E Kiowa Street
+E Osceola Street
+Boundary Avenue
+S Exeter Avenue
+Missouri Avenue
+E Arapahoe Street
+ East
+S Boundary Street
+Cheyenne Street
+ North
+W Maplewood Street
+E Maplewood Street
+W Seneca Street
+Arapahoe Street
+Rd 19
+N River Avenue
+Rd T
+Seneca Street
+W Liberty Street
+Empire Avenue
+Liberty Street
+North Boundary Street
+North Depot Street
+E Empire
+ South
+Kiowa Street
+S Depot Street
+N Boundary Street
+S Missouri Avenue
+476th
+E Seneca Street

@@ -1,0 +1,99 @@
+N 50 W
+25 W
+E Co Road 875 N
+Co Road 200 W
+S 3rd Street
+W 950 N
+Co Road 950 N
+N Cottonwood Lane
+Cottonwood Lane
+S Co Road 51 E
+N Orchard Drive
+Ammernam Drive
+Co Road 100 E
+E Co Road 950 N
+1st Street
+High Street
+E Rodgersville Road
+Old Road
+W North Street
+County Line Road N
+2nd Street
+Ecord 950 N
+Luray Road
+N Hickory Lane
+Stapleton Drive
+E Co Road 650 N
+ West
+N Prairie Road
+Co Road 175 E
+N Co Road 200 W
+W Co Road 950 N
+S Stapleton Drive
+W Co Road 850 N
+Prairie Road
+North Street
+4th Street
+50 W
+950 N
+Co Road 250 E
+E Edgewood Drive
+Edgewood Drive
+E Co Road 800 N
+S 2nd Street
+E Co Road 800 S
+Wildwood Drive
+Co Road 750 N
+N Co Road 50 W
+3rd Street
+Old State Highway 3
+N 50 E
+N 25 W
+Co Road 800 N
+East Street
+Church Street
+Memorial Drive
+Co Road 700 N
+W Vine Street
+Rodgersville Road
+N Co Road 250 E
+S Old State Highway 3
+N Co Road 100 E
+Co Road 150 E
+E Luray Road
+State Road 3
+W Co Road 650 N
+Mound Street
+N Co Road 175 E
+Vine Street
+N Co Road 300 W
+W Co Road 800 N
+Hickory Lane
+N 2nd Street
+E Sycamore Drive
+E Co Road 700 N
+ East
+E Co Road 750 N
+ North
+N Co Road 150 E
+Co Road 850 N
+Co Road 51 E
+Co Road 800 S
+Sycamore Drive
+Co Road 50 W
+E Wildwood Drive
+E County Line Road N
+Orchard Drive
+N Co Road 100 W
+Co Road 300 W
+S Old Road
+Crossover
+ South
+50 E
+Main Street
+N Memorial Drive
+W Main Street
+Co Road 875 N
+S 4th Street
+Co Road 650 N
+Co Road 100 W

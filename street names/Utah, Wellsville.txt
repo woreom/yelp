@@ -1,0 +1,146 @@
+S 4200 W
+W 4700 S
+W 500 N
+S 2600 W
+State Route 101
+S 4000 W
+W 8500 S
+100 E
+200 W
+S 3000 W
+S 5200 W
+N 390 W
+W 5600 S
+2400 W
+300 W
+6600 S
+S 3800 W
+Meridian Road
+W 4200 S
+W 5000 S
+S 200 W
+300 S
+W 6800 S
+S Center Street
+W 2900 S
+300 E
+500 S
+E 100 S
+S 1400 W
+E 900 S
+S 2700 W
+E 800 S
+Rte 1170
+S 5750 W
+S 2900 W
+S 60 W
+W 2100 S
+W 6500 S
+W 2200 S
+S 5800 W
+W 1130 S
+W 2125 S
+S Aspen Way
+N 300 E
+W 2400 S
+W 200 N
+S 3200 W
+W 3700 S
+W 5800 S
+Center
+State Route 23
+S 1250 W
+W 750 S
+S Pelican Pond Road
+W 8200 S
+W 100 S
+E 100 N
+S 5400 W
+N Center Street
+S 2650 W
+S 450 E
+W 3500 S
+S 3700 W
+S 2400 W
+W 3900 S
+E 600 N
+S 3600 W
+W 1270 S
+W 300 N
+W 235 N
+US Highway 91
+Old Sardine Canyon Road
+600 S
+E 500 N
+W 3000 S
+S 1600 W
+S 6000 W
+US Highway 89
+S 2800 W
+W 4000 S
+W 3800 S
+N 200 W
+S Aspen Way W
+W 900 S
+W 1960 S
+Young Ward Road
+5500 S
+W 1600 S
+W 5700 S
+800 S
+E 200 N
+S 140 W
+400 S
+N 160 E
+W 3200 S
+200 E
+S 2000 W
+W 6000 S
+W 3050 S
+W 6100 S
+W 2000 S
+W 800 S
+S 3500 W
+N 150 E
+200 S
+W 3400 S
+235 N
+S 200 E
+W 5400 S
+W 100 N
+Johnson Ridge Lane
+W 3100 S
+760 S
+S 4400 W
+W 3600 S
+N 100 W
+S 4600 W
+W 8800 S
+S 4800 W
+100 W
+E 400 N
+W 400 N
+S 3300 W
+S 3400 W
+E Main Street
+S 3100 W
+W 2600 S
+Brush Pile Road
+S 1900 W
+700 S
+N 900 E
+E 300 N
+Aspen Way
+S 1100 W
+W Main Street
+N 100 E
+S 100 E
+W 4300 S
+Red Slide Circle
+N 200 E
+S 2500 W
+S 5700 W
+Red Slide Drive
+S 4500 W
+S 1450 W
+Juniper Court

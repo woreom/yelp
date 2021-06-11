@@ -1,0 +1,19 @@
+W Center Street
+S 360 East Street
+US Highway 50
+S 100 W
+S 200 E
+N 100 W
+N 200 W
+S 200 W
+E 300 South Street
+300 West Street
+E 500 North Street
+N 8800 East Street
+N 100 E
+S 100 E
+S 360 E
+N 200 E
+E Center Street
+S State Street
+N State Street

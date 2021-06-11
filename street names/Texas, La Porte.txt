@@ -1,0 +1,616 @@
+Parkway Drive
+la Porte Fwy
+Sunset Ridge Street
+Nugent Street
+N D Street
+N Country Club Drive
+Fondren Road
+S 3rd Street
+Youpon Drive
+Andrews Court
+Elizabeth Lane
+Spruce Drive N
+Elmwood Lane
+Loc Loma Lane
+Luella Boulevard
+Bayou Drive
+11th Street
+S Oak Street
+Alvy Drive
+Y
+1st Street
+la Porte Highway
+Hollow Tree Street
+Bonner Drive
+Baywood Street
+Shadow Creek Drive
+Birdie Circle
+Rustic Gate Road
+Broadway Street
+Meadowlawn Avenue
+E Avenue X
+Hillridge Road
+Old Underwood Road
+Andricks Road
+Boyette Street
+Oak Leaf Avenue
+Teakwood Drive
+Silver Springs Drive
+N Utah Street
+Carroll Street
+W Plantation
+Old Desert Road
+Pine Bluff
+N Iowa Avenue
+Tejas Court
+Bay Forest Drive
+Defiance Street
+4th Street
+S Brownell Avenue
+Hillsdale Street
+Tara
+Oakhurst Street
+Teakwood Drive W
+Bay Shore Drive
+E Barbours Cut Boulevard
+Sioux Drive
+Shell Rock Road
+Roseway
+N 12th Street
+S Ohio Avenue
+Seagrove Avenue
+Collingswood Drive
+N Avenue P
+State Highway 146 Svc Road N
+Spencer Lndg E
+Pecan Crossing Lane
+Parkway Street
+Choctaw Drive
+S Battleground Road
+S Ohio Street
+Clairmont Lane
+F Street
+Park Lane
+Bexar Drive
+W B Street
+16th Street
+N Bayshore Drive
+Clarksville Street
+N Brownell Avenue
+N Nugent
+S Broadway Street
+Beechaven
+Hamilton Street
+Wayside Drive
+9th Street
+Jimmie Lane
+W H Street
+Rock Springs Drive
+Brookview Drive
+N 11th Street
+13th Street
+Vista Road
+Circle Drive
+Robin Street
+Garden Walk Drive
+H Street
+N 1st Street
+Woodland Court
+Powell Road
+Mohawk Drive
+N 16th Street
+S 11th Street
+Bayou Glen Drive
+Gaucho Circle
+Glencrest Drive
+W Polk Street
+Laura Lane
+N 2nd Street
+E E Street
+Falk Court
+Ashwyne Court
+Shore Acres Circle
+W O Powell Road
+Briar Creek Drive
+Caddo Court
+Coral Drive
+Spencer Landing Lane
+Summer Breeze Drive
+Patty Lane
+State Highway 146D Bus
+ East
+Wichita Drive
+Troons
+S Blackwell Avenue
+E 8th Street
+Cherry Court
+Mission Drive
+N 14th Street
+Spencer Landing Drive
+S X
+Barbours Cut Boulevard
+Rustic Rock Road
+Desirable Drive
+Thrush Street
+Thornwood Drive
+E Desert Drive
+Fieldcrest Street
+Gaucho Drive
+Miramar Drive
+Mary Lane
+County Road 3203
+Bay Oaks Road
+Canada
+Hedgestone Court
+ South
+Youpon Street
+S Maple Street
+E P Avenue
+Tree Hollow Circle
+Meadow Lark Lane
+Oregon Street
+Otter Creek Drive
+P Street
+Teakwood Drive E
+Bayshore Drive
+Bayside Drive
+Mesquite Drive
+Blackwell Avenue
+S Nugent Street
+Bull Run Street
+Lemon Lane
+Cypress
+Duane Street
+Orchard Lane
+Winding Trail Road
+Pecan Drive
+W Lomax Drive
+Oakdale Street
+Duane Drive
+Wooddrift Lane
+Sycamore Drive S
+Carlisle Street
+E A Street
+Cedar Street
+Desert Run Drive
+E G Street
+Stonemont Road
+Birch Drive
+N 7th Street
+Heather Springs Street
+N Shady Lane
+Idaho Street
+S Y
+Plainbrook Street
+N Carroll Street
+O Powell Road
+L Street
+State Highway 146
+S Oleander Street
+W Tyler Street
+Street
+Seagrove Street
+Ohio Street
+8th Street
+Barton Court
+E Bayou Drive
+Josh Way
+Easy Street
+Willow Creek Drive
+Holmes Street
+10th Street
+Carlow Lane
+Scotch Moss Lane
+Stone Creek Drive
+7th Street
+Pecan Circle
+Shadylawn Avenue
+Bay Colony Circle
+Spruce Drive S
+Jamie Court
+Valley Brook Drive
+Madison Street
+Canyon Springs Drive
+S Iowa Avenue
+County Road 190
+Lazy Brook Lane
+N 9th Street
+Bois D Arc Drive
+15th Street
+State of Texas Vista Road
+Spencer Lndg N
+Conifer
+Brook Meadow Drive
+Lobit Avenue
+Edgewood Street
+Gladwyne Lane
+Graywood Court
+Beaver Creek Drive
+S Carroll Street
+Miller Cut Off Road
+S 10th Street
+Meadow Crest Street
+Farrington Boulevard
+Fern Rock Drive
+Underwood Road
+Iowa Avenue
+Elmwood Avenue
+Pinewood Court
+Brookwind Drive
+Wilson Road
+Fountain Drive
+S R Street
+Monument Road
+Appomattox
+Old Orchard Road
+E Lomax Drive
+Oakdale Avenue
+Myrtle Creek Drive
+Beech Cove Street
+Glenvalley Drive
+Layne Court
+Ridgefield Road
+Coupland Drive
+S 16th Street
+Spencer Lndg S
+N E Street
+Old Hickory Lane
+17th Street
+N Broadway Street
+Polk Street
+Park Drive
+Bogey Circle
+Wilson Avenue
+C Street
+Beech Cove
+Hummingbird Street
+Spencer Highway
+5th Street
+Gladwyne Court
+W Country Club Drive
+Collingswood Road
+Rosewood Court
+Clairmont Drive
+W A Street
+S A Street
+Golden Street
+N 6th Street
+E Fairmont Pkwy
+Avenue P
+Pine Creek
+Sugar Creek Drive
+E B Street
+Barracuda Lane
+Bay Street
+W E Street
+Summer Winds Drive
+Willow View Street
+Aspen Drive
+Bonner Street
+Green Meadow Drive
+Crescent Drive
+Cypress Cove Street
+Rosemont Drive
+W Bayou Drive
+Briar Glen Lane
+Antrim Lane
+Browning Lane
+Fairwood Drive
+Glenpark Drive
+Fairway Drive
+Shore Acres Boulevard
+Piney Brook Drive
+Main Highway
+Country Club Drive
+S Utah Street
+Creel Circle
+P Avenue
+Sugar Hill Drive
+Mulberry Court
+Hunters Field Lane
+E H Street
+S 6th Street
+E F Street
+Beach Street
+S Kansas Avenue
+S 7th Street
+W Main Street
+Westview Street
+N Avenue H
+Charmont Road
+S 4th Street
+Dry Springs Drive
+Flintlock Road
+Shady Tree Lane
+Creekview
+Sparrow Street
+Eagle Lane
+Eastwick Lane
+Oak Leaf Street
+N 13th Street
+Roscoe Street
+Dover Hill Road
+Travis Street
+Blazing Star Drive
+McCabe Road
+Sunrise Drive
+Vinsonia Street
+Cammy Lane
+Old la Porte Road
+Kensington Court
+Park Circle
+Sea Breeze
+Sylvan Street
+23rd Street
+Oleander Street
+Barmont Drive
+2nd Street
+Archway Drive
+Bayridge Road
+Sullivan Lane
+Cullen Court
+S Shady Lane
+Bandridge Road
+Blackwell Street
+Kevin Court
+Cedarmont Drive
+Barry Oaks Court
+Airport Boulevard
+Crestway Drive
+S Idaho Street
+Browning Street
+Belfast Road
+Barrybrook Lane
+Linwood Court
+Brookside Drive
+Par Circle
+G Street
+South Virginia Street
+Fairfield Street
+Tarpon Lane
+Sullivan Street
+Glenview Court
+Foxglove Drive
+N 3rd Street
+Dwire Drive
+Fairmont Pkwy
+Oakmont Street
+Jefferson Street
+E Plantation Drive
+W Plantation Drive
+Mocking Bird Lane
+Oak Creek Drive
+Bonita Lane
+S 9th Street
+Duane Lane
+Arizona Street
+Avenue H
+Windleaf Drive
+State Highway 225
+3rd Street
+Blue Bird Street
+Barry Oaks Lane
+Oak Grove
+Somerton Drive
+N P Street
+E D Street
+Shirley Lane
+Villa del Rancho
+Sycamore Drive N
+X
+Fondren Street
+Desert Drive
+Pine Trail
+Layne Street
+Elmhaven Road
+Meadow Place Drive
+Ridgecrest Drive
+Eagle Run Street
+Bay Oaks Drive
+14th Street
+Cardinal Street
+Cottonwood Drive
+N Farrington Street
+Oleander Avenue
+Shady River Road
+Maple Street
+W G Street
+Adams Street
+Hackberry Street
+S Wilson Street
+Westview
+Robinson Road
+Bowie Drive
+Sandy Lane
+Alvin-Manuel Road
+Caplan Street
+Seguin Court
+Lazy Pine Lane
+Old Hickory Drive
+S Lobit Avenue
+Strang Road
+N Holmes Street
+Fairfield Avenue
+Farrington Street
+ North
+Littlebrook Road
+Maplewood
+Oakhaven Road
+N Blackwell Street
+S C Street
+N Circle Drive
+Mossey Drive
+W Barbours Cut Boulevard
+Pawnee Drive
+Rocky Hollow Road
+Stuart Court
+A Street
+Santa Anna Lane
+Cedar Cove Street
+N 23rd Street
+Oaken Lane
+Parkcrest Drive
+Dogwood Drive
+E Main Street
+E X Street
+Juniper
+Ashton Lane
+Milam Drive
+Idlewood Drive
+Reynolds Court
+State Spur 501
+Linwood Drive
+R Street
+Collingsdale Road
+Main Street
+Glenmeadows Drive
+N 10th Street
+Sens Road
+S Holmes Street
+Wayside Road
+Cypress Lane
+Dolphin Lane
+Howald Street
+Glenbay Court
+Lomax Drive
+Valley View Drive
+Grove Street
+Bayou Forest Drive
+Wilson Street
+W Main Highway
+Kansas Avenue
+Wood Drift Lane
+Spencer Lndg W
+Crockett Drive
+Tanya Drive
+W D Street
+Dogwood Court
+Brownell Avenue
+Wharton Weems Boulevard
+Lomax School Road
+Weatherford Street
+Country Club
+Buchanan Street
+E P Street
+S Bayou Forest Drive
+Wren Street
+Forest Street
+Oak Street
+ West
+Houston Drive
+San Jacinto Drive
+Sandy Court
+Ohio Avenue
+Cypress Street
+Donaldson Street
+Pine Bluff Street
+Venture Lane
+Nugent
+Meadow Park Drive
+Sky View Lane
+Roseberry Drive
+Redbud Drive
+River Creek
+la Porte Municipal Airport
+Byway Avenue
+Golden Lane
+Deaf Smith Street
+S 17th Street
+Valley Brook Court
+6th Street
+Primrose
+S 2nd Street
+San Saba Court
+Shady Lane
+S 13th Street
+State Loop 410
+Travis Drive
+Meadowlawn Street
+Ivy Drive
+N 4th Street
+N Avenue L
+Oakwood Drive
+Archway Court
+Plantation Drive
+Southbrook Drive
+S 8th Street
+Virginia Avenue
+S Wilson Avenue
+Redbud Drive W
+Battleground Road
+Montgomery Lane
+Mulberry Drive
+Battleview Road
+Garfield Street
+N Country Club
+Catlett Lane
+N 5th Street
+W Fairmont Pkwy
+Bayer
+D Street
+Idlewood Court
+Dry Desert Way
+W F Street
+E Plantation
+Plantation
+Humphreyville Street
+Oakmont Drive
+Shadylawn Street
+X Street
+Glenview Drive
+Mahan Drive
+S 14th Street
+King William Drive
+Erin Court
+Bernard Street
+Falk Avenue
+McCarty Lane
+Fairbrook Lane
+Avington Road
+Avenue X
+Greenleaf Lane
+Roscoe Drive
+Utah Street
+S Country Club Drive
+S 15th Street
+Bay Colony Drive
+Forest Avenue
+Avenue L
+B Street
+Fieldcrest Drive
+Marlin Lane
+S 1st Street
+W C Street
+12th Street
+Bay Harbor
+Tyler Street
+Montana Street
+San Jacinto Street
+Chattanooga
+Fountain Street
+Quiet Hill Road
+Hazel Street
+Ridgepark Drive
+Brookwood Drive
+E Country Club Drive
+Dry Sand Drive
+Heather Spring Drive
+North Virginia Avenue
+E C Street
+S 5th Street
+Ashwyne Lane
+Burkett Drive
+E Street
+Sailfish Lane
+S Jamison Street
+Jamison Street
+Davis
+N L Street
+Ridgevalley Drive
+Willmont Road
+N 8th Street
+Alamo Drive
+Lee Avenue
+N C Street
+Maple Creek Drive
+Parkmont Drive

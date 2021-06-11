@@ -1,0 +1,395 @@
+E 1900 N
+W 500 N
+W Willow Valley Drive N
+Centerville Commons Way
+N 50 W
+W 1500 N
+N 250 W
+S 700 E
+Elbert Avenue
+1325 W
+E 1200 S
+N 950 E
+Creekview Circle
+Deerfield Drive
+W 280 S
+650 N
+N 670 W
+E 700 N
+N 425 W
+State Route 106
+Oakcrest Circle
+E 650 S
+Canyon Breeze Drive
+N Mountain View Drive W
+W 1375 N
+W 1465 N
+W 650 S
+N 150 East Street
+S 150 W
+W 1750 N
+E 800 S
+340
+N 255 W
+Sunrise Circle
+Windsor Court
+W 1475 N
+325
+W 780 S
+W 550 S
+W 1450 N
+W 1850 N
+Ford Canyon Drive
+E 650 N
+E 1700 S
+N 650 W
+Ford Canyon Xing
+E Courtyard Lane
+Center Street
+N Talbot Drive
+S 800 W
+N Frontage Road
+Saddlewood Circle
+W 710 N
+Rolling Hills Drive
+N 750 W
+Park Lane
+W 300 N
+W 425 S
+N 610 E
+N 125 W
+E 500 N
+S 225 E
+E 400 S
+Casa Loma Drive
+S 75 W
+N 200 W
+775
+W 1250 N
+E 1250 N
+S Paradiso Lane
+N Main Street
+W 1800 N
+N 300 W
+W Creekview Drive
+Camille Circle
+E 1300 N
+S 600 W
+610 East Street
+E Pages Lane
+E Parrish Lane
+Doris Circle
+Sheridan Circle
+E 1700 N
+N Shadow Mountain Circle E
+Pony Express Way
+E 200 S
+W 1175 N
+W Willow Wood Drive N
+N 550 E
+W 850 N
+W 2080 N
+Wil Mar Place
+E 2050 N
+160 W
+S 300 W
+S 800 E
+E 250 N
+Oakridge Drive
+Island View Circle
+W 1350 N
+Sienna Lane
+W 500 S
+W 1480 N
+N 75 W
+E Antelope Drive S
+Market Place Drive
+S Courtyard Lane
+N 310 W
+W Churchill Drive N
+Windsor Lane
+E 900 S
+Bamberger Way
+S 350 W
+N Parkway Drive W
+W 1400 N
+Kit Carson Circle
+Willow Bend Drive
+Brookside Lane
+Cherry Lane
+Tobe Drive
+W 1700 S
+W 925 N
+N 70 W
+W Parrish Lane
+N 425 E
+Venenzio Lane
+Casa Loma Circle
+Jim Bridger Drive
+Homestead Circle
+Villiage Square Road
+Paradiso Lane
+Mountain View Road
+N 170 W
+E Center Street
+W 1000 N
+N 800 W
+S 675 W
+W Chase Lane
+W 1700 N
+N 475 E
+E Chase Lane
+E 850 S
+N 600 E
+Powell Avenue
+Florentine Way
+S 600 E
+W Sunset Circle
+W 1875 N
+E 200 N
+S 140 W
+N 450 W
+N 550 W
+W Jim Bridger Drive N
+Poplar Circle
+W 900 N
+E 900 N
+N 225 W
+Sunset View Circle
+W 1045 N
+N Brookhurst Circle W
+400 N
+S 200 E
+W Willow Valley Circle N
+W 115 N
+London Road
+400
+Brookhurst Circle
+W 2075 N
+W 400 N
+Estella Circle
+Park Place Lane
+1000 S
+S 850 E
+Lewis and Clark Circle
+Aspen Way
+N 900 W
+W 850 S
+E 475 S
+1600
+N 180 E
+Williams Lane
+N 175 E
+W 1650 N
+N 150 W
+W 725 N
+W 925 S
+Hillside Circle
+Hillgate Way
+W 650 N
+Walton Lane
+W 1050 N
+S 650 E
+E Worsley Lane N
+N 1100 W
+W 950 N
+N 850 E
+Old Farm Circle
+625
+E Bernard Street N
+Island View Drive
+E 300 S
+W 555 N
+W 775 N
+E 100 S
+N 275 W
+Jennings Lane
+W 680 N
+2025 North Street
+Harriger Way
+Doris Street
+Linda Loma Drive
+Jeffrey Drive
+N 225 E
+Pheasantbrook Circle
+W 200 N
+Courtyard Lane
+Porter Lane
+N 525 W
+Willow Circle
+Adams Circle
+W 50 S
+E 100 N
+Willow Wood Drive
+E 775 N
+Fairview Road
+W 1125 N
+W Parrish Lane N
+E 1375 N
+Cara Vella Lane
+W 850 N Circle
+Ricks Creek Way
+N 325 E
+N 350 W
+Pheasantbrook Drive
+S Florentine Lane
+N Churchill Drive W
+Country Circle
+Cherrywood Circle
+N 70 West Street
+N 700 E
+Meadow Lane
+Nola Drive
+Country Springs Drive
+Applewood Drive
+E 725 S
+N 400 W
+Pitford Drive
+S Frontage Road
+Brookfield Lane
+E 1875 N
+W 1470 N
+Cottonwood Drive
+Walker Lane
+Parkside Circle
+N 275 E
+W 1600 N
+E 950 S
+E 600 S
+W 1420 N
+Patty Drive
+W 1440 N
+Canyon Way
+Churchill Drive
+Hughes Street
+Willow Ridge Circle
+E London Road N
+N 600 W
+Carrington Lane
+E 1825 N
+N 1000 W
+Waller Lane
+E 1400 N
+S 250 W
+S 300 E
+N 125 E
+N 100 W
+Valley Drive
+S 325 W
+1050
+N 400 E
+S 475 E
+Frontage Road
+N 645 W
+Main Street
+E 625 N
+Old Haul Road
+S 100 E
+W 1550 N
+W 400 S
+Lund Lane
+E 700 S
+Nola Circle
+Roland Way
+N 500 W
+Balsam Drive
+N 500 E
+Suncrest Circle
+E 550 S
+E 1975 N
+Pheasant Way
+Briarwood Drive
+W 2150 N
+Creek View Road
+W 1300 Circle N
+W 1300 North Circle
+N 250 E
+Pebblewood Lane
+N 650 E
+Rosewood Circle
+W Lund Lane
+W 275 N
+1475
+900 North Street
+Gallop Circle
+475
+Ford Drive
+W 1425 N
+750
+2150 South Street
+N 300 E
+W 1900 N
+W 1925 N
+N 740 W
+E 540 N
+Willow Valley Drive
+Ridgeline Circle
+Estelle Drive
+N 220 E
+W 975 S
+1825 North Street
+Stagecoach Circle
+Fox Court
+300
+W 1825 N
+N 50 E
+Rock Manor Drive
+Freemont Circle
+Bellano Way
+W 75 N
+S 400 E
+Creekside Lane
+1875 North Street
+N Willow Valley Drive W
+W Porter Lane
+N Shadowwood Drive W
+Deer Hollow Circle
+125
+Peachtree Drive
+Willow Vale Circle
+E 850 N
+E Rock Manor Drive N
+Parkway Circle
+N 700 W
+N Shadow Wood Circle W
+W 600 S
+E 820 S
+W 550 N
+W 700 S
+W 1200 N
+Mountain View Circle
+800
+W 1950 N
+Milky Way
+N 75 E
+N 150 E
+S 400 W
+Bradley Drive
+E 1200 N
+N 575 W
+Bonita Way
+N Roberts Road W
+760 S
+Pages Place Drive
+W 1625 N
+E 1000 N
+Lakeside Drive
+W 625 N
+W 2025 N
+E 400 N
+N 1250 W
+E 2150 S
+E 1100 N
+Sunset View Drive
+E 825 N
+E 300 N
+Escala Lane
+Rawlins Circle
+Park Hills Drive
+N 725 W
+N 100 E
+E 735 S
+N 200 E
+N 350 E
+W Jennings Lane N
+N Applewood Drive W

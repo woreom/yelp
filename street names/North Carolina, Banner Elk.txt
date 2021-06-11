@@ -1,0 +1,827 @@
+Tweetsie Trail
+Raintree Lane
+Silver Springs Drive W
+Smith Cemetery Road
+Norwood Hollow Road
+Skiview Road
+T E Cannon Road
+Rominger Road
+Fox Hollow Drive
+Chestnut Way SW
+Foxgrape Hollow
+Winding Trail
+Denali
+Banner Elk Highway
+Skiway Circle
+Sage Willow Way
+Teaberry Trail
+Shelby Street
+Spruce Hollow Road
+E Blueberry Lane
+Mountain Vista Lane
+Woodwinds Lane
+Punkin Center
+Ford Arnette Lane
+Meadow Avenue Lp
+Tara Drive
+S Slope Loop
+Beach Road
+Broadstone Road
+State Road 1333
+Beech Haven Road
+Chestnut Way Road
+Summit Trail
+State Road 1169
+Elk Lane
+Rock Spring Circle
+Camp Rainbow Road
+John Erwin Road
+Dogwood Lane
+Valley High
+Meadow Avenue
+State Road 1128
+Mariah Circle
+Hickory Nut Gap Road
+Bluebird Court
+Lake Ledge Circle
+Highland Drive
+State Road 1337
+Chestnut Mountain Road
+Ed Perry Lane
+Running Deer Road
+Aldridge Park
+Yosemite Road
+Laurel Lane
+Sugar Look Lane
+Valle Vista Drive
+Glove Factory Lane
+Dunbarten Drive
+Gualtney Road
+Poplar Road
+State Road 1151
+Shawneehaw Hts
+Stonebridge Lane
+Webb Creek Road
+Putter Point Road
+Ashebrooke Drive
+Adams Apple Drive
+Wood Lily Lane
+Hanging Rock Villas
+Eagle Rock Road
+Grannybranch Drive
+Cook Alley
+Castlerock Drive
+Laurabbey Lane
+Columbine Lane
+Valley Creek Lane
+Old Mountain Road
+Blackberry Trail
+Oz Circle
+Spice Apple Way
+Creekridge Road
+Frank Mast Road
+Dunbarton Drive
+Ladys Slipper Lane
+Huckleberry Lane
+Grassy Gap Loop Road
+Locust Ridge Road
+Toboggan Lane
+Cherokee Court
+Villa Casa Avenue
+Greenhouse Road
+Rock Brook Court
+Dewitt Barnett Road
+Crestview Lane
+Edgar Tufts Road
+Little Boulder Lane
+Brookview Lane
+Bear Cave Trail
+Mossy Creek Lane
+Woodridge Road
+State Road 1511
+Park Lane
+State Road 1153
+Taylor-Rose Lane
+Seminole Trail
+Shomaker Road
+Bullthistle Road
+Ryans Place
+Eagles Nest Trail
+Springhollow Road
+Hawks Bill Drive
+Lois Lane
+Joe Pye Lane
+State Highway 194
+The Oz Road
+Snow Fox Lane
+Ash Lane
+Snow Goose Lane
+The Ponds Road
+State Road 1129
+Hillside Drive
+Chestnut Ridge Trail
+Clubhouse Drive
+Hickory Court
+Laurel Court
+Apple Hill Road
+Branlair Drive
+Hopson Street
+Red Bank Road
+Devils Den Road
+Upper Snowbird Trail
+Beech Mountain Pkwy
+Winter Haven Lane
+Summit Park Place
+Beach Mt Road
+Larkspur Lane
+Harlen Lane
+Kellersville Road
+Linville Falls Highway
+Mac Lane
+Slopeside Drive
+Berry Road
+Voncannon Hill Lane
+Pasture Lane
+State Road 1369
+Dutch Creek Exn
+Glendale Place
+Falcon View Drive
+Raven Ridge Road
+Keeth Drive
+Owl Circle
+Reece Farm Road
+State Road 1127
+Wildwood Run
+Balm Highway
+Lakeledge Road
+Dobbins Road
+State Road 1170
+Hawks Peak Lane
+Cloudrise Lane
+Burton Lane
+Bradley Boulevard
+Emerald Forest Road
+High South Lane
+Spicewood Lane
+Wild Iris Lane
+Craggy Pointe
+Main Street W
+Windridge Road
+Hanging Rock Place
+Creekside Drive
+Sawmill Branch Road
+Elk River Pkwy
+Chestnut Road
+Sleepy Hollow Lane
+Cross Creek Trail
+Rock Cliff Lane
+Ramsey Hollow Lane
+Townsend Mt Road
+Chesnut Mountain Road
+Cucumber Tree Lane
+Fox Run Road
+Green View Drive
+Deer Creek Falls Drive
+State Road 1122
+Ramsey Lane
+Burl Watson Road
+Slope View Road
+Aldridge Road
+Floral Lane
+Marlow Hill Road
+Boulder Gardens Road
+Braswell Hill Road
+Laurel Drive
+Cherry Gap Road
+Shagbark Road
+State Road 1139
+Joe Townsend Road
+Rock Ledge Lane
+Summit Ledges Lane
+Club House Drive
+Wild Daisy Lane
+Woodland Way
+Divot Drive
+Mission Ridge Road
+White Pine Trail
+Doe Lane
+Little Lake Drive
+Cardinal Court
+Little Harbor Court
+Millers Mountain Trail
+Elk Creek Drive
+Sugar Tree Lane
+Dunvengan Drive
+Banner Grande Lane
+Jaybird Lane
+Skiway Road
+Rime Frost
+Red Delicious Lane
+Mockingbird Lane
+Elk Hills Drive
+State Road 1358
+Swiss Lane
+Michael Lane
+Saint Andrews Road
+Pinnacle Road
+Summit Road
+Village Cluster Road
+Farm Crest Court
+Thistle Lane
+Shawnee Road
+Snowflake Road
+Pepper Place Lane
+Highland Lane
+Lake Road
+Skyview Lane
+Top of Seven Drive
+White Hawk Lane
+Windy Way
+Orchard Lane
+Laurel Creek Road
+Black Bear Drive
+Beucus Lane
+Banner Road SW
+Mountain Flower Drive
+Snowbird Lane
+Wood Thrush Way
+Arrowhead Road
+Charlie Hicks Road
+Grandfather Farms Road
+Blevins Road
+Moonlight Trail
+Hallelujah Trail
+Cynthia Lane
+Elkview Place
+Basswood Road
+Skiloft Road
+Cabin Ridge Road
+Hodges Lane
+Whispering Woods Lane
+Shaggy Bark Lane
+Maple Court
+Ladyslipper Lane
+Hemlock Hill Road
+Liberty Lane
+Skiway Lane
+Shelter Rock Circle
+State Road 1510
+Peak View Lane
+Overbrook Knoll Road
+N Hickory Lane
+Snow Cloud Drive
+US Highway 221
+Laurel Ridge Lane
+Pittman Lane
+Chalet Drive
+Presnell Road
+H C Presnell Lane
+Red Tailed Hawk Road
+George Eggers Road
+Knoll Court
+Maplewood Lane
+Valley View Road
+E Shamrock Lane
+Rough Ridge Road
+Woods Lane
+Grandfather Road
+Green Briar Road
+Brookside Lane
+Guignard Lane
+Kaylor Lane
+Lower Grouse Ridge Road
+Old Tpke Road E
+State Road 1594
+Bridle Trail Road
+Slopes Road
+State Road 1332
+Hummingbird Road
+Clawson Lane
+Puckett Road
+Smith Drive
+Pleasant Valley Road
+Ruby Lane
+Spice Creek Road
+Pond Creek Road
+Tynecastle Drive
+Tate Drive
+Golf Lane
+Forest Ridge
+Ford Armett Lane
+Andrews Road
+Sunshine Drive
+Edgecliff Lane
+Fawn Lane
+The Overlook Road
+Ridge Haven Pkwy
+Rocky Road
+Tyneloch Drive
+Worley Road
+Rhododendron Drive
+State Road 1166
+William Townsend Road
+Lower Snowbird Lane
+Tanager Trail
+Grandfather Circle
+W Blueberry Lane
+Arbordale Church Road
+High Lowe Lane
+Maple Drive
+Summit Park Drive
+Castlefern Drive
+Upper Fox Run
+Snow Plow Lane
+Emerald Lane
+Linksider Lane
+Sugar View Trail
+State Road 1152
+Apple Cove Road
+Chinkapin Ridge Road
+State Road 1560
+Victor Farthing Road
+Golf Course Road
+Pheasant Lane
+Glenwood Lane
+Poplar Drive
+Overbrook Trail
+Edge Field Court
+Otter Court
+Trout Pond Lane
+Wildfern Way
+Rocky Top Road
+Wild Apple Drive
+Greencove Drive
+Sugar Mountain Drive
+Beadwood Lane
+Forest Run
+State Road 1126
+Willow Way SE
+Lake Drive
+Green Ridge Lane
+Leatherwood Road
+Wakely Way
+Monroe Herman Road
+Owl Hollow Road
+Seven Devils Road
+Indian Trail
+Valle Trail
+Penny Lane
+Groundhog Trail
+Sugar Bear Ridge Lane
+White Cloud
+Horney Hollow Lane
+Woodfern Road
+Wild Turkey Lane
+Woodland Road
+Evans Way
+Rock Cove Court
+Abby Lane
+College Drive SW
+Sourwood Lane
+Cottage Court
+Shawneehaw Avenue
+Lee Gualtney Road
+Bealers Drive
+Dogwood Road SE
+Belle Drive
+Woodhaven Drive
+Hornbeam Road
+Woodwinds Circle
+Red Oak Road
+Bluestone Wild Road
+Daisy Trce
+Birch Run
+Fairway Drive
+Little Sugar Lane
+State Road 1138
+Church Hollow Road
+Dutch Creek Road
+Tom Shook Road
+Gillium Road
+Green Cove Road
+W Tweetsie Lane
+Grandfather View Street
+Old Locust Lane
+Breezy Lane
+Daisy Ridge Road
+Gilliam Road
+Darby Lane
+Lyerly Way
+Briarwood Lane
+Frosty Lane
+Crest Road
+Raccoon Road
+Gwyn Lane
+The Glenns Boulevard
+Elk Horn Road
+Hilltop Road
+Sugar Ridge Lane
+Charlie Ward Road
+Little Tree Lane
+Beech Mtn Road
+Hemlock Hills Road
+The Glens Boulevard
+Boulder Shadow Lane
+Main Street E
+Dell Road
+Taylor Road
+Green Meadow Lane
+Isle of Skye
+Charter Hills Road
+Anheuser Ridge Road
+Snow Summit Lane
+Pond View Lane
+Memory Lane
+Fox Meadow Road
+Enchanted Woods Road
+Northridge Road
+Park Road
+Cloudland Drive
+Dandelion Lane
+Reece Road
+Klonteska Drive
+Swamp Boy Road
+Casey S Gap
+Clear Sky Trail
+Marlowe Hill
+Townsend Lane
+Bobby Hodges Lane
+Tiffany Lane
+Raven Road
+Mountain Home Road
+Cliffwood Drive
+Dr Perry Road
+Old Crows Road
+Crooked Creek Lane
+Elk River Road
+Northridge Lane
+Jennings Lane
+State Road 1116
+Bladen Road
+Hade Smith Drive
+Mariposa Lane
+Cliffdwellers Lane
+Faculty Hill Road
+Cricket Way
+Shanty Ridge Lane N
+Windy Knoll
+Sugar Ski Drive
+State Road 1206
+Andy Hicks Road
+Trammel Lane
+Ridgeline Drive
+Wiley Harmon Road
+Hawksbill Drive
+State Road 1134
+Wren Way
+Grouse Court
+Longview Court
+State Road 1328
+Tumbling Brook Road
+Indian Paintbrush
+Edgecliff Drive
+Moss Ridge Road
+Old Horse Bottom Road
+State Road 1364
+Oliver Hill Road
+Puddingstone Pkwy
+Wild Acres Road
+Birchwood Lane
+Squirrel Corn Lane
+Tamarack Lane
+Meadowview Circle
+Watauga Avenue
+Fox Meadow Lane
+Devils Lake Drive
+Perry Presnell Road
+Nettle's Ridge Road
+Aster Trail
+Balsam Lane
+Knoll Lane
+Ralph Gualtney
+Arnett Road
+Outback Lane
+Red Fox Lane
+Ironwood Drive
+Valle Cay Drive
+S Indian Trail
+Hall Court
+Ira Presnell Road
+Elderberry Ridge Road
+Rosebay Way
+Parallel Road
+Pinola Lane
+Bear Paw Path
+Cope Hollow Road
+Cloud Spring Drive
+Chime Hill Drive
+Highland Circle
+Grassy Gap Creek Road
+Woodthrush Way
+Spring Branch Road
+Galax Lane
+Leslie Lane
+Banner Creek Road
+Tangle Lane
+Meadow Lane
+Library Lane
+Moss Tree Lane
+Old Shulls Farm Road
+Hemlock Spring
+Letterfen Drive
+State Road 1341
+Beechwood Lane
+Lovie Presnell Road
+McGuire Mountain Road
+Buckeye Lane
+Beech Vw
+Pilot Ridge Road
+Pleasant Vw
+Sugar Maple Lane
+River Bluff Drive
+Elk Ridge Farm
+River Knoll Drive
+Tamarack Road
+Hermitage Lane
+Tempcopy Street
+Moores Mountain Fork Road
+Squirrel Lane
+Sugar Mountain Road 1
+Robin Lane
+Village Creek Road
+Townsend Mtn Road
+Hemlock Place
+Autumn Path
+Mogul Road
+Spice Trail
+Grouse Moor Drive
+1327
+Harmon Road
+Hemlock Circle
+Marlen Lane
+Williams Pride Road
+Loy Lane
+State Road 1130
+Dugger Drive
+Knob Hill Lane
+Spice Lane
+Bass Trail
+Bridle Spur Lane
+S Slope Circle
+Shadow Mountain Lane
+Cornerstone Circle
+Sugar Creek Lane
+Sunset Strip
+Rocky Top Trail
+Beech Top Road
+Summer Sweet Drive
+Windy Knob Trail
+Big Sky Lane
+Village Road
+Rocky Road Exd
+Cherrybrook Lane
+Azalea Way
+Jackpine Road
+Farm Lane
+River Run Road
+State Road 1112
+Bagpipe Way
+Oz Road
+Fern Lane
+Old Hartley Road
+Castle Hill Drive
+State Road 1157
+Four Diamond Drive
+State Road 1342
+Hearthstone Lane
+Teaster Valley Lane
+Swamp Box
+Deergrass Road
+Derby Lane
+Lower Crab Orchard Road
+Wildcat Rocks Road
+Old Frosty Lane
+Doc Byrd Road
+Meadow Park Place
+Skalley Branch Lane
+The Overlook
+Horse Bottom Road
+Julia Pearson Road
+Dovick Road
+State Road 1338
+Justus Road
+Oak Road
+Cliffside Lane
+Trl End
+Miners Ridge Trail
+Trace Ridge Drive
+Deepwood Court
+Brown Trout Road
+Green Cliffs Road
+Hillcrest Lane
+Upper Grouse Ridge Road
+Clarks Creek Road
+Wildwood Court
+Deer Run
+Jason Townsend Road
+Clubhouse Road
+Cut Laurel Lane
+Elk Knob Drive
+Robert Cook Lane
+Fox Paw Road
+Greenview
+Ayers Road E
+S Hickory Lane
+Dogwood Trail
+Woodwinds Court
+Hawthorn Road
+Pinetop Circle
+Hanging Rock Estates Lane
+Tyneridge Road
+Buckeye Ridge Road
+Howards End Road
+Blaine Norwood Road
+Fox Den Lane
+Skiles Road
+Bobcat Lane
+Shook Road
+Perry Road
+Chesnut Hill Road
+Golfview Drive
+Pinnacle Inn Road
+Skyland Drive
+Thorncliff Drive
+Ridgeview Road
+Farm Knoll Court
+Mill Pond Lane
+Davis Ridge Road
+Double Knob Road
+Heather Lane
+Summit Forest Way
+Falling Waters Way
+Alpine Drive
+Sawmillers Way
+Timber Ridge Road
+Maple Lane
+J H McLean Road
+Running Bear Circle
+Sugar Maintenance Lane
+State Road 1329
+Supreme Golden Road
+Townsend Mountain Road
+Autumn Lane
+River Road 2
+Dunvengan Road
+Maple Spring Road
+Spice Apple Drive
+Brownstone Lane
+Forest Lane
+Old Field Road
+Glen II
+Deerwood Trail
+S Slope Road
+Old Turnpike Road
+Hemlock Road
+Farm Loop Road
+Camp Davis Road
+Weinhauer Way
+Castle Lane
+Chester Branch Road
+White Pine Lane
+Eves Court
+Painter Road
+Lady Bug Lane
+Ski Beech Road
+Bear Cub Lane
+Buena Vis Lp
+Ivey Lane
+River Bend Road
+Pond Creek Lane
+State Highway 184
+Laurel Ridge
+Paupers Ridge Lane
+Skiview Lane
+Holly Lane
+Mallard Court
+Haw Ridge Lane
+Collier Lane
+Carroll Gragg Road
+Fifth Fairway
+Mill Pond Road
+Spruce Court
+Chestnut Trail
+Paddock Lane
+Horney Creek Road
+Ridge Drive
+Crystal Dew
+Court Side Lane
+Hanging Rock Knoll
+Elkmont Lane
+Tweetsie Lane E
+Camelot Drive
+Walnut Way
+Beach Mtn Road
+W Pond Creek Road
+Beachtree Village Road
+Boyden Road
+Dr Perry Drive
+Equestrian Drive
+Cinnamon Fern Lane
+Welch Lane
+Wayside Court
+Spice Bottom Trail
+Hiview Drive
+Old Dairy Farm Lane
+Matthew Road
+Old Farm Road
+Snow Ridge Road
+Cross Park Drive
+Susan Townsend Road
+Cedar Lane
+Honeysuckle Lane
+Meadowview Court
+Presnell School Road
+Forestridge Drive
+State Road 1132
+State Road 1334
+Elk Horn Lane
+Little Creek Road
+Supreme Golden Way
+Cherokee Drive
+Crab Orchard Boulevard
+Whipporwill Way Road
+Tweetsie Lane
+Hawks Lake Drive
+Wintergreen Way
+R J Aldridge Road
+Wedling Weg Road
+Hollow Tree Road
+State Highway 105
+Rocky Pkwy
+Briarcliff Road
+Grassy Gap Loop
+Old Yonahlossee Road
+State Road 1125
+Fox's Hideaway Lane
+Arnette Road
+W Shamrock Lane
+Covered Bridge Lane
+Nettle Knob Drive
+Creekside Farm Road
+True Joy Drive
+Grey Fox Ridge Road
+Grandview Drive
+Woodwinds Drive
+Watauga River Road
+Laurel Rock Court
+Pigeon Roost Road
+Sugar Top Drive
+Balsam Road
+Story Brook
+Bent Creek Road
+Four by Four Lane
+Honey Dew Lane
+Sourwood Court
+Southridge Road
+State Road 1136
+Telemark Lane
+Lillian Drive
+State Road 1356
+Arrowood Road
+Punkin Center Road
+Riverside Drive
+State Road 1327
+State Road 1335
+Profile View Road
+Snow Plow Road
+Crest Hill
+Pine Ridge Road
+Edna Lane
+Treetop Lane
+Smith Cemetary Road
+Lakeside Drive
+Ford Creek Lane
+Staghorn Hollow Road
+Kick Turn Lane
+N Pinnacle Ridge Road
+State Road 1114
+Elk Hill Road
+Highcliff Circle
+Hickory Circle
+White Oak Trail
+Hickory Trail Road
+Old Turnpike Road W
+Roseboro Road
+Streamside Lane
+Tynecastle Highway
+Reuben Wooten Road
+Fire Weed Lane
+Dandelion Drive
+McLean Court
+Lecka Lane
+Advent Lane
+Strawberry Lane
+Twin Ponds Road
+Grassey Prong Road
+Ivey Court
+Ashley Way

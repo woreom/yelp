@@ -1,0 +1,131 @@
+W 500 N
+S Burke Street
+E Market Street
+80W
+Fox Street
+S 3rd Street
+N 1100 W
+Range Street
+80 W
+W 500 S
+E Allen Street
+S 1000 W
+S 80 W
+W Scott Street
+W 600 N
+Blake Street
+300 S
+400 W
+Anderson Street
+W North Street
+500 S
+S Range Street
+2nd Street
+700 W
+US Highway 24
+W Range Street
+100 S
+300 N
+ West
+E Johnson Street
+N Burke Street
+S 280 W
+Johnson Street
+800 W
+N Homer Lane
+North Street
+W 200 N
+4th Street
+County Road 280
+500 N
+N 1200 E
+N 3rd Street
+US Highway 231
+100 N
+S 800 W
+600 N
+W 100 S
+Burke Street
+S 2nd Street
+W School Street
+N 750 W
+W Blake Street
+Lake Shore Drive
+Winter Street
+Lee Street
+N 4th Street
+N 1200 W
+3rd Street
+E North Street
+750 W
+1200 E
+E Fox Street
+E Anderson Street
+W 300 N
+1200 S
+600 S
+500 W
+Raymond Street
+County Road 600
+N 800 W
+W Winter Street
+County Road 20
+Market Street
+W Johnson Street
+N 5th Street
+South Carolina Avenue
+Homer Lane
+N 400 W
+1100 W
+1000 W
+N Davis Street
+E Sherry Lane
+S 700 W
+County Road 1100
+Sherry Lane
+W Market Street
+5th Street
+N Range Street
+N 700 W
+N 2nd Street
+W 600 S
+400 S
+1200 W
+W 300 S
+Randolph Street
+School Street
+200 N
+600 W
+S 1200 W
+W South Street
+Scott Street
+E Lake Shore Drive
+S 600 W
+W 200 S
+ East
+ North
+N 600 W
+200 S
+W 1200 S
+400 N
+Allen Street
+N 1000 W
+W 100 N
+W Lee Street
+Church Drive
+W Division Road
+W 400 N
+South Street
+Division Road
+900 W
+ South
+N 900 W
+N Raymond Street
+Davis Street
+S 1100 W
+W 400 S
+S 4th Street
+W Anderson Street
+County Road 1200
+N 500 W
+280 W

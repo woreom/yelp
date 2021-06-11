@@ -1,0 +1,207 @@
+W 625 S
+S 300 W
+274 S
+S 425 W
+Grove Street
+W Beaver Street
+150 E
+E 250 N
+E State Street
+275 W
+N 250 W
+W Walnut Street
+100 E
+S 100 W
+S 150 E
+200 W
+County Road 300 W
+S Circle Drive
+300 W
+W 500 S
+Weldon Street
+Meridian Road
+County Road 400 E
+W State Road 114
+S 200 W
+300 S
+400 W
+E 300 S
+College Avenue
+400 E
+275 S
+W Sunshine Drive
+525 W
+625 S
+300 E
+50 S
+500 S
+Dean Street
+S 375 W
+Dewey Street
+S Wilkie Avenue
+700 W
+W Michigan Avenue
+County Road 400W
+S Lincoln Street
+County Road 800 W
+County Road 500 E
+S 350 W
+E 500 S
+S Clay Street
+County Road 700 W
+300 N
+ West
+Wabash Avenue
+Clay Street
+S 280 W
+S State Road 55
+Water Street
+North Street
+272 S
+S Athlone Lane
+W 550 S
+W 250 N
+375 S
+US Highway 41
+N Wells Street
+W Grove Street
+425 W
+County Road 3200 E
+E State Road 55
+Atkinson Avenue
+County Road 400 S
+350 S
+Harrison Street
+S US Highway 41
+N Meridian Road
+Lincoln Street
+Short Street
+100 N
+Sunshine Drive
+W 275 S
+W 50 S
+Walker Avenue
+S Meridian Road
+Walnut Street
+S 125 W
+550 S
+State Street
+Indiana Avenue
+State Road 55
+E Division Road
+W 375 S
+250 N
+Chestnut Street
+W College Avenue
+S Walker Street
+E Grove Street
+W 300 N
+350 W
+S Roosevelt Avenue
+Michigan Avenue
+600 S
+S 400 E
+325 S
+500 W
+E State Road 14
+S 675 W
+N West Street
+650 W
+N Lincoln Street
+E 325 S
+N 400 W
+Circle Drive
+Halleck Street
+375 W
+S 275 W
+S West Street
+Wilkie Avenue
+Polk Street
+S 388 W
+Walker Street
+W State Road 14
+S 700 W
+State Road 14
+N Main Street
+W State Street
+S Main Street
+County Road 350 W
+E 225 S
+Washington Street
+800 S
+Beaver Street
+W 600 S
+388 W
+400 S
+E Walnut Street
+W 300 S
+Wallace Avenue
+W 700 S
+N Jackson Street
+600 W
+Jackson Street
+Stevenson Street
+200 E
+S 600 W
+W 200 S
+ East
+E Washington Street
+N US Highway 41
+State Road 114
+S 525 W
+County Road 350 S
+ North
+Prairie Street
+S Wallace Avenue
+W 800 S
+N 600 W
+Wells Street
+200 S
+S 400 W
+400 N
+225 S
+S 200 E
+Roosevelt Avenue
+W 100 N
+W Prairie Street
+State Road 555
+S 250 W
+S 300 E
+N 100 W
+S Polk Street
+100 W
+250 W
+W Division Road
+E 400 N
+W 400 N
+E 200 S
+E College Avenue
+S 650 W
+125 W
+E State Road 114
+N Walker Avenue
+Division Road
+S 500 W
+700 S
+ South
+E 300 N
+Old US Highway 41
+N Polk Street
+West Street
+S Kabrina Street
+Athlone Lane
+Main Street
+Old Oak Road
+E Michigan Avenue
+N 100 E
+S 100 E
+E Beaver Street
+W 350 S
+W 274 S
+W 400 S
+W Washington Street
+675 W
+Kabrina Street
+UHighway 41
+County Road 800
+280 W

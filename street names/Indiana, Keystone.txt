@@ -1,0 +1,67 @@
+750 S
+550 E
+1200 S
+E 1050 S
+E Market Street
+S 300 W
+E 750 S
+W 1100 S 90
+W 1200 S
+W 1050 S
+S 50 W
+100 E
+S 100 W
+E 1000 S
+Market Street
+S 200 E
+200 W
+(Market St)
+1100 S-90
+County Road 510 W
+S 700 E
+State Road 1
+County Road 800 N
+50 W
+E 850 S
+S 700 E-90
+300 W
+900 S
+500 E
+700 E-90
+100 W
+Meridian Road
+1000 S-90
+W 900 S
+S 500 E
+S 200 W
+1000 S
+E 800 N
+1100 S
+W 1100 S
+S 250 E
+1100 S 90
+600 E
+S 600 E
+ South
+850 S
+800 S
+Indiana Street
+E 900 S
+250 E
+S 100 E
+700 E
+S Ohio Street
+W 1000 S
+W 1100 S-90
+W 1000 S-90
+E 800 S
+Ohio Street
+S State Road 1
+ West
+800 N
+E 1100 S
+200 E
+Barchman Street
+S 550 E
+1050 S
+ East

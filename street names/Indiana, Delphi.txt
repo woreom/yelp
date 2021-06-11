@@ -1,0 +1,536 @@
+W 500 N
+E Summit Street
+N 50 W
+W 260 S
+275 W
+900 N
+N 250 W
+W 320 N
+200 W
+W 640 N
+S Indiana Street
+300 W
+650 N
+County Garage Road
+975 N
+Sleeth Road
+W 585 N
+E 700 N
+N 425 W
+300 S
+400 W
+N 285 W
+High Street
+N Kerlin Avenue
+Milkhouse Road
+N 1132 W
+W North Street
+525 N
+E Madison Street
+700 W
+N Church Street
+S 585 W
+S Washington Street
+County Road 800 W
+W 285 N
+225 W
+1050 N
+S High Street
+W 488 N
+645 N
+N 255 W
+N Indiana Street
+Mill Drive
+W Stoney Drive
+Baum Street
+Camden Sanderson Street
+Summit Street
+1000 N
+675 N
+W 550 S
+4th Street
+W 250 N
+420 S
+E 650 N
+N 348 W
+N 925 W
+500 N
+N 650 W
+425 W
+Cottage Street
+950 N
+584 W
+State Road 25
+100 N
+260 W
+Franklin Street
+S 800 W
+W Smith Avenue
+E Monroe Street
+Beech Street
+1215 W
+Rockfield Road
+Lee Street
+150 S
+E Franklin Street
+N 1200 W
+E North Street
+W 700 N
+N Union Street
+250 N
+W Bicycle Bridge Road
+750 W
+S 580 W
+W South Road
+Old Main Street
+W 300 N
+350 W
+325 N
+Hamilton Street
+N 270 W
+9th Street
+850 N
+500 W
+990 W
+W 800 N
+425 N
+W 310 N
+W 325 N
+640 N
+N 200 W
+N Meridian Line
+W 655 N
+225 N
+Gravel Pit Road
+Riley Meadows Drive
+Railroad Street
+S Market Street
+Dodge Street
+Misty Lane
+N 300 W
+Rhineland Trailer Park
+S Co Road 600 W
+Heritage Drive NE
+600 W
+90 E
+1100 N
+S 600 W
+ East
+775 N
+Bicycle Bluffs Drive
+Terrace Lane
+N Brewer Avenue
+County Road 500 W
+W Division Line Road
+South Street
+950 W
+Rosseter Lane
+W 150 S
+150 W
+255 W
+W North Washington Street
+Charles Street
+ South
+W Delphi Street
+W 850 N
+W 484 N
+E Front Street
+Towpath Road
+E South Street
+Lafayette Street
+W Tippecanoe Ranch Road
+Rhinehard Street
+Bradshaw Avenue
+W 825 N
+E 750 N
+350 N
+N Lockport Drive
+Tippecanoe Street
+Marshall Street
+W 500 S
+N 75 W
+Prince William Road
+N Robinson Street
+1025 W
+585 W
+N 7th Street
+Connelly Street
+W 450 N
+525 W
+S 750 W
+Cobblestone Court
+825 N
+Ohio Street
+E 950 N
+930 W
+S 825 W
+Armstrong Street
+10th Street
+285 W
+7th Street
+Packett Avenue
+Water Tower Drive
+Stanfield Street
+W 425 N
+N Ruffing Avenue
+Bowen Court
+Madison Street
+S Dayton Road
+N Wells Street
+N Arnold Street
+925 W
+488 N
+Delphi Street
+N 9th Street
+635 N
+State Road 39
+N Troy Avenue
+N 1025 W
+W 350 N
+W 100 S
+Cottage Drive
+Wabash Street
+905 W
+550 S
+550 W
+Tally Ho Drive
+Meridian Line Road
+W 875 N
+Maxwell Street
+N Dodge Street
+W 1000 N
+1275 W
+East Street
+N 800 W
+W Madison Street
+Market Street
+Meridian Line
+S Hamilton Street
+Polk Street
+1000 W
+N Meridian Line Road
+Columbia Street
+S 700 W
+N Lafayette Street
+5th Street
+1150 W
+Elizabeth Street
+1200 W
+N 450 W
+N 6th Street
+N 550 W
+N 980 W
+200 N
+N Lee Street
+800 N
+Heritage Drive
+Crest Drive
+75 W
+W 200 S
+W 900 N
+E 900 N
+S 900 W
+260 S
+N 225 W
+200 S
+Mill Street
+N 1150 W
+Old 25
+W State Road 218
+400 N
+W 100 N
+Division Line Road
+N Washington Street
+W Shirl Court
+Lake Street
+W 400 N
+W Gravel Pit Road
+N Milkhouse Road
+E Adams Street
+Co Road 600 W
+725 N
+Arnold Street
+Belt Line Avenue
+N 900 W
+N 365 W
+W 270 S
+W Main Street
+450 W
+N 90 E
+W Marshall Street
+N 150 W
+W 725 N
+W Washington Street
+270 W
+N 265 W
+Deerfield Loop
+Bradshaw
+W 650 N
+N 68 E
+W 1050 N
+N 260 W
+W 950 N
+County Road 700 N
+375 N
+Masonic Street
+W Bradshaw Avenue
+Yeoman Main Street
+Meridian Road
+South Road
+W Summit Street
+Lockport Drive
+Crestwood Drive
+N State Road 25
+W 775 N
+W 532 N
+2nd Street
+Troy Avenue
+N 275 W
+W Columbia Street
+E Columbia Street
+S Prince William Road
+Persign
+300 N
+W 1040 N
+935 W
+Monroe Street
+W Adams Street
+N 584 W
+E Harrison Street
+W 200 N
+N 280 W
+Old Camden Road
+W 330 N
+132 N
+W Illins Street
+N 3rd Street
+N 525 W
+N 905 W
+Harrison Street
+W 415 S
+Jefferson Street
+Deer Meadow Road
+N Connelly Street
+320 N
+N Wilson Street
+575 W
+S 565 W
+N 350 W
+Elm Street
+County Line Road E
+Grant Road
+N Illinois Street
+3rd Street
+N 950 W
+Chestnut Street
+County Line Road
+N 25 W
+W 265 S
+County Road 200 N
+Moore Street
+ Northeast
+N 1145 W
+270 S
+650 W
+N County Line Road E
+Blackberry Lane
+N 850 W
+N 975 W
+Union Street
+W Crestwood Drive
+N 400 W
+Cook Street
+Vine Street
+625 W
+Sharon Chapel Road
+585 N
+W 225 N
+E Vine Street
+New York Street
+Maple Street
+Adams Street
+Indiana Street
+S Wilson Street
+Smith Avenue
+N Sue Lane
+W 300 S
+250 S
+1145 W
+W 1100 N
+285 N
+Kerlin Avenue
+N Market Street
+348 W
+N Deer Meadow Road
+ North
+S Union Street
+N 600 W
+N State Road 75
+N Charles Street
+N 1000 W
+1132 W
+N Walnut Street
+Stoney Drive
+W 675 N
+265 S
+N 100 W
+S Illinois Street
+E Main Street
+St Louis Street
+900 W
+N 1275 W
+Co Road 800 W
+N 10th Street
+Main Street
+McKinley Road
+W 400 S
+E 975 N
+N 500 W
+North Washington Street
+N 990 W
+N Wabash Street
+W Franklin Street
+875 N
+25 W
+Wilson Street
+100 E
+N Joseph Lane
+W 600 N
+W 375 N
+Howard Street
+Bowen Street
+N 625 W
+Heritage Drive NW
+500 S
+W 132 N
+850 W
+Davis Lane
+100 S
+Oak Street
+N Camden Sanderson Street
+ West
+415 S
+N Hamilton Street
+Clay Street
+Riley Road
+Bicycle Bridge Road
+W 635 N
+Dayton Road
+975 W
+W Ranch Lane
+S 280 W
+State Road 18
+310 N
+800 W
+450 N
+W 645 N
+S Wabash Street
+750 N
+Water Street
+North Street
+N 1215 W
+S Co Road 800 W
+50 W
+265 W
+Victor Street
+Whiteman Drive
+550 N
+700 N
+Ranch Lane
+N Meridian Road
+Walnut Street
+N 930 W
+W 630 N
+600 N
+N 935 W
+S 575 W
+6th Street
+W Illinois Street
+980 W
+N Dreifers Avenue
+W Monroe Street
+Dreifers Avenue
+N 4th Street
+Tally Ho Court
+Deer Creek Drive
+State Road 75
+Thompson Street
+W Belt Line Avenue
+N Ohio Street
+Illinois Street
+290 N
+W Mill Street
+W Rockfield Road
+Church Street
+565 W
+W Vine Street
+Carrolton Road
+Garfield Street
+W 250 S
+Front Street
+330 N
+910 W
+N 5th Street
+S Masonic Street
+N 910 W
+Sanderson Street
+Joseph Lane
+475 W
+655 N
+W Front Street
+E County Line Road
+Tippecanoe Ranch Road
+S 625 W
+825 W
+Washington Street
+N 700 W
+Erie Street
+Illins Street
+400 S
+N Monroe Street
+W 550 N
+County Road 400 N
+W Yeoman Main Street
+365 W
+Valley Street
+US Highway 421
+N High Street
+1040 N
+Armory Road
+W 290 N
+W Milkhouse Road
+W 750 N
+N Misty Lane
+NE Rockfield Road
+Wells Street
+County Road 150 N
+W 420 S
+N 575 W
+532 N
+W Sleeth Road
+100 W
+250 W
+Brewer Avenue
+State Road 218
+S 650 W
+Robinson Street
+484 N
+Clyde Street
+175 W
+W 525 N
+N 175 W
+Ruffing Avenue
+West Street
+N 475 W
+630 N
+N 100 E
+N Old 25
+Sue Lane
+Shirl Court
+68 E
+W Garfield Street
+580 W
+Crocket Street
+W Towpath Road
+280 W
+Marion Street

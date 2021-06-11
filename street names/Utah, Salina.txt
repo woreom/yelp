@@ -1,0 +1,97 @@
+W 500 N
+W Sunset Drive
+N 500 E
+S 100 W
+W Lost Creek Road
+N 570 W
+W 600 N
+S 200 W
+E 300 S
+S Center Street
+W Wolf Pride Drive N
+E 100 S
+Evergreen Lane
+W 285 N
+S Meadowbrook Drive
+Wolf Pride Drive
+Redmond Lake Road
+N White Drive
+Lone Dune Road
+Redmond Highway
+N 300 E
+W 200 N
+Dead End Road
+Sunset Drive
+W 330 N
+N Honey Drive
+W 125 N
+950 N
+Duffy Street
+W 350 N
+Mountain View Road
+E 100 N
+Aurora Boulevard
+S Sunnybrook Drive
+W Main
+State Street
+Quarry Road
+W US Highway 50
+Maple Drive
+S State Street
+Rocky Ford Canal Road
+N State Street
+W 300 N
+Lone Pine Drive
+S 400 E
+Salina Creek Drive
+S Daffey Drive
+US Highway 89
+E 400 S
+N 400 W
+Cottonwood Circle
+N 200 W
+Daffey Street
+500 East Street
+N 300 W
+Brooklyn Drive
+E 200 N
+S 600 N
+Honey Drive
+Birch Circle
+Sandy Lane
+Jacks Road
+Convulsion Road
+Dry H)llow Road
+W 200 S
+W 980 N
+N 600 W
+Cobble Street
+S 200 E
+W 100 N
+N 520 E
+E 240 N
+S 300 E
+Longhorn Drive
+N 100 W
+Valley Drive
+100 W
+N 400 E
+E 980 N
+W 400 N
+E 200 S
+N Salina Creek Drive
+S 500 E
+E Main Street
+S 500 W
+State Route 24
+E 300 N
+Willow Lane
+W Main Street
+N 100 E
+S 100 E
+Sunnybrook Drive
+S Aspen Circle
+N 200 E
+Desert Willow Circle
+Airport Road
+W 100 South Street

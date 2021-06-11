@@ -1,0 +1,13 @@
+W 300 S
+435 S
+1140 E
+1170 E
+ West
+Caroline Road
+ South
+E 435 S
+S 1140 E
+S 1170 E
+Lake Street
+ East
+300 S

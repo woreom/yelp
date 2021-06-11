@@ -1,0 +1,105 @@
+W 500 N
+885 W
+E Mauzy Street
+900 N
+N 1100 W
+E 2nd Street
+200 W
+300 W
+N State Road 71
+S Railroad Street
+650 N
+S Spring Street
+N Elm Street
+W 600 N
+S Oak Street
+N Locust Street
+400 W
+N Vine Street
+S Chestnut Street
+1800 S
+2nd Street
+700 W
+N Chestnut Street
+N 890 W
+300 N
+N 3200 East Road
+Oak Street
+ West
+7th Street
+State Road 18
+W 6th Street
+800 W
+County Road 1100 W
+4th Street
+US Highway 41
+500 N
+County Road 3200 E
+550 N
+700 N
+Locust Street
+S Locust Street
+600 N
+E 4th Street
+895 W
+6th Street
+890 W
+Mauzy Street
+S State Road 71
+Elm Street
+3rd Street
+W 700 N
+Chestnut Street
+W 1800 S
+W 300 N
+500 W
+N 800 W
+W 800 N
+N 400 W
+N 200 W
+1100 W
+Vine Street
+County Road 475 N
+1000 W
+E Railroad Street
+Railroad Street
+N 885 W
+5th Street
+N 300 W
+Maple Street
+State Road 71
+N 700 W
+W 550 N
+W 1100 N
+600 W
+E 6th Street
+800 N
+1100 N
+ East
+N US Highway 41
+US Highway 52
+County Road 900 N
+W 900 N
+W 5th Street
+ North
+County Road 1800 S
+N 600 W
+N Maple Street
+400 N
+N 1000 W
+N 895 W
+Spring Street
+E 5th Street
+E 7th Street
+A Street
+W 400 N
+N Oak Street
+E 3rd Street
+S Elm Street
+ South
+3200 East Road
+W State Road 18
+S Maple Street
+W 650 N
+W 7th Street
+N 500 W

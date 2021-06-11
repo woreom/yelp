@@ -1,0 +1,25 @@
+E 863 N
+E 876 N
+E 884 N
+E 900 N
+884 N
+ North
+99 E
+900 N
+95 E
+Wilson Street
+Front Street
+N 95 E
+Madison Street
+E 871 N
+863 N
+Kendal Street
+876 N
+Washington Street
+871 N
+Elm Street
+N 90 E
+N 99 E
+90 E
+State Highway 25
+ East

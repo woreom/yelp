@@ -1,0 +1,303 @@
+E 160 S
+W 500 N
+S 300 W
+S 725 E
+S Polk Avenue
+Polk Avenue
+900 N
+W State Road 352
+E 14th Street
+N 1100 W
+100 E
+N 500 E
+E 2nd Street
+N 850 E
+N County Line Road
+200 W
+154 S
+S 100 W
+S Adams Avenue
+44 N
+W 4th Street
+Jefferson Avenue
+300 W
+900 S
+N State Road 71
+W 500 S
+650 N
+S 1000 W
+Meridian Road
+N Park Avenue
+S Park Place
+N Prairie Avenue
+N 250 E
+11th Street
+S 200 W
+300 S
+400 W
+E State Road 18
+1st Street
+E 300 S
+400 E
+600 E
+N Polk Avenue
+300 E
+500 S
+E 100 S
+2nd Street
+E Elm Street
+S Jackson Avenue
+Clay Avenue
+S Lincoln Avenue
+700 W
+W US Highway 52
+N 921 W
+W 707 S
+State Road 26
+38 N
+700 E
+E 500 S
+100 S
+907 W
+300 N
+8th Street
+County Road 700 W
+ West
+N 1000 E
+N 3200 East Road
+S Madison Avenue
+N 243 E
+W 3rd Street
+James Avenue
+N Clay Avenue
+850 E
+10th Street
+E Anstett Drive
+S 236 E
+7th Street
+State Road 18
+W 6th Street
+800 W
+County Road 1100 W
+S Shawn Ra Nae Drive
+E 12th Street
+County Road 300 E
+N 300 E
+S Park Drive
+S Taylor Avenue
+E 9th Street
+1000 N
+W 200 N
+County Road 800 E
+4th Street
+N State Road 55
+50 W
+US Highway 41
+243 E
+E 650 N
+500 N
+N East Street
+County Road 3200 E
+S James Avenue
+550 N
+875 E
+1125N
+N 1100 E
+Prairie Avenue
+685 W
+S US Highway 41
+100 N
+S 800 W
+600 N
+E 13th Street
+E 100 N
+E 4th Street
+S Meridian Road
+6th Street
+921 W
+W 100 S
+S 875 E
+S State Road 71
+N Adams Avenue
+S East Street
+166 S
+Grant Avenue
+250 E
+690 W
+Elm Street
+150 S
+160 S
+State Road 55
+3rd Street
+707 S
+Van Buren Avenue
+Warren Street
+E 600 N
+S 242 E
+County Line Road
+E 595 N
+N Harrison Avenue
+S Monroe Avenue
+East Street
+W 1000 N
+W 300 N
+N 700 E
+N 907 W
+600 S
+9th Street
+S 400 E
+500 W
+E 500 N
+W 2nd Street
+Washington Avenue
+N 800 W
+E 10th Street
+W 800 N
+W 38 N
+N Taylor Avenue
+1100 E
+Lincoln Avenue
+Sharon Avenue
+S Park Avenue
+State Line Road
+E 400 S
+Shawn Ra Nae Drive
+13th Street
+Madison Avenue
+N 600 E
+S Adeway
+N 200 W
+1100 W
+225 N
+800 E
+N Madison Avenue
+County Road 1075 E
+S Grant Avenue
+Park Drive
+S Van Buren Avenue
+1000 W
+W 900 S
+S 685 W
+Railroad Street
+14th Street
+S 700 W
+595 N
+Adeway
+Harrison Avenue
+W State Road 26
+S 600 E
+5th Street
+Maple Street
+725 E
+State Road 71
+800 S
+E 200 N
+W 600 S
+400 S
+S Sharon Avenue
+W 300 S
+Rd 2240 E
+W 550 N
+W 700 S
+W 1100 N
+200 N
+Park Avenue
+600 W
+E 6th Street
+800 N
+N Grant Avenue
+200 E
+N Jefferson Avenue
+S 1000 E
+12th Street
+S 600 W
+1100 N
+W 200 S
+ East
+N US Highway 41
+US Highway 52
+W 900 N
+N Jackson Avenue
+S 900 W
+W 5th Street
+N 800 E
+ North
+246 E
+W 800 S
+900 E
+E 8th Street
+E Maple Street
+N 600 W
+200 S
+S 400 W
+S 50 W
+400 N
+S 200 E
+N 1000 W
+E 154 S
+E 225 N
+E Lingle Street
+Jackson Avenue
+W 1st Street
+County Road 550
+E 5th Street
+S 300 E
+E 150 S
+N 100 W
+500 E
+Adams Avenue
+E 7th Street
+N Lincoln Avenue
+100 W
+W Division Road
+N 400 E
+Rd 2230 E
+E 400 N
+W 400 N
+E 200 S
+County Road 1100 N
+E 166 S
+Monroe Avenue
+N Van Buren Avenue
+S 246 E
+S 850 E
+Anstett Drive
+S Harrison Avenue
+Division Road
+E Main Street
+County Road 900 W
+S 500 W
+S Jefferson Avenue
+E 3rd Street
+N Monroe Avenue
+900 W
+700 S
+N 900 E
+ South
+E 300 N
+N Washington Avenue
+Park Place
+Taylor Avenue
+West Street
+3200 East Road
+State Road 352
+242 E
+Lingle Street
+Main Street
+W State Road 18
+S 1100 W
+N Railroad Street
+N 100 E
+S 100 E
+W Main Street
+W 400 S
+N 200 E
+W 44 N
+S 690 W
+1000 E
+E 1st Street
+UHighway 41
+236 E
+W 650 N
+N 500 W
+E 11th Street

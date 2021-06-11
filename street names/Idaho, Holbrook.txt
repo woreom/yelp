@@ -1,0 +1,28 @@
+17000W
+W 1400 S
+S 21000 W
+W 2000 S
+21000 W
+W 3000 S
+17000 W
+1st E
+S 20700 W
+N Hess Road
+W 1300S
+S 20800 W
+S 20900 W
+14000N
+3000 S
+N Arbon Valley Road
+W Highway 38
+W 1500 S
+State Highway 38
+11000N
+16000 W
+W 1200S
+Basin Road
+N Center Street
+20500 W
+Hess Road
+15000N
+W 10000 N

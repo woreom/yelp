@@ -1,0 +1,826 @@
+Dryden Avenue
+Mapleton Drive
+Harbor Lock Road E
+Butternut Street
+Leah Street
+Melrose Place
+Floyd Street
+Parker Street
+Sunset Avenue
+Pitcher Street
+Upper Woods Road
+State Route 5
+Sage Court
+Irving Place
+Delaware Avenue
+Eleanor Place
+Marwood Drive
+Deerfield Drive
+Upper Woods Circle
+Sunnyside Drive
+Foery Drive
+Laura Street
+Booth Street
+Maynard Avenue
+Van Rensselaer Road
+1st Street
+High Street
+Turner Street
+Grasshopper Lane
+County Road 91
+Jimmy Boulevard
+Gibson Court
+River Road
+Edgewood Road
+County Road 37A
+Culver Avenue
+Dewitt Street
+Dorsey Lane
+Cruikshank Road
+Euclid Road
+John Street
+Thomas Street
+W Saratoga Street
+Hotel Street
+Downer Avenue
+Mechanic Lane
+Greenwood Court
+Gilbert Street
+Cromwell Place
+Woodruff Terrace
+Dunham Road
+Brigham Street
+Tarlton Drive
+S Park Drive
+Remington Road
+Neilson Street
+Davis Road E
+Mary Avenue
+Vine Court
+County Road 31
+Redwood Avenue
+Bradley Road
+Eldorado Road
+Benton Circle
+Cornelia Street
+Hayes Place
+Roberts Road
+Crabapple Avenue
+Ashland Avenue
+Azure Lane
+Calder Avenue
+Jay Street
+Kiniry Street
+Kossuth Avenue
+St Anthony Street
+Golden Place
+Churchill Avenue
+Wild Turkey Road
+Windsor Terrace
+N Osborne Street
+Hardware Lane
+Melvin Court
+Hilton Avenue
+Oneida Street
+Beaton Drive
+Sherman Circle
+Farmington Road
+Wilbain Drive E
+Harbor Lock Road W
+Bette Road
+Cottage Place
+Faxton Street
+Gardner Street
+S Melrose Place
+Horatio Street
+Devereux Street
+Hamilton Street
+Hopper Street
+Ashwood Avenue
+Wilbur Street
+Beechgrove Place
+Brantwood Lane
+Waverly Place
+Westminster Road
+Hopson Street
+Steele Hill Road
+Bacon Street
+Fox Place
+Lathrop Place
+Parkway E
+Kennedy Plaza
+Oriskany Street W
+Wetmore Street
+Greenview Drive
+Floyd Avenue
+Forest Road
+Steuben Park
+Edward Street
+Harrison Avenue
+Mathews Avenue
+Glendale Place
+N Gage Road
+Cornwall Avenue
+Roseclair Avenue
+State Highway 5a
+Brantwood Road
+Notre Dame Lane
+Franklin Square
+Dodge Lane
+Saratoga Street
+Doyle Road
+The Hills Drive
+Wilbain Drive W
+Alyssa Circle
+Sherman Place
+Monticello Place
+Lansing Street
+Beverly Place
+Woods Road
+Winner Avenue
+Ash Street
+Alda Road
+Steuben Road E
+ East
+Victoria Drive
+Roberta Lane
+Nob Road
+Beckwith Circle
+Sim Street
+Poe Street
+Schoolcraft Road
+Thurston Boulevard
+Dickinson Street
+Coupe Avenue
+Northrup Drive
+Harris Road
+Maverick Lane
+Evergreen Drive
+Ashton Road
+Quentin Road
+South Street
+Brookside Avenue
+Clinton Place
+O Brien Avenue
+Miranda Drive
+Lantern Lane
+Barton Avenue
+Howe Street
+County Road 241
+ South
+Windfall Road
+Buckley Road
+Karen Court
+Locust Drive
+Cedarbrook Cres
+Forrest Street
+Lee Boulevard
+Van Buren Street
+Howard Avenue
+Roosevelt Drive
+Cosby Manor Road
+Symonds Place
+Fincke Avenue
+Rutger Street
+Bleecker Street
+Square Street
+E Woodlawn Avenue
+Lafayette Street
+Seward Avenue
+Skyview Lane
+Richmond Road
+Carton Avenue
+Mallory Road
+Hazelhurst Avenue
+Walcott Avenue
+Rudolph Place
+Damiano Place
+Leeds Street
+Sickenberger Place
+Welsh Bush Road
+Cross Street
+Hollingsworth Avenue
+Sylvan Glen Road
+Theresa Court
+Bus Park Court
+Mc Vean Street
+Sunnybrook Lane
+W Forest Road
+Copperfield Street
+Morris Street
+Nellis Place
+Crouse Street
+Genesee Court
+Candlewood Lane
+Brown Road
+Sherman Lane
+Utica Road
+Orchard Street
+Arthur Street
+Hillside Road
+Joanne Drive
+Sylvan Way
+Springate Street
+Gibson Road
+Wood Lane
+Saint Vincent Street
+Cosby Road
+Candy Lane
+Portal Road
+Spain Gulf Road
+Blandina Street
+Deerfield Drive E
+Noyles Street
+Seymour Avenue
+Cleveland Avenue
+Butterfield Avenue
+Brody Drive
+Martin Street
+Watson Place
+County Road 87
+Wells Drive
+Belle Avenue
+Daytona Street
+Bennett Street
+Prospect Street
+Keck Place
+Harding Place
+Hillcrest Manor Court
+Benton Avenue
+Rhoads Drive
+Mc Quade Avenue
+Mather Avenue
+Waterford Lane
+Dudley Avenue
+Meadow Street
+Wheatley Circle
+Elmdale Road
+Burmont Court
+Mason Street
+Boyce Avenue
+Hager Street
+Holland Avenue
+Kilkenny Drive
+E Adrean Terrace
+Fairfax Place
+Parkway Lane
+Haak Avenue
+Ogden Place
+Willow Drive
+3rd Avenue
+Kemble Street
+E Lee Boulevard
+Lower Woods Road
+Fay Street
+Lorraine Avenue
+Woodlawn Pl N
+Ridge Place
+Northwood Drive
+Ty Place
+Arcadia Avenue
+Merriline Avenue
+Carlile Avenue
+Deertrail Road
+Crooked Brook Road
+State Highway 49
+Minot Place
+Tilton Road
+Higby Road
+Frederick Pl E
+Hewey Street
+Old Orchard Road
+Osborne Street
+Armory Drive
+Plymouth Place
+Oakdale Avenue
+Montrose Avenue
+Melrose Avenue
+Westminster Place
+Noyes Street
+Curry Hill Road
+Clementian Street
+Van Dyke Road
+Albany Street
+Bank Place
+Carmen Lane
+Lincoln Avenue
+Daniel Court
+Thorn Street
+Inman Place
+Davis Road W
+Cherry Street
+Lomond Court
+Hobart Street
+Park Court
+Park Drive
+Walker Street
+Columbia Street
+Varick Street
+Country Road
+Louisa Street
+Bell Hill Road
+Smith Hill Road
+Geer Avenue
+Mulberry Street
+Stark Street
+Davis Place
+Floral Drive
+Kirkland Street
+Concord Drive
+Elizabeth Street
+Graham Road
+McGraw Road
+Hampden Place
+Crestway Park
+Lawrence Avenue
+Newport Road
+Hillcrest Avenue
+Addington Place
+Rugby Road
+Arlington Road
+Park Avenue
+Spain Gulf Road S
+W Dawes Court
+Austin Road
+Shelly Place
+Young Place
+Bull Road
+Marlboro Road
+Georgian Court
+Scott Street
+Memorial Pkwy
+Ridge Road
+S Woodlawn Place
+Aspen Drive
+Richards Road
+Mason Road
+Wheeler Avenue
+Wells Place
+Genesee Street
+Monaghan Lane
+Hope Street
+Briarcliff Avenue
+Knoll Road
+N Lower Woods Road
+Allen Street
+Fairwood Drive
+County Road 197
+Eastwood Avenue
+Foudary Street
+Blossom Lane
+Emerson Avenue
+Graffenburg Road
+Proctor Boulevard
+Servis Place
+Hillcrest Manor
+Hawthorne Gulf Road
+Kent Street
+Arnold Avenue
+Woodlawn Avenue
+Milgate Street
+Oscar Street
+Steele Place
+E Dawes Court
+Brayton Park Place
+Highview Drive
+Garden Road
+Herkimer Road
+Mc Bride Avenue
+Beverly Road
+Bradford Avenue
+Aiken Street
+Knapp's Knoll Road
+Margery Street
+York Street
+E Woodlawn Place
+Van Roen Road
+Knox Street
+Branch
+Mandeville Street
+Birchdale Road
+Mortimer Street
+Hollingworth Avenue
+Shaw Street
+Jason Street
+Lexington Avenue
+Ann Street
+Bus Park Drive
+Georgetown Avenue
+N Park Drive
+W Whitesboro Street
+Watkins Avenue
+Craige Avenue
+Coombs Road
+Carver Street
+Harper Street
+Pauline Avenue
+French Road
+Pinto Lane
+Louis Street
+Wasmer Street
+Gage Road
+Champlin Avenue
+Tilden Lane
+King Street
+Beaumond Place
+Park Road
+Hulser Road
+Roberts Street
+Sycamore Lane
+Laurel Place
+Smithport Road
+Richardson Avenue
+Skylite Way
+Derbyshire Place
+Northern Road
+Crestway
+Woodlawn Place
+George Place
+Mulaney Road
+Russet Bush Road
+Broadway
+St Agnes Avenue
+Linwood Place
+Southgate Road
+Williamsburg Road
+2nd Street
+Bowie Road S
+Lin Road
+Tarbell Terrace
+Weston Avenue
+Leland Avenue
+Milton Place
+Lower Woods Road N
+Centennial Circle
+E Fredrick Street
+Fiore Drive
+Gold Street
+Woodland Village
+Kraft Drive
+Catherine Street
+Mowers Road
+Johnson Park
+Hart Street
+Allen Road
+Alma Court
+Monroe Street
+Windsor Circle
+Collier Place
+Bradford Lane
+Cruikshank Road N
+Pinewood Drive
+Dominica Court
+Ontario Street
+Kraemer Place
+Talcott Road
+Caroline Street
+Sinclair Avenue
+County Road 154
+Highland Avenue
+Ferris Avenue
+Rosemont Place
+Sedgewick Park
+Holly Drive
+Ridgecrest Road
+Huntington Place
+White Place
+Kingston Road
+Schuyler Street
+Hills Drive
+Van Roen Court
+Dwyer Avenue
+Summerset Way
+Kathleen Street
+Laurelwood Drive
+Belmont Avenue
+Taft Avenue
+Redfield Street
+Andes Avenue
+Elm Street
+Robin Road
+S Lower Woods Road
+Weaver Court
+3rd Street
+Grace Road
+Marilyn Drive
+Hollister Avenue
+Auburn Avenue
+Church Road N
+Dawes Avenue
+Chestnut Street
+Farview Hts
+Tracy Street
+Wager Street
+Elmhurst Road
+Larchmont Avenue
+Fairview Place
+Emily Street
+Douglas Cres
+State Highway 8
+Henry Street
+Claremont Terrace
+Turnpike Road
+Butler Avenue
+County Road 115
+Augar Place
+Union Street
+Fredrick Street
+Capital Avenue
+Amy Avenue
+Washer Street
+Chenango Road
+Madison Avenue
+Capron Road
+Conrail RR
+Midland Road
+Grandview Avenue
+Ramblewood Drive S
+Summit Place
+Oneida Mobile Court
+Taber Lane
+Hillview Drive
+Mohawk Street
+Baker Avenue
+Maple Street
+Adams Street
+Kenwood Road
+Mummery Street
+Croissant Circle
+Plant Street
+Kellogg Avenue
+Lamb Street
+Smith Place
+St Vincent Street
+Francis Street
+Patricia Lane
+Rodeo Drive
+Gates Street
+Oswego Street
+Avery Place
+Burmont Drive
+Van Ellis Road
+Hughes Street
+Dearborn Place
+Domser Drive
+Hawthorne Road
+Hess Lane
+Leslie Avenue
+ North
+Fineview Drive
+McIntyre Road
+Stevens Street
+Old Burrstone Road
+Ward Street
+Webster Avenue
+Jewett Place
+County Road 163
+Cranston Terrace
+Lynch Avenue
+Marnie Street
+Sherman Center
+Tamarack Street
+Tumbleweed Drive
+Redfox Circle
+Ravine Drive
+Potter Avenue
+Burth Street
+Campion Road
+Clifford Lane
+Seneca Street
+Gilmore Place
+Grant Street
+Proctor View Court
+Meadow Drive
+Proctor View Drive
+Goodrich Avenue
+Liberty Street
+Rose Place
+Trenton Road
+Woodbury Drive
+Wesley Avenue
+Regent Court
+Dirleton Road
+Taber Road
+Adirondack View Hts
+Melrose Avenue S
+Prescott Road
+Wiley Street
+Platt Street
+Jamestown Avenue
+Innis Street
+Burth Place
+Patricia Court
+County Road 243
+Main Street
+Pleasant Street
+E Park Road
+Crestview Avenue
+Sulzer Place
+Barnes Avenue
+N Genesee Street
+Dent Street
+Deerwood Road
+Leibel Place
+Hoover Avenue
+S Sedgewick Park
+Parklane Drive
+Woodhaven Road
+Clark Place
+James Street
+Wells Avenue
+William Street
+Ardmore Place
+Miller Street
+Keene Street
+Lomond Place
+N Oscar Street
+Bowie Road
+Mount Carmel Lane
+Storrs Avenue
+Brighton Place
+Mildred Avenue
+Miller Road
+Wadsworth Lane E
+Jefferson Avenue
+Tipperary Drive
+County Road 53
+Bonnie Brae
+de Peyster Avenue
+Humbert Avenue
+Pellettieri Avenue
+Kernan Avenue
+Ballantyne Brae
+Mary Street
+Sarah Street
+Westgate Drive
+Weaver Road
+Deland Drive
+Brookline Drive
+Tabor Place
+Van Vorst Street
+Johns Road
+Sterling Drive
+Hubbell Street
+Columbus Avenue
+Faass Avenue
+Deerfield Drive W
+Wilcox Street
+Elmwood Place
+Tryon Road
+Burnet Street
+Ferndale Place
+Court Street
+Meeker Avenue
+Gray Avenue
+Flanagan Road
+Rosemary Street
+Oak Street
+Shepherd Place
+ West
+Harriet Street
+Dewey Avenue
+Cooper Street
+Broad Street
+Rogers Road
+Newell Street
+Linda View Lane
+Walker Road
+Glenwood Road
+N Holly Drive
+Rutger Park
+Steuben Street
+Sherman Drive
+Cypress Street
+Wall Street
+Addison Street
+Water Street
+Wurz Avenue
+E Park Court
+Sophia Avenue
+County Road 33
+Kensington Drive
+Auert Avenue
+Pond Lane
+State Highway 5s
+Reels Drive
+Eagle Street
+School Road
+Buchanan Road
+Lee Street E
+Adrean Terrace
+Schoolhouse Road
+Grove Place
+Ottillia Street
+Walnut Street
+Leary Lane
+Arlington Terrace
+Wadsworth Lane
+Charlotte Street
+Lock Street
+Green Street
+Whitesboro Street
+County Road 92
+Narla Lane
+Mapledale Avenue
+Baxter Avenue
+State Street
+Beckwith Place
+Cruikshank Road S
+Donegal Drive
+Warren Street
+Lyon Place
+Bond Street
+Bristol Street
+Slaytonbush Lane
+Cornelia Place
+Florence Street
+Burrstone Road
+Center Green Court
+Spruce Street
+White Birch Road
+Pinedale Avenue
+Sunlit Terrace
+Garfield Street
+Kenyon Court
+Floral Court
+Nichols Street
+Thieme Place
+Keyes Road
+Wexford Lane
+Fern Place
+S Hills Drive
+Jacqueline Court
+Mary Elaine Drive
+Guelich Street
+Parkside Court
+Keri Lane
+Brinckerhoff Avenue
+Hartford Place
+Pinnacle Drive
+Stage Road
+Washington Street
+Flagg Avenue
+Dwight Avenue
+Parkway Circle
+St Jane Avenue
+Erie Street
+Pierrepont Avenue
+Lynn Place
+W Woodlawn Place
+Wilbian Drive
+Coventry Avenue
+Dawes Court
+Elhers Avenue
+Jeanette Drive
+Coolidge Road
+Melvin Road
+Harter Place
+E Anna Court
+Conkling Avenue
+Briar Avenue
+W Adrean Terrace
+Dexter Drive
+Burton Manor
+Parkview Drive
+Hingham Road
+Niagara Street
+Red Fox Circle
+Wilber Street
+Homestead Drive
+County Road 37
+Ramblewood Drive
+Tyler Street
+Woodburne Drive
+Spring Street
+Zoar Avenue
+Riverside Drive
+State Highway 5
+Hedgewood Place
+City Street
+McBride Avenue
+Wisniewicz Road
+Hammond Avenue
+Girard Street
+Culver Court
+Bryant Street
+Huntington Street
+Ney Avenue
+Lenox Avenue
+Rockhaven Road
+Stephens Drive
+Taylor Avenue
+West Street
+Jones Street
+Candlewyck Lane
+Tilden Avenue
+Graham Avenue
+Anna Court
+Deborah Drive
+County Road 30
+Hawthorne Avenue
+Spratt Place
+Broadacres Road
+Browns Gulf Road
+Tarlton Road
+Colonial Circle
+Lowell Avenue

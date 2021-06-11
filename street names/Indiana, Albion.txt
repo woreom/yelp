@@ -1,0 +1,452 @@
+W 500 N
+E Hopewell Road
+N 50 W
+W E Drive
+S 3rd Street
+S 100 W
+E 450 N
+200 W
+S Pressler Drive
+County Road 125 S
+Jarr Street
+300 W
+275 E
+E 700 N
+S 50 57 W
+11th Street
+S Oak Street
+300 S
+400 W
+W 270 N
+W 4th Drive
+1st Street
+High Street
+S Willow Haven Drive
+Highland Street
+275 S
+W North Street
+S 375 W
+50 S
+525 N
+S 150 W
+N Lakeshore Drive
+W D Drive
+S 475 W
+S High Street
+W G Drive
+Taylor Lane
+Highland Drive
+E Highland Street
+400 E-57
+4th Street
+500 N
+Firestation Drive
+425 W
+S Oakland Drive
+350 S
+Highland Park Drive
+N Arthur Drive
+Wolf Lake Road
+100 N
+N Liberty Drive
+State Highway 9
+S Richey Street
+Mountain Lake Road
+3rd Drive
+S Hutoka Avenue
+Albion Road
+River View Drive
+S Lafayette Street
+W 700 N
+Lakeside
+16th Street
+N Long Lake Road
+W 450 S
+Vacation Way
+350 W
+W 300 N
+Baseline Road
+60 N
+9th Street
+500 W
+S Lakeview Drive
+50 W-57
+W 75 S
+E 125 S
+E 400 S
+Circle Drive
+E US Highway 33-57
+N 200 W
+Skinner Lake Drive N
+Watkins Street
+D Drive
+Railroad Street
+S 11th Street
+25 N
+N Main Street
+F Drive
+W Market Street
+Woods Drive
+W Chipmunk Road
+Oakland Drive
+W Wolf Lake Road
+W Harlan Street
+600 W
+W South Street
+S 600 W
+ East
+N 290 W
+Center Drive
+Lakeview Drive
+500 E
+W River Road N
+E 200 S
+South Street
+Lakeshore Drive
+S 500 W
+Wolf Lake Street
+150 W
+50 57 W
+S Elm Street
+ South
+Arthur Drive
+Long Lake Road
+H Drive
+S H Drive Exd
+W 475 S
+W Baseline Road
+Cougar Court
+Pressler Drive
+N Liberty Street
+E South Street
+Lafayette Street
+Ridgewood Drive
+S 300 W
+S Stone Street
+Skinner Lake Drive W
+650 W-57
+S Baseline Road
+Tippecanoe Street
+Hopewell Road
+W 500 S
+W High Lake Road
+125 S
+W 450 N
+525 W
+Shew Street
+Shumny Street
+Highpoint Drive
+High Lake Road
+290 W
+Weeks Street
+8th Street
+Walnut Drive
+C Drive
+Hazelwood Drive
+10th Street
+7th Street
+S 550 W
+Seventh Street
+W Grove Street
+N Fresh Air Avenue
+15th Street
+Groveland Avenue
+Maplewood Drive
+W 100 S
+UHighway 33
+N Mountain Lake Road
+S 10th Street
+550 W
+State Road 9-57
+Noble Street
+W Butcher Street
+W 25 S
+E 600 N
+E Maplewood Drive
+175 N
+W 25 N
+S 450 W
+Walters Street
+E 75 S
+Market Street
+S Wolf Lake Road
+450 S
+S 16th Street
+Butcher Street
+Cherry Street
+Park Drive
+Liberty Court
+E 125 N
+5th Street
+E 200 N
+W US Highway 6
+State Road 8
+N 450 W
+200 N
+River Road N
+W 200 S
+S 90 W
+200 S
+S 50 W
+400 N
+E Orange Street
+S 200 E
+S Groveland Drive
+W 100 N
+E 550 N
+US Highway 33
+W Center Drive
+W F Drive
+Quiet Road
+W 400 N
+Groveland Drive
+N Oak Street
+W Albion Road
+S 6th Street
+S 7th Street
+State Road 109
+W Main Street
+450 W
+W 350 S
+N 175 E
+York Street
+S 4th Street
+E Lisbon Road
+W Shumny Street
+Sunset Shores
+S 425 W
+N Park Drive
+River Breeze Court
+County Road 700 N
+175 S
+E Jefferson Street
+Progress Drive
+W 175 N
+N Elm Street
+River Crest Court
+W Railroad Street
+S 200 W
+E 300 S
+Richey Street
+300 E
+Lisbon Road
+E Baseline Road
+2nd Street
+W Highland Drive
+Lewis Street
+S Watkins Street
+300 N
+S 50 W-57
+S Sunset Shores
+W A Drive
+E 415 N
+N 225 E
+Lake Shore
+S Liberty Street
+Herron Drive
+US Highway 6
+E 175 N
+S Lakeshore Drive
+W 200 N
+W 12th Street
+W 330 N
+Harrison Street
+75 S
+Jefferson Street
+W 50 S
+S Shew Street
+H Drive Exd
+E 100 N
+Rolling River Run
+575 W
+90 W
+N 350 W
+Elm Street
+S Kohn Drive
+3rd Street
+W Tippecanoe Street
+N York Street
+W Herron Drive
+Chestnut Street
+N 25 W
+Shisler Road
+River Road W
+Willow Haven Drive
+W Highland Street
+W Wildlife Way
+350 E
+4th Drive
+N 400 W
+W 9th Street
+Stone Street
+Hutoka Avenue
+Autumn Hills Drive
+Weber Road
+Fresh Air Avenue
+N 275 E
+W 300 S
+250 S
+Harlan Street
+Wildlife Way
+S 525 W
+ North
+Pence Street
+W 150 N
+N US Highway 33
+415 N
+S 250 W
+S 300 E
+N 125 E
+N 100 W
+Seneca Street
+N 400 E
+E Skinner Lake Drive N
+N Steinbarger Lake Road
+Liberty Street
+S York Street
+W 3rd Drive
+Faye Court
+E Main Street
+Wayne Street
+125 N
+W Jefferson Street
+Main Street
+300 W-57
+S 100 E
+State Road 9
+W 400 S
+W Lewis Street
+175 E
+S US Highway 33
+Drive
+Cromwell Road
+Grove Street
+25 W
+150 E
+N Orange Street
+W Walnut Street
+100 E
+N 500 E
+S 350 E
+75 E
+E 60 N
+S Long Lake Road
+W 600 N
+400 E
+Lincolnway S
+S Orange Street
+500 S
+S 650 W-57
+S 75 E
+W B Drive
+100 S
+S Seventh Street
+Oak Street
+ West
+S Groveland Avenue
+450 N
+N Finlandia Way
+W C Drive
+N 300 E
+North Street
+A Drive
+50 W
+S First Street
+550 N
+S State Road 109
+700 N
+US Highway 33-57
+S 300 W-57
+W 275 S
+Walnut Street
+600 N
+S 575 W
+W Quiet Road
+6th Street
+S 2nd Street
+W Walters Street
+S Hickory Street
+S Lakeside Drive
+N Wolf Lake Road
+N Skinner Lake Drive W
+S Wolf Lake Street
+W 500 S-57
+500 S-57
+Oakwood Drive
+S State Road 9-57
+W 175 S
+Willow Haven
+S 8th Street
+W H Drive
+Steinbarger Lake Road
+W Noble Street
+Fisher Street
+225 E
+E Hazel Street
+S 400 E
+S Highpoint Drive
+Village Drive
+Mallard Lane
+W Cromwell Road
+W 250 S
+E Drive
+330 N
+N Owen Street
+E 400 S-57
+375 W
+N River Road W
+S Willow Haven
+475 W
+475 S
+Hickory Street
+S 400 E-57
+S Main Street
+125 E
+Washington Street
+Orange Street
+400 S
+G Drive
+S 15th Street
+Chipmunk Road
+N Baseline Road
+S 1st Street
+150 N
+200 E
+12th Street
+Finlandia Way
+S State Highway 9
+W 5th Street
+N 75 E
+N 150 E
+B Drive
+Trail Ridge Road
+E Park Drive
+S 400 W
+W Hazel Street
+25 S
+S Jarr Street
+270 N
+W 1st Street
+Hazel Street
+Lakeside Drive
+400 S-57
+100 W
+250 W
+E 400 N
+N Hazelwood Drive
+Liberty Drive
+S 5th Street
+N Oakwood Drive
+Kohn Drive
+W 525 N
+Owen Street
+N 100 E
+N Liberty Court
+N 375 W
+N 200 E
+N 350 E
+E State Road 8
+W Vacation Way
+First Street
+E US Highway 6
+E Seneca Street

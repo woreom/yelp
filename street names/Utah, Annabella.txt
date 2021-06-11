@@ -1,0 +1,46 @@
+W Center Street
+S 300 W
+W Sevier River Road
+Sevier River Road
+Nebeker Lane
+S 400 E
+E State Street
+N 300 E
+N Annabella Road
+N 500 E
+S 100 W
+S 200 E
+W 100 N
+S 300 E
+W 370 S
+E 150 S
+N 100 W
+N 600 E
+McDonald Lane
+N 400 E
+E 200 S
+S 500 E
+S 200 W
+370 S
+E 300 S
+N Main Street
+W State Street
+S Main Street
+E 125 N
+W 100 S
+E 100 N
+E 100 S
+E 300 N
+E 200 N
+E Landslide Road
+N Anabella Road
+W 300 S
+Hepplers Pond Road
+N 100 E
+S 100 E
+Mustang Lane
+W 400 S
+N 200 E
+E Center Street
+1200 E
+W 200 S

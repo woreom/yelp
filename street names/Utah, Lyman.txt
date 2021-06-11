@@ -1,0 +1,40 @@
+W 100 North Street
+1200 S
+E 2860 S
+1700 N
+W 950 N
+S 100 W
+S Main
+W 100 N
+State Route 72
+Cottonwood Lane
+E 400 S
+N 100 W
+W 2100S
+N 200 W
+E 100 North Street
+E 200 S Street
+W 400 N
+E 200 S
+S 200 W
+E Main Street
+E 300 S
+N Main Street
+Old Bobs Lane
+S Main Street
+N Horse Valley Road
+Horse Valley Road
+State Route 24
+E 300 N
+E 200 N
+Main Street
+N 100 East Street
+W 300 S
+W 475 S
+W Main Street
+E 500 S
+S Center
+W 400 S
+E Center Street
+Airport Road
+W 200 S

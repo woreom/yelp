@@ -1,0 +1,33 @@
+10450 E
+E 5000 S
+4250 S
+7500 E
+S 13500 E
+N 2160 W
+E 17500
+US Highway 40
+E 4200 S
+Fort Duchesne-Randlett Road
+E 7000 S
+5250 S
+5000 S
+South Street
+E 6000 S
+100 N
+E 4750 S
+Wildlife Refuge Road
+S 7500 E
+6250 S
+5500 S
+US Highway 191
+4000 S
+4500 S
+Ouray-Randlett Road
+6000 S
+E 6250 S
+200 N
+S 10450 E
+E 4500 S
+S 17500 E
+State Route 88
+7000 S

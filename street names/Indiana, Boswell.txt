@@ -1,0 +1,133 @@
+750 S
+S 300 W
+W 1050 N
+E Mauzy Street
+N 1100 W
+W 950 N
+S 100 W
+N County Line Road
+S Harold Street
+200 W
+E Spies Street
+Old 41
+300 W
+900 S
+W 500 S
+650 N
+S Smith Street
+S 200 W
+400 W
+Harold Street
+E State Road 352
+650 S
+S Center Street
+W North Street
+500 S
+S Old US Highway 41
+W 650 S
+County Road 950 N
+State Road 26
+N Adams Street
+1050 N
+E Mc Knight Street
+N 3200 East Road
+ West
+County Road 900 S
+County Road 1100 W
+750 N
+Old State Highway 41
+North Street
+1000 N
+S Stokes Street
+50 W
+S Foster Street
+US Highway 41
+N Columbia Street
+County Road 3200 E
+950 N
+W 750 S
+700 N
+S US Highway 41
+Harrison Street
+Center Street
+Mauzy Street
+S 125 W
+N Center Street
+State Street
+E North Street
+W 700 N
+Old UHighway 41
+N State Street
+County Line Road
+Dana Street
+W 1000 N
+N Foster Street
+N 125 W
+600 S
+850 N
+500 W
+N Old 41
+Clinton Street
+N 400 W
+Cook Street
+1100 W
+W 900 S
+Columbia Street
+475 S
+N Harrison Street
+W State Road 26
+N Stokes Street
+Mc Knight Street
+Washington Street
+850 S
+800 S
+Adams Street
+W Mauzy Street
+W 600 S
+400 S
+N Old State Highway 41
+W 700 S
+W 1100 N
+W Cook Street
+W South Street
+N Harold Street
+1100 N
+ East
+N US Highway 41
+W 750 N
+Stokes Street
+N Smith Street
+Spies Street
+ North
+W 800 S
+S 400 W
+S 50 W
+N Old US Highway 41
+County Road 600 S
+N Washington Street
+N 100 W
+Foster Street
+100 W
+County Road 1100 N
+South Street
+W State Road 352
+125 W
+E Main Street
+700 S
+ South
+Old US Highway 41
+W 850 N
+W 850 S
+3200 East Road
+State Road 352
+Main Street
+W 475 S
+W Main Street
+S Adams Street
+N Clinton Street
+W 400 S
+Smith Street
+UHighway 41
+W 650 N
+N 500 W
+S Clinton Street

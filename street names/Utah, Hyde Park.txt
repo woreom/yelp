@@ -1,0 +1,110 @@
+W Center Street
+S 800 E
+N 250 W
+E 425 N
+N 500 E
+S 100 W
+E 450 N
+S 700 E
+N 75 W
+S 200 W
+W 375 N
+E 300 S
+W 450 N
+N 48 W
+E 100 S
+E 260 N
+S 150 W
+E 900 S
+W 385 N
+S 350 W
+N 1000 E
+Park Meadow Drive
+E 3400 N
+S 50 E
+N 225 E
+N 300 E
+Constellation Canyon
+W 200 N
+E 220 N
+N 1450 E
+E Hyde Park Lane
+N 1100 E
+E 275 N
+E 570 N
+E 250 S
+W 350 N
+W 100 S
+E 100 N
+W 355 S
+S 450 E
+460 N
+E Center Street
+Robert F Kennedy Drive
+N 860 E
+E 50 N
+Canyon Road
+W 300 N
+US Highway 91
+Enterprise Pt
+N 700 E
+Park Meadow Circle
+S 400 E
+E 450 S
+E 500 N
+W Hyde Park Lane
+N 1600 E
+N 475 E
+N 600 E
+N 200 W
+N Main Street
+S 250 E
+E 85 S
+S Main Street
+W 345 N
+Kal Ridge Lane
+E 200 N
+W 600 S
+E 150 N
+N 760 E
+W 300 S
+E 410 N
+200 N
+Greystone Drive
+W 200 S
+S 750 E
+N 800 E
+N 150 E
+S 50 W
+E 4200 N
+S 200 E
+W 100 N
+W 150 N
+E 50 S
+E 150 S
+N 100 W
+Mountain View Drive
+N 400 E
+Discovery Hts
+E 4100 N
+E 200 S
+S 500 E
+N 330 E
+E 180 N
+E 510 N
+E 4400 N
+N 900 E
+E 300 N
+E 54 S
+S 380 E
+N 100 E
+S 100 E
+W 350 S
+W 400 S
+N 200 E
+N 350 E
+N 150 W
+Pine View Drive
+1000 E
+S 425 E
+N 575 E

@@ -1,0 +1,137 @@
+E 450S
+E 300S
+S 800 E
+275 W
+900 N
+400S
+S Walnut Street
+W 950 N
+E 2nd Street
+300 W
+N Blue River Road
+650 N
+S 1000 W
+Goose Road
+E Henley Street
+W 600 N
+300 S
+400 W
+Rushville Road
+1st Street
+E 300 S
+500 S
+2nd Street
+N 275 W
+700 W
+Walnut Ridge Road
+Mary Drive
+290 W
+E 500 S
+County Road 900 E
+ West
+Oak
+Log Street
+800 W
+750 N
+Clark Street
+450S
+1000 N
+4th Street
+Binford Road
+Center
+S Binford Road
+N East Street
+County Road 665 W
+550 N
+950 N
+N Goose Road
+700 N
+E Log Street
+S 900 E
+N Three Mile Road
+Harrison Street
+N Carthage Pike
+Walnut Street
+Private Lane
+600 N
+E 4th Street
+6th Street
+County Road 200 W
+Manor Drive
+N 750 W
+550 W
+S East Street
+500S
+900E
+3rd Street
+W 700 N
+750 W
+S Harrison Street
+S 900E
+W 1000 N
+W Mill Street
+East Street
+850 N
+500 W
+E 450 S
+1200 N
+N 800 W
+W 800 N
+Market Street
+Branch Street
+450 S
+E 400 S
+N 400 W
+Carthage Pike
+800 E
+1000 W
+S Market Street
+N Main Street
+Henley Street
+S Main Street
+5th Street
+N 300 W
+N 700 W
+County Road 450 W
+400 S
+Randolph Street
+N 550 W
+W 550 N
+W 1100 N
+W 1200 N
+Blue River Road
+E 6th Street
+800 N
+N Market Street
+1100 N
+ East
+W 750 N
+W 900 N
+N Rushville Road
+Three Mile Road
+W 5th Street
+ North
+300S
+E 500S
+900 E
+Mill Street
+N 290 W
+N 1000 W
+N Walnut Street
+E 5th Street
+E 400S
+A Street
+725 W
+Winters Way
+E 3rd Street
+900 W
+ South
+E Mill Street
+W 850 N
+N 900 W
+Main Street
+N 725 W
+W Henley Street
+E 1st Street
+W 650 N
+N 500 W

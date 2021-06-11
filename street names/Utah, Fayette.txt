@@ -1,0 +1,16 @@
+N 100 East Street
+State Route 28
+N Main Street
+E 50 North Street
+S Main Street
+S 100 East Street
+E Center Street
+State Canal Road
+E 100 South Street
+E 100 North Street
+N 300 E
+E 200 North Street
+Bown Road
+Fayette River Lane
+E 200 South Street
+N 200 East Street

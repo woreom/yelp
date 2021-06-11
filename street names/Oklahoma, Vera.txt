@@ -1,0 +1,21 @@
+N 4000 Road
+E Robert E Smith Boulevard
+W High Avenue
+N Country Club Road
+W 3900 Road
+N Osage Street
+West Street S
+N Main Street
+W Ramona Avenue
+E0390 Road
+Old Highway 75
+High Avenue
+W 3950 Road
+N Memorial Drive N
+N Cherokee Street
+Oak Street
+West Street N
+S Cherokee Street
+W Robert E Smith Boulevard
+N Memorial S
+W Collins Avenue

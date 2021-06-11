@@ -1,0 +1,78 @@
+W 500 N
+W Center Street
+5800 W
+S 100 W
+W 500 S
+W 600 N
+S 200 W
+Cobblestone
+E 300 S
+1800 S
+E 100 S
+Valley Vw W
+S 6200 W
+W 1400 N
+N 8000 W
+W 2200 S
+N 6400 W
+W 1000 S
+W 2400 S
+W 200 N
+State Route 23
+Cobble Terrace
+E 250 S
+W 100 S
+E 100 N
+S 5400 W
+000 N Street
+E Center Street
+E 600 N
+N 50 E
+S 6400 W
+W 300 N
+1200 S
+Pheasant Hollow Lane
+E 500 N
+N 6000 W
+Shining Mountain Road
+W 2100 N
+W 800 N
+State Route 30
+S 6000 W
+7600 W
+E 400 S
+N 400 W
+N 200 W
+N 7200 W
+Pheasant Hollow Road
+Yonk Loop
+N Main Street
+W 470 N
+S Main Street
+W 1800 N
+W 1600 S
+800 S
+E 200 N
+W 600 S
+N 160 E
+W 2000 N
+N 7100 W
+W 200 S
+W 2000 S
+200 S
+W 1200 S
+W 100 N
+100 W
+E 400 N
+W 400 N
+E 200 S
+W 2600 S
+E 300 N
+Mendon Road
+S 380 E
+N 100 E
+S 100 E
+N 5800 W
+220 E
+W 400 S
+S 5900 W

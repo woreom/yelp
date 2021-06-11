@@ -1,0 +1,193 @@
+W 500 N
+S 800 E
+N 825 W
+350 N
+E 250 N
+E Alabama Street
+S Pearl Street
+Lost Bridge Road W
+Leedy Lane Road
+County Road 500 N
+Morris Street
+Old US Highway 27
+Lost Bridge Road E
+W 500 S
+E Jefferson Street
+S 1000 W
+Wabash Road
+W 600 N
+S Clifton Street
+N Colorado Street
+Urbana Road
+Colorado Street
+E 100 S
+500 S
+N 650 E
+N Snowden Street
+E Madison Street
+700 W
+River Road
+US Highway 24
+Leedy Lane
+New Holland Road
+100 S
+Star Street
+300 N
+W Mc Keever Street
+ West
+Bethel Road
+Wabash Avenue
+E McKeever Street
+Briant Street
+975 W
+California Street
+Maple Grove Road
+State Road 124
+800 W
+Monroe Street
+Belden Road
+E 350 N
+168 N
+W 247 N
+W 200 N
+County Road 800 E
+Madison Street
+Virginia Street
+W 168 N
+County Road 100 S
+500 N
+S Hendricks Street
+Hanging Rock Road
+Kuschel Road
+W Chapel Road
+E California Street
+Jefferson Street
+100 N
+800 W Road
+S 800 W
+600 N
+W 100 S
+650 E
+E 100 N
+E Monroe Street
+N 750 W
+Pennsylvania Street
+Cramer Road
+S Snowden Street
+State Street
+W Monroe Street
+E Division Road
+County Road 250 N
+E Salamonie Dam Road
+Old Wabash Road
+S State Street
+County Road 200 S
+250 N
+N State Street
+County Line Road
+Chestnut Street
+750 W
+Illinois Street
+N 800 W Road
+S New Holland Road
+McKeever Road
+N 750 E
+W 300 N
+Clifton Street
+McKeever Street
+State Road 16
+Rock-Springs Pike
+600 S
+W McKeever Street
+E 500 N
+247 N
+N 800 W
+N State Road 127
+S 950 W
+W 250 S
+Market Street
+N 975 W
+State Road 127
+800 E
+1000 W
+Columbia Street
+N Cubberly Street
+S Market Street
+Bellville Avenue
+N Main Street
+825 W
+S Main Street
+Vernon Manor
+Maple Street
+Washington Street
+S Leedy Lane Road
+N 700 W
+W 600 S
+400 S
+250 S
+Alabama Street
+200 N
+County Road 400 N
+N Jackson Street
+W McKeever Road
+600 W
+Jackson Street
+Terrell Street
+N Market Street
+S 600 W
+Huntington Road
+W 200 S
+ East
+E Washington Street
+Heslett Road
+Chapel Road
+W Maple Grove Road
+S 900 W
+Mc Keever Street
+Cubberly Street
+N 800 E
+ North
+N Leedy Lane
+S 750 E
+N 600 W
+N Maple Street
+200 S
+Mill Street
+N Old US Highway 27
+N Rangeline Road
+400 N
+W 100 N
+N 1000 W
+N Bowman Road
+600 W-90
+S Jackson Street
+S Berry Street
+W Division Road
+E 400 N
+W 400 N
+E 200 S
+E Mc Keever Street
+750 E
+950 W
+Division Road
+E Hanging Rock Road
+W Jefferson Street
+900 W
+ South
+N 600 W-90
+E Mill Street
+Hendricks Street
+Berry Street
+N 900 W
+Pearl Street
+Salamonie Dam Road
+State Road 105
+County Road 100 N
+Main Street
+Ruby Street
+S Maple Street
+Bowman Road
+W 400 S
+W Terrell Street
+Snowden Street
+Rangeline Road

@@ -1,0 +1,283 @@
+W 500 N
+1125 W
+350 N
+Co Road 820 N
+Orchard Lane
+370 N
+1060 W
+275 W
+E Country Lane
+N 680 W
+N 1100 W
+W 320 N
+N 1055 W
+375 N
+1140 W
+300 W
+690 N
+1070 W
+650 N
+S 1000 W
+770 N
+US Highway 20
+W 060 N
+W 585 N
+W 600 N
+W 650 N
+W Co Road 805 N
+300 S
+400 W
+Co Road 825 N
+N 665 W
+N 970 W
+Co Road 850 W
+High Street
+W 375 N
+275 N
+N 625 W
+W 450 N
+525 W
+N 685 W
+State Road 5
+915 W
+700 W
+360 N
+State Road 120
+580 N
+W 065 N
+W 275 N
+100 S
+300 N
+ West
+930 W
+N 982 W
+N 1140 W
+060 N
+E Middlebury Street
+N 795 W
+W 560 N
+S Wolfe Drive
+N 1085 W
+W 350 N
+325 W
+N 765 W
+450 N
+Easterday Drive
+W 425 N
+750 N
+W 565 N
+S Van Buren Street
+N 320 W
+695 N
+N 655 W
+North Street
+W 200 N
+675 N
+970 W
+Taylor Drive
+Wolfe Drive
+Sunset Drive
+W 275 W
+W 250 N
+W 330 N
+1065 W
+N 650 W
+500 N
+320 W
+E Farver Street
+770 W
+925 W
+N 925 W
+Yorkshire Drive
+N 740 W
+550 N
+W Co Road 825 N
+N 525 W
+W 695 N
+1080 W
+700 N
+N 1075 W
+N 905 W
+685 W
+Harrison Street
+260 N
+Walnut Street
+N 930 W
+1055 W
+295 W
+600 N
+W 100 S
+320 N
+760 W
+N 1080 W
+Talmadge Street
+1075 W
+220 N
+W 710 N
+665 W
+Curtis Street
+980 W
+N 750 W
+905 W
+550 W
+050 S
+905 N
+755 N
+State Street
+W 265 N
+W 590 N
+Berkshire Ct W
+County Road 300 N
+Co Road 840 W
+Middlebury Street
+W 390 N
+250 N
+W 700 N
+N State Street
+982 W
+W 485 N
+750 W
+County Line Road
+920 W
+775 W
+N Tuscany Drive
+W 580 N
+485 N
+Co Road 800 N
+W 300 N
+325 N
+W 795 N
+065 N
+N 1125 W
+500 W
+1085 W
+655 W
+N 1145 W
+Berkhire Drive
+330 N
+650 W
+910 W
+N 675 W
+W 220 N
+Union Street
+425 N
+N 325 W
+W 325 N
+W 050 N
+N 400 W
+N 910 W
+560 N
+E North Village Drive
+Morton Street
+280 N
+1100 W
+N Co Road 800 W
+North Village Drive
+N 760 W
+625 W
+Tuscany Drive
+W 360 N
+1000 W
+W 085 N
+710 N
+720 W
+585 N
+E County Line Road
+N 915 W
+N Harrison Street
+N Van Buren Street
+Summey Street
+1150 W
+735 W
+N 300 W
+Harrison Alley
+W Co Road 800 N
+E 200 N
+365 N
+Farver Street
+N 700 W
+W 280 N
+W Co Road 820 N
+1200 W
+N 450 W
+N 720 W
+W 300 S
+N 550 W
+W 550 N
+1145 W
+N 980 W
+200 N
+085 N
+765 W
+600 W
+Co Road 805 N
+W 755 N
+S 1200 W
+N High Street
+N Co Road 840 W
+W 200 S
+ East
+County Road 325 N
+W 750 N
+S 900 W
+W 770 N
+ North
+265 N
+590 N
+Country Lane
+200 S
+390 N
+Mill Street
+N 1150 W
+N 600 W
+N 770 W
+050 N
+400 N
+W 050 S
+W 690 N
+N 1000 W
+1090 W
+N 295 W
+N Co Road 850 W
+W 675 N
+1135 W
+075 N
+W 905 N
+W 260 N
+680 W
+795 W
+W 400 N
+N 1065 W
+W 365 N
+725 W
+Park Way
+N 1135 W
+795 N
+W 370 N
+N 1060 W
+900 W
+County Road 1200 W
+ South
+N 775 W
+725 N
+Co Road 800 W
+N 900 W
+N 1070 W
+Main Street
+Davis Street
+740 W
+N 735 W
+N 920 W
+Berkshire Ct E
+N 725 W
+S 1100 W
+450 W
+S Co Road 850 W
+Van Buren Street
+N 1090 W
+W 725 N
+W 075 N
+675 W
+Smith Street
+565 N
+N 500 W

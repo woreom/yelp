@@ -1,0 +1,487 @@
+Floyd Street
+Melia Court
+Koa Street
+McCornack Road
+Bartolo Lane
+Magee Lane
+Kaluhea Street
+N Kamehameha Highway
+Robison Lane
+Molly Pitcher Court
+Mango Street
+Nakae Avenue
+Kikaweo Street
+Pine Street
+Kahape'a Lane
+Lemiwai Street
+Beaver Road
+1st Street
+Curtis Loop
+Turner Street
+Savo Drive
+Trimble Road
+Ringold Street
+N Cane Street
+Kilau Place
+Westervelt Street
+Glen Avenue
+Malohi Road
+Thomas Street
+Lehua Road
+Waena Street
+Bartolo Place
+Kilea Place
+Moriyama Street
+Sperry Loop
+Owalii Circle
+Kona Road
+Andrade Road
+Hoomaha Street
+Luawa Court
+Funston Road
+Hoio Circle
+Elleman Road
+Ohai Street
+Barnett Place
+Koele Way
+Center Street
+John Paul Jones Court
+Noneman Place
+Uuku Street
+Puninoni Place
+Evans Place
+Chanute Road
+Wai'anae Uka Avenue
+Holua Way
+Dawson Road
+Puu Place
+Valley Avenue
+Ridge Avenue
+Iho Iho Place
+Sims Lane
+Kilani Avenue
+Lilikoi Court
+Council Loop
+Deborah Sampson Court
+Circle Drive
+Leader Court
+Haupala Court
+Hartsock Court
+Kani'ula Lane
+Uluhe Circle
+Palm Street
+Circle Mauka Street
+Puninoni Street
+Glenview Place
+Lehua Street
+Kokoke Lane
+Santa Cruz Court
+Handrich Street
+Grant Court
+Sowell Court
+Lihi Way
+N Circle Mauka Place
+Milburn Loop
+Panepoo Place
+State Highway 99
+Abbott Street
+Nakula Street
+Belcher Court
+State Highway 80
+California Avenue
+Kaiona Avenue
+Lakeview Drive
+Lilienthal Road
+Melekule Street
+Holoku Place
+Patrick Henry Court
+Kellog Street
+Tarawa Drive
+Paalaa Uka Pupukea Road
+Anu Loop
+Oliko Place
+ South
+Lanialii Street
+Kaniko Place
+Longley Place
+Waipolu Lane
+Maalo Street
+Ikele'a Street
+Kanell Street
+Kaniahe Place
+Moala Place
+Jecelin Street
+Kaliponi Street
+Circle Makai Street
+Wilikina Drive
+Mahele Street
+Kahana Street
+Hewitt Street
+Kalana Lane
+Ayres Avenue
+Koloko Court
+Lena Place
+Kuahale Court
+Nui Avenue
+Wonderview Place
+E'Ena Road
+Alapa Loop
+Collier Street
+Wai Court
+Kiele Place
+Esperance Lane
+Nihiwai Place
+Hayton Place
+Akins Place
+Wright Avenue
+Mokihana Place
+Lauone Place
+Malio Road
+Lambers Court
+Meigs Lane
+Kula Court
+Kanell Loop
+Ehoeho Avenue
+Kaena Avenue
+Bennett Street
+Pu'u Kalena Street
+Nathan Hale Court
+Akoakoa Court
+Clark Street
+Pitts Street
+Bowen Court
+Karsten Drive
+Hall Street
+Kakea Loop
+Iuka Court
+Shimogawa Lane
+Cadet Sheridan Road
+Leyte Street
+General Loop
+Uakanikoo Place
+Uakanikoo Street
+Kanoelehua Place
+Auhili Place
+Doane Street
+Lewa Place
+Starkey Court
+Norton Lane
+Lauhala Road
+Kaena Loop
+Otterstrom Place
+Aheahe Avenue
+Mauna Ka'ala Street
+Awapuhi Place
+Nani Ihi Avenue
+Cantella Lane
+Hoe Way
+Aloalo Court
+Benjamin Franklin Court
+Steinberg Lane
+Iomea Place
+Nonohe Street
+Noho Way
+Kikaweo Circle
+Auwai Drive
+Lang Circle
+Morris Road
+Kinikohu Street
+Hauula Loop
+Puku Lane
+Ohai Place
+Pipi Circle
+Cutinha Court
+Makani Avenue
+Lanialii Court
+Fislul Court
+Peach Street
+Forrester Street
+Fleek Court
+Hilgard Lane
+Pulu Circle
+Lemi Street
+Carroll Place
+Ekolu Place
+Tidball Road
+Vought Avenue
+Aloala Street
+Steindam Court
+Iliwai Drive
+Kupa'aina Lane
+Mua Loa Lane
+Fernander Avenue
+Kanikani Place
+Loko I'A Lane
+Hanau Street
+O'Ahunui Lane
+Eastman Road
+Muliwai Avenue
+Ellison Place
+Makaweo Avenue
+Kaniahe Street
+Rawls Lane
+Dole Road
+Gordon Road
+Kolekole Drive
+Kilani Place
+Hoihoi Avenue
+Conley Place
+Halakahiki Place
+Haley Avenue
+Grimes Street
+Mokihana Loop
+Menoher Road
+Kalala Street
+Schwartz Place
+Pu'uhapapa Loop
+Walea Street
+Kalamana Court
+McMahon Road
+Mango Place
+Dunlap Place
+Kiekie Place
+Collier Loop
+Ihiihi Avenue
+Rufus Place
+Kumakali'i Street
+Hendrickson Loop
+Ahuna Court
+Malulu Place
+Millet Street
+Uluwale Place
+Dupuy Place
+Cane Street
+Lolohe Court
+Paupauwela Street
+Kaliponi Place
+Kikaweo Court
+Holo Kia Court
+Ahamaka Road
+Kipuka Drive
+Sargent Street
+Hendrickson Street
+Gevara Place
+Yabes Court
+Haumalu Place
+Leokani Lane
+Shimogawa Place
+McGowan Place
+Mikimiki Place
+State Highway 804
+Circle Mauka Place
+Montague Street
+Kawelo Court
+McAndrew Road
+Whitmore Avenue
+Hakuone Street
+Ka Ni'o Court
+Nau Ane Court
+Nahenahe Place
+Kukui Street
+Hokulei Street
+Betsy Ross Court
+Plum Street
+Kani'ahe Place
+Kalie Place
+Thomas Paine Court
+Strickler Place
+Womack Court
+Lei Aloalo Place
+Ko Uka Lane
+Akau Street
+Olokani Place
+Hansel Lane
+Glennan Street
+Jefferson Street
+Hiwi Place
+Wooten Place
+S Kamehameha Highway
+Makawalu Lane
+Ala Hia Court
+Lohe Place
+Forrester Place
+Pikake Court
+Hou Place
+Mala Street
+Lauone Loop
+Strieber Avenue
+Noho Place
+Conley Lane
+Perry Place
+Lyons Place
+Kolokolo Circle
+Hoolulu Road
+Alea Loop
+Charlton Street
+Krause Place
+Miller Place
+Hapuu Loop
+Loko Drive
+Kaala Avenue
+Carpenter Street
+Ho'oili Lane
+Weke Lane
+Sudut Street
+Hauola Avenue
+Anderson Court
+Bertram Place
+Royal Palm Drive
+Handrich Loop
+Pumaiala Lane
+Ilima Street
+Alai Place
+Lalawai Street
+Aloala Place
+ North
+McGaha Court
+Puni Hele Court
+Loko Place
+Hill Drive
+Anoni Street
+S Cane Street
+Leader Field Court
+Ribac Place
+George Washington Court
+Sylva Place
+Kikowaena Street
+Kinipopo Street
+Iwa Circle
+Tinian Street
+Koena Way
+Ailana Place
+Rose Place
+Huaka Circle
+Maili Loop
+Haina Court
+Manua Street
+Cooley Court
+Kaalalo Place
+Gorgas Road
+Laniuma Place
+Maxwell Place
+Gallup Place
+Leilehua Road
+Grand View Place
+Lepelepe Circle
+Alonzo Place
+Karopczyc Court
+Travis Place
+Maoli Lane
+Manako Road
+Clark Place
+Ihiihi Place
+Riddle Place
+Komohana Court
+Langley Loop
+Baldwin Road
+Wilson Street
+Eames Street
+Palapalai Circle
+Kamehameha Highway
+Neal Avenue
+Lakeview Circle
+Moyer Street
+Uluwehi Place
+Nonohe Place
+Kaliko Drive
+Wiliwili Circle
+Alahula Way
+Jeal Road
+Otomo Lane
+Moae Place
+Bataan Street
+Ekaha Circle
+Apuka Court
+Bailey Place
+Apono Court
+Cypress Avenue
+Kani'ahe Street
+Homohana Road
+Young Court
+Crest Avenue
+Frutchey Road
+Moe 'Uhane Lane
+James Madison Court
+Laniloa Place
+Kalie Street
+Thompson Circle
+Avocado Street
+Club Drive
+Nawao Court
+Waianae Avenue
+Hikina Court
+Moon Court
+Peterson Court
+Walea Uka Place
+Duncan Street
+Mahele Loop
+Nanea Avenue
+Imaka Place
+Koikoi Street
+Otterstrom Street
+Rose Street
+Walker Avenue
+Hoopiha Place
+Hihi Court
+Kuahiwi Avenue
+Paukwaho Place
+Pokole Court
+Kokoloea Place
+Lei Momi Place
+Desiderio Court
+Krause Lane
+Canby Road
+Ahele Court
+Mohala Place
+Hakuone Place
+Kupukupu Circle
+Paio Lane
+Nichols Street
+Pai Circle
+Kolekole Avenue
+Paul Revere Court
+Williston Avenue
+Morgan Lane
+Ormoc Street
+Joseph Lane
+Pakauwili Drive
+Porter Loop
+Santa Fe Street
+Hako Loop
+Kline Road
+Nakeke Place
+Aloala Way
+Kai Ehu Court
+Milikana Place
+Olive Avenue
+Rarrick Court
+Bragg Street
+Ipu Wai Lane
+John Hancock Court
+Crispus Attucks Court
+Old Mamalahoa Highway
+Dickman Road
+Thomas Jefferson Court
+Little Drive
+Olive Street
+Uluwehi Street
+Ethan Allen Court
+Palm Place
+Lei Awapuhi Place
+John Adams Court
+Kulia Street
+Amapo Court
+Parrish Street
+Fernandez Court
+Uluwale Street
+Aheahe Place
+O Pu Hue Court
+Davis Street
+Warren Court
+Mie Place
+Pahale Court
+Moe Moe Place
+First Street
+Martinez Court
+Pekelo Place
+Cantella Place

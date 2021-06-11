@@ -1,0 +1,580 @@
+W 500 N
+E Autumn Circle
+Pommel Drive
+Sunset Avenue
+N 250 W
+S 1000 East Street
+S 130 E
+E 350 North Street
+S 100 W
+E 450 N
+E 700 South Street
+S 700 E
+W 450 South Street
+300 W
+N 340 W
+S 2300 W
+E 700 N
+S 500 East Street
+400 W
+W 9900 S
+N Loafer Drive
+S 2170 W
+S 2300 West Street
+700 W
+W 650 S
+S 300 West Street
+S 150 W
+W 12400 South Street
+High Sierra Drive
+Temkin Way
+State Highway 77
+E 1370 S
+E 800 S
+E Lake View Drive
+N 1000 E
+S American Way
+E 100 South Street
+E 200 North Street
+W 10300 South Street
+S 6200 West Street
+1050 S
+S Payson Canyon Road
+S 840 W
+W 1340 S
+Cantel Drive
+E 400 South Street
+W 550 S
+1450 South Street
+S 3200 W
+E 370 South Street
+W 9970 South Street
+Ridge View Drive
+S 790 W
+Peteetneet Boulevard
+Cove Drive
+W Salem Canal Road
+Tomahawk Drive
+E 300 South Street
+S 800 W
+Coleys Cove
+S Goosenest Drive
+S 5350 West Street
+S 630 W
+E Salem Hills Drive
+W 11900 S
+W 9970 S
+S 1200 E
+E 1290 S
+N Columbus Lane
+N 1500 W
+S Red Maple Court
+S 580 W
+Grandview Circle
+N 750 E
+350 W
+Fox Xing
+W 300 N
+W 450 S
+W Saddlebrook Drive
+E Lewis Way
+W 9200 South Street
+S 330 West Street
+W Hudson Lane
+500 W
+E 500 N
+Hillside Drive
+W 1210 S
+5750 W
+E Magellan Lane
+S 1600 W
+S Powell Way
+165 N
+W 11600 S
+W 10400 South Street
+S 830 W
+1260 S
+E 400 S
+E 1470 S
+W Utah Avenue
+S 4850 West Street
+S 680 West Street
+N 200 W
+1380 S
+E 320 S
+Powell Road
+Deer Creek Trail
+Valley View Circle
+N Main Street
+N 1000 East Street
+W 1100 South Street
+S Astor Lane
+N 450 E
+S 500 West Street
+E 500 North Street
+W 11950 S
+S 880 West Street
+S 880 W
+N 500 East Street
+American Way
+S 1000 E
+S 600 W
+Rancho
+Liddle Court
+S Majestic Meadows Drive
+E 1050 S
+Salem Canal
+State Highway 198
+W 1200 S
+S 640 East Street
+360 W
+E 600 South Street
+S 1000 West Street
+S 3700 West Street
+W 1440 South Street
+W 7300 S
+S 1150 E
+Canyon Cove Drive
+E 200 S
+S 500 E
+S 780 W
+S 500 W
+W 1420 S
+Wolverine Creek
+S 1900 W
+S 1300 East Street
+S 400 W Street
+Canyon View Drive
+S 200 East Street
+Brookside Court
+W 11300 S
+S 100 East Street
+W 1240 South Street
+Meadow Lark Lane
+W
+S 3620 W
+S 300 W
+W 1130 South Street
+S 800 E
+W 12800 S
+E Ama Fille Lane
+Oak Lane
+S 800 East Street
+S 2100 W
+N 400 East Street
+Goosenest Drive
+N 600 West Street
+Rocky Mountain Way
+S 5250 W
+Artist Avenue
+W 500 S
+S 1000 W
+W High Sierra Drive
+W 1450 S
+S 6000 West Street
+E 1250 S
+W 1280 South Street
+W 11200 South Street
+600 E
+S 630 West Street
+S 860 W
+Loafer Canyon Road
+E 900 S
+Elk Horn Drive
+275N
+Jay Lane
+S Canyon Road
+W 12000 S
+3620W
+S 6200 W
+S 3530 W
+E Oak Lane
+N 300 East Street
+W 585 S
+S Silver Maple Court
+E 335 N
+W 1130 S
+W 700 South Street
+E 300 North Street
+S 5250 West Street
+S 3950 West Street
+E 370 North Street
+S 1750 West Street
+S 4380 W
+W 1210 South Street
+N 800 East Street
+1400 S
+E 800 South Street
+W 10900 South Street
+W Salem Hills Drive
+E 600 North Street
+S 280 West Street
+S Mahogany Way
+W 100 S
+N Cloward Way
+E 230 South Street
+W 1350 South Street
+E 230 S
+E 280 S
+Salem Hills Circle
+W 11300 South Street
+E 600 N
+E 500 South Street
+S 1700 West Street
+W 1100 S
+W 1000 South Street
+E 330 North Street
+W 100 North Street
+W 600 South Street
+Nebeker Lane
+W 8000 S
+S Highline Canal Road
+W 400 South Street
+S 600 West Street
+S 3620 West Street
+S 1100 E
+S 1040 West Street
+E 640 South Street
+S 900 West Street
+S 3530 West Street
+W 1240 S
+E 400 North Street
+E 850 S
+Sunnyhill Circle
+N
+N 600 E
+S 700 West Street
+W 12300 South Street
+N 200 East Street
+E 430 S
+Amafille Circle
+S 700 W
+S 600 E
+W 1600 S
+W South Rosewood Circle
+E 200 N
+S 930 West Street
+S 730 W
+W 10900 S
+Wasatch
+S 700 East Street
+Quail Run Lane
+Orchard View Drive
+E Ocampo Lane
+Majestic Meadows Drive
+W 200 S
+E 1330 S
+W 1650 S Street
+S 1050 West Street
+E 900 N
+S 900 W
+W 1350 S Street
+W 800 S
+12575 South Street
+S 400 West Street
+W 250 West Street
+W 400 North Street
+S 50 W
+N 900 East Street
+Shuler Lane
+S 200 E
+W 100 N
+S 1900 West Street
+W 10400 S
+Elk Ridge Drive
+W 11900 South Street
+S 910 W
+W North Rosewood Circle
+Shayda Circle
+State Highway 141
+W 400 N
+W 10000 S
+750 E
+S 360 West Street
+Spring Lake Road
+S 4380 West Street
+E 900 North Street
+N 400 West Street
+Daley Circle
+S 650 West Street
+W 1150 S
+1500 S
+W 12800 South Street
+N 700 East Street
+S 150 West Street
+W 1150 South Street
+N 150 W
+E 1100 S
+S 100 West Street
+N Powell Road
+W 1280 S
+W 1550 S
+W 11560 S
+W 200 South Street
+W 1410 S
+S 830 West Street
+S 5200 W
+S Highline Canal
+W 8400 S
+Sky Hawk Way
+S 680 W
+Bear Hollow Lane
+450E
+S 200 W
+S 5750 West Street
+Park Circle
+E 300 S
+E Salem Canal Road
+Star Lane
+E 100 S
+N 230 W
+N Magellan Lane
+Front Ridge Lane
+S Canyon View Drive
+W Park Drive
+E 500 S
+S 1040 W
+W 1050 South Street
+W 12680 S
+S 1150 East Street
+S 740 W
+E 350 N
+S 4000 West Street
+E 420 S
+US Highway 6
+S 730 West Street
+E 200 South Street
+W 200 N
+S 4800 West Street
+W 1420 South Street
+W 1430 South Street
+S 5600 W
+S Spring Lake Road
+E 330 N
+E Utah Avenue
+W 12240 S
+W 1650 S
+W Oakridge Drive
+E 100 North Street
+S 300 East Street
+S 400 East Street
+S 210 E
+S Hillside Drive
+S 900 E
+7300 South Street
+W 900 South Street
+State Highway 147
+W 9200 S
+Benjamin Road
+W 12680 South Street
+E Bridger Lane
+E 100 N
+Bella Vista Lane
+S 2100 West Street
+E 470 South Street
+S State Street
+Columbus Lane
+High Line Canal Road
+W 12000 South Street
+W Barnett Lane
+W 12300 S
+1240 S
+State Highway 115
+N 700 E
+S 950 E
+S 3740 W
+W 1050 S
+W 8000 South Street
+650 W
+S 4250 West Street
+W 1410 South Street
+Olympic Lane
+W 500 South Street
+N 400 W
+N 1450 West Street
+N 1140 E
+W 1600 South Street
+W 1400 South Street
+N 1140 East Street
+W 900 S
+S Fairway Drive
+S 530 W
+W Highline Canal Road
+E Hudson Lane
+N 200 West Street
+S 1200 East Street
+Amerigo Lane
+Birdseye Road
+S 217O West Street
+400 North Street
+Spur Court
+N 100 East Street
+W 300 S
+E 950 S
+E 600 S
+E Alexander Drive
+330 W
+N Powell Way
+N 600 W
+W 11600 South Street
+625 E
+Riley Drive
+S 300 E
+W 1235 South Street
+N 100 W
+W 8800 S
+W 1235 S
+680 W
+E 180 S Street
+S 4800 W
+N 400 E
+W 12200 South Street
+E 350 S
+S 4350 West Street
+S 640 E
+W 370 N
+N Cortez Drive
+W 11250 South Street
+S 680 E
+W 1350 S
+W 200 North Street
+S 100 E
+S 1050 W
+5850 W
+W 400 S
+S 1260 East Street
+E Fremont Way
+E 700 S
+S 4500 W
+W 100 South Street
+N 500 W
+W 480 N
+N Clark Lane
+S 4400 West Street
+S 1600 West Street
+S Strawberry Canal Road
+N 500 West Street
+S 930 W
+S 4000 W
+N Escalante Drive
+S 350 West Street
+N 500 E
+S 460 West Street
+S 350 E
+S 2340 W
+Big Leaf Court
+W 800 South Street
+E Alpine Drive
+S 4350 W
+W 1460 South Street
+E 470 S
+S 260 W
+W 9600 South Street
+W 12200 S
+N Blackhawk Street
+Ridge Lane
+E 1170 S
+S 1300 E
+W 10300 S
+S 1250 E
+W 300 North Street
+Alpine Drive
+Maple Lane
+S 5850 W
+N 600 East Street
+W 1380 South Street
+460 W
+W 1500 South Street
+Greenridge
+Rim Rock Canyon Drive
+S 50 E
+E 370 S
+N 100 West Street
+W 12600 South Street
+Loafer View Drive
+County Road 164
+N 300 E
+W 1000 S
+S 3550 West Street
+Norway Court
+S 800 West Street
+Apple Lane
+S 590 E
+1440 S
+Cougar Circle
+Gladstan Drive
+S 30 E
+S Payson Station Road
+E Canyon Road
+Haleys Lookout
+S 1700 W
+E 770 South Street
+440 North Street
+W Goosenest Drive
+S Highland Circle
+S 4260 W
+S 5200 West Street
+1600 S
+W 1270 S
+Greenridge Avenue
+W 1570 S
+S 400 E
+W 900 North Street
+W 8800 South Street
+S 6000 W
+Turf Farm Road
+S 4280 W
+S 4250 W
+W 1450 South Street
+Escalante Drive
+S Main Street
+W 1480 S
+State Highway 178
+W 600 S
+S Salem Canal Road
+W 8400 South Street
+W 700 S
+Grizzly Way
+E 280 South Street
+200 E
+W 550 South Street
+S 5350 W
+Parkview Drive
+S 5600 West Street
+W 12240 South Street
+Douglass Drive
+S 200 West Street
+E Park Drive
+S 400 W
+W 10000 South Street
+Sugar Maple Court
+E 770 S
+S 4400 W
+S 4600 West Street
+W 11200 S
+S 1100 East Street
+S 4600 W
+W 300 South Street
+W 12600 S
+550E 150N
+S 780 West Street
+E 400 N
+S 900 East Street
+S 650 W
+E 420 South Street
+E Oakridge Drive
+Saddlebrook Drive
+E 300 N
+W 1650 South Street
+W Coleys Cove
+W 9600 S
+W 12400 S
+S Sr-141 Highway
+N 100 E
+Magellan Lane
+Pheasant Glen
+N 200 E
+S Clark Lane
+E 1260 South Street
+1430 S
+280 W

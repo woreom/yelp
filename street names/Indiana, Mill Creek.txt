@@ -1,0 +1,63 @@
+N 735 E
+S 750 E
+925 E
+N 800 E
+ North
+S 725 E
+S 950 E
+E 250 N
+E 75 S
+200 S
+N 975 E
+Taylor Road
+Front Street
+N 850 E
+S 700 E
+1100 E
+Pumping Station Road
+N 685 E
+775 E
+Edith Drive
+N 600 E
+500 E
+State Road 4
+800 E
+875 E
+S Taylor Road
+E 200 S
+N 1100 E
+S 500 E
+750 E
+Co Road 875 E
+75 S
+Division Road
+685 E
+975 E
+600 E
+850 E
+S 600 E
+S 775 E
+E 100 S
+725 E
+ South
+County Highway 975 E
+E 200 N
+735 E
+E 150 N
+N 875 E
+700 E
+200 N
+Bennitt Road
+E Division Road
+100 S
+N 1000 E
+S Co Road 875 E
+1000 E
+150 N
+250 N
+950 E
+E 50 N
+N 925 E
+50 N
+Mill Creek Road
+ East

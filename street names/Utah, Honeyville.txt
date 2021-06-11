@@ -1,0 +1,43 @@
+N 4400 W
+3000 N
+W 6000 N Street
+Salt Creek Road
+N 1800 W
+N 4400 W Street
+W 5600 N
+N 2600 W
+5200 W
+N 2200 W
+7800 N
+N Salt Creek Road W
+4700 W
+W 6980 N
+W 7000 N
+N 4500 W Street
+W 6100 N Street
+W 7100 N
+2350 W
+N Salt Creek Road
+W 8200 N
+W 6900 N
+W 7200 N
+3200 W Street
+N 4700 W Street
+N 2550 W
+State Route 38
+W 5800 N
+N 3000 W
+W Kaminska Ct N
+N 4600 W
+State Route 13
+N 2500 W
+W 5700 N Street
+W 6100 N
+N 2350 W
+N 2650 W
+N 2750 W
+W 8000 N
+N 2450 W
+N 3600 W
+N 2800 W
+N 4800 W Street

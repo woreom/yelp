@@ -1,0 +1,33 @@
+Joseph Mountain Road
+S 100 W
+W 100 N
+W 200 N
+US Highway 89
+Rockwood Road
+N 100 W
+N 200 W
+E 400 N
+S 200 W
+S Aspen Lane
+E Main Street
+W Shelton Road
+Boulder Crest Drive
+W 100 S
+E 100 N
+N 300 W
+E 100 S
+Sevier Highway
+S Ross Lane
+E 300 N
+S Shelton Road
+State Route 118
+E 200 N
+Alder Drive
+E Rocky Mesa Drive
+S 200 East Street
+N 100 E
+W 1100S
+S 100 East Street
+N 200 E
+S State Street
+N State Street

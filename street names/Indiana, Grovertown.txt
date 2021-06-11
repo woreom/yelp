@@ -1,0 +1,74 @@
+Oregon Trail
+N 750 E
+State Highway 23
+N 800 E
+ North
+E Oregon Trail
+N 700 E
+900 E
+E 250 N
+County Road 1200 E
+Indian Mound Trail
+E 500 N
+N State Road 23
+E State Road 23
+N 1150 E
+400 N
+N 1075 E
+North Street
+E US Highway 30
+US Highway 30
+1150 E
+1100 E
+E 50 S
+E 550 N
+N 1025 E
+N 950 E
+E Greenwood Street
+500 N
+N State Highway 23
+800 E
+550 N
+N 1200 E
+E 400 N
+Lake Street
+1025 E
+N 1100 E
+750 E
+1075 E
+E Sunview Trail
+E Francis Street
+State Road 23
+Greenwood Street
+600 N
+50 S
+N 900 E
+E 300 N
+E Elm Street
+Yellowstone Trail
+E 200 N
+Indiana Street
+Sunview Trail
+E 150 N
+N Indiana Street
+Francis Street
+County Road 1000 E
+N Indian Mound Trail
+700 E
+Elm Street
+200 N
+N 1000 E
+Ohio Street
+300 N
+ West
+E 600 N
+1000 E
+150 N
+250 N
+950 E
+E Yellowstone Trail
+N Ohio Street
+County Line Road
+1200 E
+W County Line Road
+ East

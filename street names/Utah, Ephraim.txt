@@ -1,0 +1,89 @@
+W Center Street
+S 60 E
+N 500 E
+S 100 W
+S 1070 E
+S 200 W
+E 300 S
+E 100 S
+E 25 S
+E 800 S
+E 100 South Street
+E 200 North Street
+S 50 E
+N 100 West Street
+E 750 S
+N 300 E
+S Main
+E 200 South Street
+W 200 N
+Mill Road
+E 100 North Street
+S 920 E
+W 700 North Street
+E 300 South Street
+E 970 S
+E 100 N
+W 100 S
+E Canyon Road
+E Center Street
+S 825 E
+E 430 N
+Christensen Road
+W 300 N
+S 400 E
+E 500 N
+E 1300 S
+S 440 E
+Danish Court
+Lee's Lane
+US Highway 89
+Ephraim Canyon Road
+E 480 S
+E 400 S
+E 525 S
+N 400 W
+N 600 E
+N 200 W
+Willow Creek Road
+(Black Hill Rd)
+N 200 East Street
+N Main Street
+S 250 E
+S Main Street
+S Red Knoll Lane E
+E 200 N
+N 100 East Street
+W 300 S
+60 E
+N 500 East Street
+E 30 N
+S 430 E
+Christensen Lane
+W 200 S
+Cedar Ridge Road
+3950 N
+W 400 North Street
+S 400 W
+S 50 W
+S 10E
+S 200 E
+W 100 N
+E 960 S
+S 300 E
+N 100 W
+N 400 E
+E 200 S
+S 30E
+S 500 E
+30 E
+N 550 E
+E 300 N
+S 200 East Street
+W 200 North Street
+S 100 E
+S 100 East Street
+N 200 E
+W 400 S
+N 150 W
+N 460 E

@@ -1,0 +1,120 @@
+S 800 E
+S 650 E
+E 250 N
+S Walnut Street
+E North Drive
+S 700 E
+Line Road
+Co Road 50 N
+S Co Road 845 W
+300 S
+North Drive
+Beaver Road
+Co Road 850 W
+E 300 S
+E Base Road
+State Road 44
+600 E
+Fielding Road
+S Co Road 800 E
+S Co Road 840 W
+Orange Pike
+700 E
+Coletrane Hill Road
+Murphy Street
+ West
+Broad Street
+W Co Road 200 S
+Prospect Street
+W Co Road 300 S
+Co Road 500 S
+S Beaver Road
+North Street
+County Road 800 E
+S Co Road 800 W
+S Kendall Street
+Center Street
+75 S
+Walnut Street
+E 250 S
+N Line Road
+650 E
+E Orange Pike
+Saxon Road
+Co Road 700 W
+Co Road 845 W
+Co Road 850 E
+S 450 E
+State Street
+State Highway 44
+E Murphy Street
+Co Road 840 W
+County Road 200 S
+250 N
+Base Road
+County Line Road
+Pace Road
+Wicker Road
+600 S
+County Road 710 W
+E 75 S
+E 450 S
+Co Road 200 S
+450 S
+County Road 160 S
+W Co Road 2505
+Coletrane Road
+Co Road 300 S
+N 600 E
+County Road 850 W
+800 E
+County Road 850
+N Main Street
+S Main Street
+S 600 E
+Maple Street
+725 E
+W Key Street
+County Road N 800 E
+W Pearl Street
+250 S
+E 600 S
+Kendall Street
+W South Street
+N 725 E
+Key Street
+Durbon Street
+Co Road 800 E
+W Pace Road
+ East
+N 800 E
+W Co Road 50 N
+ North
+S Sanes Road
+W Co Road 800 S
+Co Road 400 S
+W Coletrane Road
+Co Road 800 S
+W Fielding Road
+S Co Road 850 E
+S Co Road 700 W
+N Co Road 850 W
+A N Main Street
+450 E
+W State Road 44
+South Street
+Co Road 650 W
+W Coletrane Hill Road
+Co Road 2505
+ South
+S Co Road 650 W
+Co Road 800 W
+E State Road 44
+Pearl Street
+Main Street
+W Co Road 400 S
+S Wicker Road
+S Co Road 850 W
+Sanes Road
+W Co Road 500 S
+W State Highway 44

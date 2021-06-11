@@ -1,0 +1,485 @@
+Rd A
+Maikoiko Street
+Apaa Street
+Hoolai Street
+Alaiki Street
+Aloha Road
+Waiopae
+Emerald Drive
+Pohoiki Road
+Puni Makai Loop S
+Center Lane
+Kala Street
+Ainaloa Boulevard
+Ohiki Street
+Puni Lapa Loop S
+Ma'ohe'ohe Place
+Punawai Street
+Kai Avenue
+Kamaili Uka Road
+Alu Lepe Street
+Omega
+Sadilek Road
+Laau Loke Street
+Woodrose Drive
+Ginger Lane
+Moaniala Street
+Lanai'anui Street
+Ahi Street
+Lehua Road
+Akanikolea Street
+Hibiscus Drive
+Vilani Drive
+Pohakupele Loop
+Weston Way
+Hilo Street
+Palapalai Avenue
+State Highway 130
+Kona Road
+Pahoa Village Road
+Kii Nani Street
+Mauna Kea Drive
+Old Kalapana Road
+Ono Street
+Coastal Puna Pkwy
+Halepueo Street
+Ole Ole Street
+Kanepuahewa Place
+Akule Street
+Poha Avenue
+State Highway 137
+Stardust Drive
+Namohala Place
+Papai Street
+Highway 132
+Lauae Street
+Driftwood Lane
+Plumeria Drive
+Ina Street
+Kaluahine Place
+Puni Kahakai Loop S
+Hilonani Drive
+S Nenue Street
+Kaluahine Street
+Popaa Street
+Malolo Street
+Hawaii Road
+Kalapana Street
+Koa Eka Street
+7 Road
+Crystal Circle
+Government Beach Road
+Ulua Lane
+Kapoho Kai Drive
+Kapoho Kai Street
+Moku Street
+Naholowa'a Place
+Pahoa Byp
+Limu Street
+Anae Street
+Forest Road
+Mayzee Road
+Iolani Street
+29th Avenue
+Kahi Koa Road
+Kaohe Homestead Road
+Puni Mauka Loop N
+Highway 137
+Welea Street
+Gardenia Drive
+Kumuloulu Street
+Pearl Drive
+Holiday Road
+Mauna Kea Road
+Kahakai Boulevard
+Hee Street
+Kula Street
+Puni Lapa Street E
+Opihi Street
+Hoopili Street
+Cameo Circle
+Coral Drive
+6 Road
+Oio Street
+ East
+Molokai Road
+Keaau Pahoa Road
+Kam Court
+Puni Lanai Loop S
+Papaya Farms Road
+Waiopae Road
+Popohau Place
+Silveroak Drive
+Kaueleau Mauka Road
+Puni Lani Loop S
+Kealawaa Place
+Puhala Drive
+23rd Avenue
+Lavai'anui Street
+Lanai Street
+Lanai Road
+Aholehole Street
+Kaiwa Street
+Aku Street
+ South
+Tree Fern Drive
+Ekaha Street
+Old Kalpana Road
+Papu Circle
+Tangerine Drive
+Hapuu Road
+Wainani Road
+Waimea Road
+Pomaikai Street
+Hookupu Street
+Kapoho Beach Road
+Opae Street
+Malulani Circle
+W Moanauli Loop
+Puni Lapa Loop N
+Omao Street
+Kahiloli
+Priscilla Road
+Ohe Avenue
+Mauka Nui Street
+Mako Way
+Hanalei Circle
+E Moanauli Loop
+Brookover Street
+Olao Street
+Nehu Street
+8th Road
+Hinalea Street
+Kumakahi Street
+Kauai Lane
+Malio Road
+Ainaua Place
+Likeke Lane
+Laimana
+19th Avenue
+Paradise Drive
+Kuna Street
+Maiii Street
+Ewa Lane
+Kamanu Street
+24th Avenue
+Opihikao Drive
+Jewel Drive
+Pahoa Kalapana Road
+30th Avenue
+Nanawale Homestead Road
+Kamaili Road
+Oliana Drive
+Lahaina Road
+Upper Puna Road
+Ainaloa Way
+Kipuka Street
+Hawaii Street
+Kaiheenalu Street
+Kauai Street
+Kawakawa Street
+Lido Lane
+Nanawale Boulevard
+Oopu Street
+Ahia Road
+Kanaio Place
+Seaview Road
+Haukeuke Street
+Puni Mauka Loop S
+Honuaula Street
+Molokai Street
+Sandalwood Drive
+Lalakea Street
+Uluhemalu Road
+Kaupili Street
+33rd Avenue
+Bamboo Drive
+Hanale Drive
+Miloii Circle
+Eelekoa Street
+Puna Street
+Punakai Street
+Moana Street
+Kekauonohi Place
+Ko Aekea Street
+Opakapaka Street
+Kekauonohi Way
+Church Road
+Puni Paka Street E
+Ililani Road
+Kamakoa Street
+Kaimu-Chain of Craters Road
+Puna Road
+Noni Farms Road
+Colby Circle
+Maile Street
+Poo Nui Street
+Puna Pkwy
+Orchid Drive
+Plumeria Road
+S Glenwood Road
+Kekaloa Road
+Kalaunu Street
+Silversword Court
+Waioleka Street
+Kaheka
+Kumu Street
+Kahukai Street
+Leialoha Drive
+Shell Road
+Kapuna Road
+S Kaohe Homestead Road
+Paradise Road
+Aulii Street
+Donnybrook Lane
+Papio Street
+Lava Lane
+Ainapua Street
+Tutu Lane
+Puni Lani Loop N
+Kahoolawe Lane
+Laau Place
+Hinalo Street
+Kahoolawe
+Lawai Anui
+Walea Street
+Puni Kahakai Loop N
+Palani Street
+Hoeunalu Street
+Puni Paka Street W
+Mapuana Avenue
+Niuhi Street
+Moana Kai Pali Street
+22nd Avenue
+Homestead Road
+Sugar Cane Lane
+Old Kalawanna Road
+Hibiscus Road
+Tradewind Drive
+Uilani Drive
+Kahokumaka Place
+Pua O Kapoho Street
+Kamano Street
+Alaili Road
+Mokihana Farm Lots
+40th Avenue
+Heepali Street
+Kapolokai Drive
+Nohea Street
+40th Street
+Mahimahi Street
+Hallkamahina Road
+Menehune Way
+Alapai Street
+Paradise Court
+Puakalo Avenue
+Kapoho-Pattoa Road
+Alamihi Street
+5th Avenue
+Cholet Circle
+Kauhale Road
+20th Avenue
+Pakalana Road
+Tiki Road
+Azure Road
+Flower Road
+Duff Lane
+State Highway 132 Highway
+Moani Street
+Uwalo Street
+Avenue Wawae
+Center Circle
+Nahokulele Street
+Puni Kahakai Street W
+Maile Way
+Kamoamoa Hmstd Road
+Tiki Lane
+Kii Nani Place
+Kuuhome Street
+Alapaki Lane
+Malama Street
+Halelo Place
+Puni Paka Loop N
+Oneloa Street
+Akeakamai Loop
+Makamae Street
+Kahonua
+Iao Street
+Kahi Ina Place
+Awa Street
+Cutter Circle
+Tangerine Road
+Old Cemetary Road
+Silversword Drive
+Western Way
+Nanawale Farm Ests Road A
+Niihau
+Alaneo Road
+Puhi Street
+Alii Road
+Lauhala Drive
+Aama Street
+Cook Street
+Kapoho Kalapana Road
+Naele Road
+Kehau Road
+Kailua Road
+Kamelewai Street
+Ginger Road
+Puni Makai Loop N
+Diamond Head Drive
+Kumukahi Street
+Pahoa-Kapoho Road
+27th Avenue
+Tangerine Acres Road
+28th Avenue
+Alapai Point Road
+Lai Street
+Luana Street
+Ainaloa Drive
+Uiui Street
+Likeke Street
+Hale Way
+King Kamehameha Boulevard
+Maiko Street
+Vanda Drive
+Kapiolani Street
+Kuhio Drive
+Puni Paka Loop S
+Seadrift Road
+Pahoa Road
+Kupono Street
+Manalo Street
+Kaihiaku Street
+Manini Street
+37th Avenue
+Kapohanalu Street
+Leisure Lane
+Oliana Street
+Kauilani Road
+Sandalwood Court
+Melia Avenue
+Dolphin Lane
+Hou Street
+Vista Drive
+Mano Street
+Kekaikolo Street
+Cottage Circle
+Kaehukai Street
+Kikiao Street
+Mohala
+Nanawale Homstead Road
+Pualaa Road
+Puhala Street
+Malulani Loop
+State Highway 132
+Kalapana Beach Haven Road
+Naupaka Avenue
+Lehua Drive
+Nanwale Circle
+Hapuu Street
+Poni Moi Avenue
+Kalapana Kapoho Beach Road
+Nanialii Avenue
+Rainbow Drive
+Auina Road
+Kehauopuna Street
+Okika Avenue
+W Pohakupele Loop
+Kahoolawe Circle
+Kaheakeola Place
+Kumukahi Road
+Nanawale Homestead
+Namohala Street
+Uliui Street
+Puni Lapa Street W
+Hokukea Street
+Anthurium Street
+Kanawao Place
+ West
+Uluheimalu Road
+Mokihana Farm Lots Road
+Cinder Road
+Glenwood Road
+Mamo Street
+Lauone Street
+Aweoweo Street
+Kaihulali Street
+Anthurium Drive
+Anuenue Wawae
+41st Avenue
+Kapoho Road
+Kekainehe Street
+Captain's Drive
+Puni Lani Street E
+One Ele Ele Road
+Uluhe Avenue
+Middle Road
+Pahoa Pohoiki Road
+34th Avenue
+Hapuu Drive
+Kaiau Street
+Hilo Road
+Kaohuwalu Drive
+Kauhaenae Place
+Hokuao Street
+Pukalani Drive
+Main Gov't Road
+Oahu Street
+Kona Street
+Kaihalulu Street
+Laimana Avenue
+Huakai Street
+Kalihikai Street
+9th Road
+E Pohakupele Loop
+Pikake Drive
+Kahokumaka Loop
+Kekuewa Street
+Moanauli Loop
+Lahela Street
+Honu Street
+Kaku Street
+Nenue Street
+Coconut Drive
+Rubbish Dump Road
+Kahala Street
+Kuleana Street
+Kauai Road
+Leilani Avenue
+Puulena Street
+Auina Street
+Maluhia Road
+Kaueleau Makai Road
+25th Avenue
+Oahu Road
+Pahoa Circle
+Puakenikeni Place
+Macadamia Drive
+Kaimalolo Street
+Aloha Drive
+Moi Street
+Opelu Street
+Loke Place
+Kealawa Place
+Lehua Circle
+Lilikoi Drive
+Luana Place
+Kaululaau Street
+Railroad Avenue
+Maui Road
+Palm Way
+Niaulani Street
+Kikala Loop
+au Street
+Alapai Point Place
+Manako Avenue
+Konani Road
+Pakaka Road
+Oceanview Pkwy
+Hale Kamahina Road
+Niihau Road
+Pikake Road
+Hale Court
+Kahikopele Street
+Lehualani Place

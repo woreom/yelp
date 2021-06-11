@@ -1,0 +1,50 @@
+S 300 W
+S 550 W
+State Road 124
+W Cherry Street
+200 S
+500 W
+W Walnut Street
+S 400 W
+W 250 S
+S 100 W
+Market Street
+200 W
+600 W-90
+S 600 E-35
+County Road 600 W
+300 W
+Cherry Street
+100 W
+W Division Road
+S 200 W
+300 S
+400 W
+Division Road
+S 500 W
+Walnut Street
+600 E
+S Main Street
+S 600 E
+W 100 S
+W Market Street
+S 600 W-35
+ South
+600 E-35
+West Street
+600 W-35
+550 W
+Main Street
+400 S
+State Road 303
+W 300 S
+250 S
+100 S
+600 W
+County Road 600 E
+S 600 W-90
+W 400 S
+ West
+County Line Road
+S 600 W
+W 200 S

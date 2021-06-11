@@ -1,0 +1,30 @@
+W 25 N
+200 S
+S 200 West Street
+N 300 E
+S 400 W
+S 100 W
+S 200 E
+W 200 N
+400 West Street
+S 300 E
+Moore Road
+N 200 W
+S 200 W
+300 S
+State Route 10
+100 N
+S Center Street
+N Center Street
+Main Street
+400 S
+West Lane
+N 100 E
+S 100 E
+200 N
+100 S
+County Road 802
+300 N
+N 200 E
+W 375 S
+W 200 S

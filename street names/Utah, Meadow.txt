@@ -1,0 +1,13 @@
+State Route 133
+S 100 E
+S 300 E
+100 S
+E 100 N
+E Center Street
+N 100 W
+E 100 S
+N 200 E
+S Main
+W 100 S
+S 200 E
+W 100 N

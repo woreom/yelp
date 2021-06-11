@@ -1,0 +1,580 @@
+Northside Avenue
+Parker Street
+Tulare Avenue
+la Vereda Road
+Hopkins Street
+Lexington Road
+Linden Avenue
+State Route 123
+Capistrano Avenue
+Norwood Place
+McKinley Avenue
+Chilton Way
+Gilman Street
+Cowper Avenue
+Milvia Street
+Blake Street
+Fairlawn Drive
+Essex Street
+Solano Avenue Tunl
+Woodside Road
+Greenwood Com
+Evergreen Lane
+Kerr Avenue
+Bristol Drive
+Eastshore Highway
+Yolo Avenue
+Benvenue Avenue
+Northampton Avenue
+Ellis Street
+Harold Way
+McGee Avenue
+Quail Avenue
+San Miguel Avenue
+Hill Court
+Glen Avenue
+Parkside Drive
+San Antonio Avenue
+Berkeley Park Boulevard
+Holly Street
+Ventura Avenue
+Heinz Avenue
+Sonoma Avenue
+California Street
+Chaucer Street
+Bret Harte Road
+Yosemite Road
+Ashby Place
+Westmoorland Drive
+Stevenson Avenue
+63rd Street
+Neilson Street
+4th Street
+Edgecroft Road
+Olympus Avenue
+Center Street
+Franklin Street
+York Avenue
+Lorina Street
+Codornices Road
+Oberlin Avenue
+Sojourner Truth Court
+Hill Road
+Mendocino Avenue
+Park Hills Road
+Elmwood Court
+Haste Street
+Westview Drive
+Portland Avenue
+Bay View Place
+Peralta Avenue
+Greenwood Terrace
+Haskell Street
+Mosswood Road
+Eureka Avenue
+San Pablo Avenue
+9th Street
+Eunice Street
+Rincon Drive
+Charing Cross Road
+Bonar Street
+Hospital Drive
+The South Crossways
+Eucalyptus Road
+Buena Court
+Santa Rosa Avenue
+Carlotta Avenue
+Juanita Way
+Palm Court
+Chancellor Place
+Potter Street
+Vine Lane
+Alcatraz
+Virginia Gardens
+Vincente Walk
+Posen Avenue
+San Diego Road
+Beverly Place
+Poplar Street
+Senior Avenue
+Beloit Avenue
+Maybeck Twin Drive
+Ardmore Road
+Poe Street
+Gypsy Lane
+Roosevelt Avenue
+Bonita Avenue
+Panoramic Place
+Visalia Avenue
+Lassen Street
+Fresno Avenue
+Jaynes Street
+College
+Santa Fe Avenue
+Brookside Avenue
+State Route 13
+Park Way
+Westview Place
+Howe Street
+Tunnel Road
+Tacoma Avenue
+Eton Avenue
+Beverly Court
+Florida Avenue
+Brookside Court
+Derby Street
+Emerson Street
+Summit Road
+Oregon Street
+Contra Costa Avenue
+Talbot Avenue
+Fairview Street
+Acton Cres
+Plaza Drive
+Halkin Lane
+California
+Mabel Street
+Orchard Lane
+Bancroft Way
+Comstock Court
+Miramar Avenue
+Cedar Street
+Vicente Place
+Parnassus Road
+Kenyon Avenue
+Hilldale Avenue
+Grizzly Peak Boulevard
+Le Roy Avenue
+Yale Avenue
+Besito Avenue
+Strathmoor Drive
+67th Street
+Oak Street Path
+Canon Drive
+Encina Place
+Idaho Street
+Euclid Avenue
+Mosswood Lane
+Otis Street
+Nogales Street
+Sierra Street
+Los Angeles Avenue
+Monterey Avenue
+Arcade Lane
+Laurel Street
+Smyth Road
+Cleveland Avenue
+Eton Court
+Kittredge Street
+Harmon Street
+Vassar Avenue
+Woolsey Street
+Indian Rock Path
+Sacramento Street
+8th Street
+Vicente Road
+Eola Street
+Grayson Street
+Miramonte Court
+Prospect Street
+10th Street
+7th Street
+Shattuck Square
+Dewey Road
+Highland Place
+Murray Street
+Vistamont Avenue
+Modoc Street
+Harvard Circle
+Sunset Drive
+Roble Court
+Maryland Avenue
+Alcatraz Avenue
+Avis Road
+Henry
+Franciscan Way
+Breakwater Drive
+Cambridge Avenue
+Lincoln Street
+Short Street
+Hillside Court
+Kains Avenue
+Cornell Avenue
+Boynton Walk
+Stuart Street
+Garden Drive
+Highland Boulevard
+Elmwood Avenue
+Bataan Avenue
+Live Oak Road
+Dana Street
+Saint Albans Road
+Canyon Road
+Martin Luther King Jr Way
+Boise Street
+Josephine Street
+Dwight Place
+Claremont Boulevard
+Gravatt Drive
+Eagle Hill
+Station Place
+Leroy Avenue
+Dwight Cres
+Bolivar Drive
+Channing Way
+Cherry Street
+Stanford Avenue
+Julia Street
+San Fernando Avenue
+Stanton Street
+E Parnassus Court
+Lake Drive
+Walker Street
+Camelot Court
+Sunset Lane
+Allston Way
+Gelston Street
+5th Street
+Trinity Avenue
+Amador Avenue
+San Lorenzo Avenue
+The Spiral
+Ada Street
+62nd Street
+Alvarado Road
+Amito Drive
+High Court
+Hillcrest Road
+Stannage Avenue
+65th Street
+la Loma Avenue
+Arden Road
+Drury Court
+Ridge Road
+Kensington Road
+Domingo Avenue
+Amherst Avenue
+Avon Road
+Southampton Avenue
+Warring Street
+Coventry Road
+Buckingham Boulevard
+Oakvale Avenue
+Avalon Walk
+Siler Place
+Evelyn Avenue
+The Shortcut
+Ajax Place
+Camelia Street
+Avalon Avenue
+The Uplands
+Yosemite Steps
+Northgate Avenue
+Francisco Street
+Glendale Avenue
+Summit Lane
+Reed Place
+Union Pacific RR
+Thousand Oaks Boulevard
+Piedmont Avenue
+Rochdale Way
+Kelsey Street
+Bay Area Rapid Transit RR
+Fulton Street
+Seawall Drive
+Willow Lane
+Beverly Road
+Devon Way
+Ocean View Avenue
+Panoramic Way
+Kenilworth Road
+Fernwald Road
+Sterling Avenue
+Cedarwood Lane
+Cragmont Avenue
+Acton Street
+Oak Knoll Terrace
+Spaulding Avenue
+Harper Street
+Claremont Avenue
+Park Street
+Rugby Avenue
+Columbia Circle
+King Street
+Acroft Court
+Wallace Street
+Fountain Walk
+Avenida Drive
+Summer Street
+Plateau Drive
+Woodmont Avenue
+Loran Court
+Kensington Court
+Bonnie Lane
+Tamalpais Road
+Bridge Road
+Newbury Street
+2nd Street
+Santa Clara Avenue
+Harding Circle
+Vistamont Court
+Stonewall Road
+Virginia Street Exd
+Acacia Avenue
+Browning Street
+Folger Avenue
+el Portal Court
+The Plaza Drive
+Brookside Drive
+Eucalyptus Path
+Rosemont Avenue
+Creston Road
+Virginia Street
+Oak Ridge Road
+Belrose Avenue
+Edith Street
+Indian Rock Avenue
+San Juan Avenue
+Roble Road
+Harrison Street
+Somerset Place
+San Luis Road
+Kingston Road
+Buena Avenue
+Shattuck Place
+Stratford Road
+Woodmont Court
+Madera Street
+3rd Street
+Garber Street
+Dohr Street
+Chestnut Street
+Whitaker Avenue
+Spring Way
+Vallejo Street
+Rincon Road
+Hilgard Avenue
+Henry Street
+Lawson Road
+Lewiston Avenue
+Terrace Walk
+Buena Vista Way
+Eldridge Court
+Webster Street
+Hazel Road
+Highgate Road
+Merced Street
+Vine Street
+Alta Road
+Drury Road
+Byron Street
+Bancroft Steps
+Ordway Street
+San Mateo Road
+Yale Circle
+Columbia Avenue
+Claremont Cres
+Middlefield Road
+Alamo Avenue
+Rosemont Pt
+Santa Barbara Road
+Marlborough Terrace
+Adeline Street
+Marina Boulevard
+Richardson Road
+Arden Steps
+Berryman Street
+Willamette Avenue
+Solano Avenue
+Norfolk Road
+Anthony Street
+Lenox Road
+Hawthorne Terrace
+Amito Avenue
+Rose Walk
+Montrose Road
+My Way
+Colby Street
+Eastshore Frontage Road
+San Ramon Avenue
+Ward Street
+Edwin Drive
+Latham Lane
+Le Conte Avenue
+Mariposa Avenue
+Grant Street
+Dartmouth Drive
+Westminster Avenue
+Frontage Road
+Carrison Street
+el Camino Real
+Hillview Road
+Norwood Avenue
+Bateman Street
+Marin Avenue
+Sunset Court
+Norwood Court
+Hillcrest Court
+Wellesley Avenue
+Roanoke Road
+The Circle
+el Dorado Avenue
+The Alameda
+Etna Street
+Bowditch Street
+Wheeler Street
+Valley Road
+W Parnassus Court
+Oak Ridge Path
+Woodhaven Road
+Jessen Court
+Sherwick Drive
+Dorothy Place
+Wilson Circle
+Page Street
+Dawn Street
+Marchant Court
+Arden Path
+Purdue Avenue
+Lam Court
+Dwight Way
+Jefferson Avenue
+Keith Avenue
+Menlo Place
+Arlington Lane
+Colorado Avenue
+Napa Avenue
+Windsor Avenue
+Arlington Court
+Crystal Way
+Buchanan Street
+Arlmont Drive
+del Norte Street
+Park Gate
+Arch Street
+College Avenue
+Russell Street
+Princeton Avenue
+Rock Walk
+Sunset Terrace
+Hillside Avenue
+Queens Road
+66th Street
+Ensenada Avenue
+Poppy Lane
+Oak Street
+Scenic Avenue
+Arlington Avenue
+Marguerita Road
+Highgate Court
+Forest Lane
+Cypress Street
+Addison Street
+Sunset Trail
+Cowper Street
+North Street
+Hillegass Avenue
+Stephens Way
+Atherton Street
+Bay Tree Lane
+Tremont Street
+Piedmont Cres
+Kentucky Avenue
+Claremont
+Pine Avenue
+Rose Street
+Walnut Street
+Corona Court
+del Mar Avenue
+Pardee Street
+6th Street
+Arcade Avenue
+Ardmore Path
+Vermont Avenue
+Curtis Street
+Vincente Avenue
+Berkeley Way
+Acton Circle
+Willard Place
+Overlook Road
+Perth Place
+Ashby Avenue
+Delaware Street
+Wildcat Canyon Road
+University Avenue
+Florence Street
+Norwood Vw
+Oceanview Avenue
+Keoncrest Drive
+Spruce Street
+Prince Street
+Michigan Avenue
+Kenilworth Drive
+Stoddard Way
+Ohlone Avenue
+Colgate Avenue
+Sutter Street
+Muir Way
+Mathews Street
+Loop Drive
+Cutter Way
+The Crossways
+Dowling Place
+Carleton Street
+Parkside Court
+Kenilworth Court
+Catalina Avenue
+Bret Harte Way
+Rispin Drive
+W Bolivar Drive
+Magnolia Street
+Catherine Drive
+Oak View Avenue
+Hearst Avenue
+Keeler Avenue
+Slater Lane
+Ellsworth Street
+Regent Street
+Los Altos Drive
+Estates Drive
+Forest Avenue
+Miller Avenue
+Tanglewood Road
+Drury Lane
+Valley Street
+Boynton Avenue
+The Crescent
+Durant Avenue
+Keoncrest Path
+Halcyon Court
+Deakin Street
+Tyler Street
+Doris Place
+Regal Road
+San Benito Road
+Twain Avenue
+Edwards Street
+Oxford Street
+Grand View Drive
+Florida Walk
+Telegraph Avenue
+Berkeley Square
+Estates Road
+Rock Lane
+Campus Drive
+Atlas Place
+Ferguson Court
+Burnett Street
+Tomlee Drive
+Anson Way
+Shattuck Avenue
+Baker Street
+West Street
+Jones Street
+N Valley Street
+Colusa Avenue
+Marchant Gardens
+San Pedro Avenue
+Shasta Road
+Alvarado Place
+Belvedere Avenue

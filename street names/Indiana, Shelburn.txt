@@ -1,0 +1,315 @@
+Private Road 345 E
+1st Street
+High Street
+Broadway Street
+Interurban Street
+N Co Road 25 E
+S High Street
+Thomas Street
+Dogwood Lane
+S Kentucky Street
+Private Road 535 N
+N Co Road 200 W
+W Wright Street
+Co Road 75 W
+E Beckett Street
+Co Road 250 E
+Center Street
+N Co Road 475 E
+E Co Road 800 N
+Co Road 550 N
+N Co Road 350 W
+Pennsylvania Street
+N Center Street
+Seifert Lane
+N Co Road 125 E
+Co Road 750 N
+S Division Road
+Glenn Street
+E North Street
+W Maple Street
+Co Road 325 W
+E Lincoln Street
+W Walls Street
+Co Road 700 N
+W Griffith Street
+E Depot Street
+E Co Road 625 N
+Co Road 400 W
+N Poplar Street
+Co Road 700 E
+Railroad Street
+Co Road 25 E
+W Polk Street
+E Hinkle Street
+Co Road 825 E
+N Alabama Street
+E Co Road 775 N
+S Buckley Street
+ East
+Poplar Street
+E Co Road 750 N
+N Co Road 650 E
+Co Road 850 N
+E Co Road 975 N
+N Co Road 75 W
+N Co Road 350 E
+State Road 63
+S Park Street
+Co Road 550 W
+Co Road 710 N
+W Hyrera Jackson
+N Co Road 100 W
+ South
+E Co Road 575 N
+N Co Road 550 E
+Griffith Street
+N Pennsylvania Street
+Patterson Street
+E Co Road 475 N
+Oregon Street
+N Co Road 400 W
+E 2nd Street
+Thunderbird Pond Road
+Co Road 950 N
+N Co Road 375 E
+Co Road 100 E
+Orchard Street
+W Harrison Street
+Co Road 825 N
+E Co Road 825 N
+N Patricia Lane
+Missouri Street
+E Co Road 600 N
+N Division Road
+E Co Road 650 N
+County Road 900 E
+Ohio Street
+Dodds Bridge Road
+E Co Road 900 N
+N Co Road 625 E
+N Co Road 600 E
+W Co Road 850 N
+E Jackson Street
+Madison Street
+Meadow Street
+W Broadway Street
+Curry Avenue
+Meadowview Drive
+W Jackson Street
+Lincoln Street
+Wabash Street
+W Lincoln Street
+E Center Street
+Private Road 90 E
+East Street
+Washington Avenue
+W Chowning Street
+N Co Road 250 E
+W Madison Street
+N Co Road 200 E
+W Co Road 1050 N
+N Delaware Street
+W Co Road 650 N
+Polk Street
+N Co Road 300 W
+Depot Street
+N Co Road 275 E
+N Co Road 550 W
+Co Road 275 E
+Co Road 900 N
+E Co Road 500 N
+Scott Street
+W Hinkle Street
+Co Road 800 E
+N Oregon Street
+E Maple Street
+Mill Street
+Co Road 375 E
+Houser Road
+Co Road 775 N
+US Highway 150
+S Jackson Street
+Co Road 350 W
+N Washington Street
+Co Road 625 N
+N Co Road 850 E
+N Oak Street
+Co Road 475 E
+N Co Road 500 W
+Old US Highway 41
+Buckley Street
+N Railroad Street
+S Poplar Street
+Co Road 650 N
+S Delaware Street
+Co Road 100 W
+W Co Road 500 N
+W Co Road 725 N
+E Griffith Street
+Co Road 500 N
+N Co Road 725 E
+Park Street
+Terre Haute Street
+E Jefferson Street
+S Warren Street
+N Vine Street
+N Carbon Street
+Co Road 350 E
+Hyrera Jackson
+2nd Street
+Co Road 200 E
+N Mitchell Street
+W State Road 48
+Monroe Street
+Co Road 95 E
+Co Road 675 E
+US Highway 41
+N East Street
+E Co Road 710 N
+Co Road 125 E
+Co Road 315 E
+Harrison Street
+Jefferson Street
+State Road 48
+S East Street
+Co Road 850 E
+E Co Road 1050 N
+Kentucky Street
+N State Road 63
+S State Street
+N State Street
+S Thomas Street
+E Shady Lane
+ Northeast
+W Co Road 700 N
+Co Road 725 E
+N Co Road 100 E
+Co Road 500 W
+Co Road 475 N
+Vine Street
+Coal Street
+N Co Road 700 E
+Maple Street
+McCoskey Street
+W Co Road 800 N
+Adams Street
+Co Road 750 E
+Patricia Lane
+Walls Street
+Jackson Street
+N Coal Street
+Mitchell Street
+ North
+N Private Road 90 E
+W Co Road 750 N
+E Lakeview Lane
+N Walnut Street
+S Illinois Street
+Beckett Street
+W Co Road 600 N
+Inter Urban Street
+Hickory Trail
+E Co Road 550 N
+Co Road 105 E
+Division Road
+W Jefferson Street
+N Co Road 675 E
+County Road 143
+Co Road 975 N
+N Polk Street
+N Co Road 300 E
+Main Street
+Chowning Street
+Co Road 875 N
+E Private Road 535 N
+Hinkle Street
+E 1st Street
+Co Road 425 W
+Co Road 200 W
+E Co Road 875 N
+W Walnut Street
+Keene Street
+S Walnut Street
+N Warren Street
+N Seifert Lane
+Co Road 150 W
+N Houser Road
+E Walls Street
+N Missouri Street
+W Scott Street
+N Co Road 825 E
+W Co Road 450 N
+E Meadow Street
+E Glenn Street
+S Maryland Street
+Wright Street
+Oak Street
+ West
+N Dodds Bridge Road
+Co Road 600 E
+W Co Road 950 N
+Water Street
+North Street
+Co Road 450 N
+Co Road 625 E
+Co Road 1050 N
+W Glenn Street
+Walnut Street
+N Co Road 800 E
+Co Road 725 N
+E Water Street
+Shady Lane
+State Street
+W Monroe Street
+N Co Road 150 W
+Co Road 575 N
+N Co Road 50 W
+Delaware Street
+Warren Street
+Carbon Street
+N Ohio Street
+Illinois Street
+N Co Road 750 E
+E Polk Street
+Co Road 800 N
+Lakeview Lane
+W Mill Street
+Cleveland Street
+Church Street
+Garfield Street
+N West Street
+NE State Road 48
+Co Road 650 E
+Co Road 600 N
+E Co Road 850 N
+N Co Road 95 E
+W Orchard Street
+Maryland Street
+S Main Street
+Washington Street
+Co Road 300 E
+Alabama Street
+N Jackson Street
+N Thomas Street
+Co Road 575 E
+E Curry Avenue
+N High Street
+N Co Road 425 W
+W Co Road 575 N
+N US Highway 41
+N Co Road 575 E
+E State Road 48
+S Church Street
+N Co Road 105 E
+N Old US Highway 41
+Co Road 50 W
+Co Road 300 W
+Co Road 550 E
+E Mill Street
+N Washington Avenue
+West Street
+W Garfield Street
+N Private Road 345 E
+N Co Road 315 E
+N Co Road 325 W

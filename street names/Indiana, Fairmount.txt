@@ -1,0 +1,325 @@
+E 1900 N
+County Road 940 E
+S 100 W
+W 1191 S
+200 W
+S 700 E
+Mills Street
+E 1200 S
+300 W
+Hilltop Avenue
+275 E
+County Road 550 E
+S Sycamore Street
+Southwest Drive
+11th Street
+E 1900 N-48
+400 W
+S 275 E
+1st Street
+High Street
+Cottonwood Street
+S 375 W
+E Madison Street
+700 W
+State Road 26
+County Road 800 W
+County Road 500 E
+E 800 S
+S Hill Street
+887 S
+1050 S
+E 12th Street
+County Road 300 E
+County Road 100 W
+E 1000 S
+E 9th Street
+4th Street
+W 1116 S
+W Co Road 1300 N
+N Hill Street
+N Elm Road
+Center Street
+S 800 W
+County Road 850 S
+E 1125 S
+County Road 200 W
+E Monroe Street
+County Road 100 E
+Hill Street
+E 810 S
+950 S
+Rush Street
+Minnesota Avenue
+Henley Avenue
+9th Street
+500 W
+Fairmount Avenue
+13th Street
+Circle Drive
+800 E
+County Road 800 S
+N Main Street
+800 S
+S Hilltop Avenue
+600 W
+E 6th Street
+S 600 W
+ East
+W Fox Road
+E 1050 S
+State Road 13
+900 E
+E 8th Street
+W 1200 S
+County Road 500 W
+County Road 1122 S
+E 5th Street
+500 E
+E 7th Street
+Lockerbie Place
+450 E
+S 500 E
+S 500 W
+1125 S
+Penn Street
+810 S
+S Elm Street
+ South
+County Road 188 E
+W 894 S
+S Southwest Drive
+Van Buren Street
+S Factory Street
+852 S
+S 300 W
+S 800 E
+E 2nd Street
+S 150 E
+Elm Road
+Sycamore Street
+N Factory Street
+W Harrison Street
+N Cottonwood Street
+S Wheeling Pike
+600 E
+County Road 400 W
+E 900 S
+W Tyler Street
+E 1123 S
+County Road 700 W
+8th Street
+Mittank Drive
+W 3rd Street
+County Road 375 W
+E Van Buren Street
+County Road 250 E
+10th Street
+7th Street
+E 750 S
+E Jackson Street
+Madison Street
+County Road 275 E
+N Morton Street
+Cardinal Drive
+E 250 S
+E 13th Street
+W 1125 S
+S 450 E
+182 E
+250 E
+W 1300 N Road
+W 1100 S
+County Road 1125 S
+E 10th Street
+W Madison Street
+Lincoln Avenue
+E 850 S
+Morton Street
+S 700 W
+S 600 E
+5th Street
+1123 S
+County Road 975 S
+E Washington Street
+S 807 W
+S 900 W
+W 800 S
+Mill Street
+S 200 E
+1122 S
+N Sycamore Street
+1000 S
+1116 S
+E Adams Street
+S Mill Street
+W Washington Street
+E 1100 S
+County Road 950 S
+S Buckeye Street
+County Road 1850 N
+N Barclay Street
+Buckeye Street
+County Road 750 S
+County Road 300 W
+County Road 1100 S
+Mill
+E Jefferson Street
+N Elm Street
+County Road 700 S
+1900 N
+Rigdon Road
+S 200 W
+N Vine Street
+300 E
+990 E
+2nd Street
+Overman Avenue
+N Mill Street
+700 E
+County Road 175 E
+E 1122 S
+County Road 700 E
+County Road 900 S
+W 6th Street
+Monroe Street
+W Adams Street
+E Harrison Street
+Prarie Court
+E 00 W
+S 900 E
+E 975 S
+Harrison Street
+1100 S
+Jefferson Street
+Strawtown Pike
+Factory Street
+N Wilson Street
+1191 S
+Co Road 1200 S
+Sand Pike
+Clark Road
+Elm Street
+3rd Street
+County Road 990 E
+1200 S
+W 2nd Street
+W 1050 S
+County Road 1123 S
+350 E
+1900 N-48
+Vine Street
+W 9th Street
+W 900 S
+State Road 37
+County Road 50 E
+S 250 E
+Sand Pike Road
+850 S
+Adams Street
+188 E
+250 S
+E 950 S
+E Tyler Street
+Jackson Street
+ North
+Overman Road
+County Road 350 E
+N Walnut Street
+S 300 E
+Wheeling Pike
+1300 N Road
+N Rush Street
+E Main Street
+W Jefferson Street
+S Barclay Street
+S 188 E
+County Road 1116 S
+E 3rd Street
+N Buckeye Street
+900 W
+W Prairie Trce
+50 E
+Main Street
+Fox Road
+S 100 E
+State Road 9
+175 E
+E 1st Street
+750 S
+550 E
+150 E
+Paisley Drive
+S Walnut Street
+100 E
+W 1900 N-48
+Wilson Street
+S 350 E
+W 4th Street
+Howard Court
+894 S
+Kelsu Drive
+County Road 1200 S
+900 S
+E 852 S
+W 8th Street
+County Road 112 E
+E Cardinal Drive
+County Road 1050 S
+S State Road 13
+S Penn Street
+Prairie Trce
+975 S
+S Vine Street
+ West
+S 550 E
+S 50 E
+800 W
+S 175 E
+Selkirk Circle
+W 1000 S
+County Road 800 E
+County Road 450 E
+W 1900 N
+S 990 E
+Walnut Street
+E 4th Street
+6th Street
+W 975 S
+S E 00 W
+S Strawtown Pike
+Michigan Avenue
+Church Street
+County Road 150 E
+375 W
+00 W
+Seward Lane
+S Main Street
+Prarie Trace Road
+Washington Street
+W 887 S
+Co Road 1300 N
+W 700 S
+200 E
+Argyll Drive
+12th Street
+S Michigan Avenue
+E Co Road 1200 S
+County Road 250 S
+W 5th Street
+Tyler Street
+County Road 200 E
+S 400 W
+Cottonwood
+S Mills Street
+W 1st Street
+County Road 600 W
+807 W
+100 W
+Barclay Street
+County Road 750 E
+Selkirk Drive
+Jefferson Place
+700 S
+Wisconsin Avenue
+W 10th Street

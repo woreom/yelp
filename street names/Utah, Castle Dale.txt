@@ -1,0 +1,81 @@
+W 500 N
+Valley View Drive
+N 500 E
+S 100 W
+Castle Avenue
+E 700 N
+W 600 N
+S 200 W
+State Route 10
+E 300 S
+S Center Street
+N Orange Court
+Bell Court
+E 100 S
+Cove Vw
+Ghost Road
+100 S
+N Spartan Center Street
+N 300 E
+W 200 N
+Gabriella Lane
+E 920 N
+Sinbad Court
+Coal Haul Road
+E 100 N
+Cottonwood Vw
+N Center Street
+E 640 N
+Elm Street
+E 970 N
+W Ghost Road
+E 600 N
+W 300 N
+Cherry View Lane
+S 400 E
+E 500 N
+W 800 N
+E 670 N
+Castle Court
+N 400 W
+375 W
+Esquire Pkwy
+N 200 W
+San Rafel Court
+Drigg Lane
+850 North Court
+N 300 W
+E 200 N
+N 100 East Street
+N 160 E
+940 No Court
+N 375 W Court
+North Court
+Buckhorn Court
+Hillsdale Drive
+N 75 E
+120 W
+S 200 E
+W 100 N
+State Route 29
+S 300 E
+Cedar Vw
+Orange Avenue
+N 100 W
+500 E
+E 1000 N
+N 400 E
+E 400 N
+E 200 S
+E Main Street
+Emery Avenue
+E 300 N
+Canyon Vw
+Foothill Drive
+W Main Street
+N 100 E
+S 100 E
+N 200 E
+Bell Avenue
+Valleyview Court
+San Rafel Avenue

@@ -1,0 +1,20 @@
+325 N
+ North
+600 S
+E 250 N
+W 800 N
+315 N
+E 280 N
+State Road 3
+280 N
+700 N
+E 325 N
+E 315 N
+N 780 E
+W 600 S
+780 E
+ West
+800 N
+250 N
+W 700 N
+ East

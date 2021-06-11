@@ -1,0 +1,42 @@
+N1700 Road
+Cheyenne Street
+N 1720 Road
+Ew 094
+N 1730 Road
+E0930 Road
+N1770 Road
+R-M 10
+RM Ns 168
+RM Ns 173
+Redmoon Street
+RM Ew 091
+E 990 Road
+S Redmoon Street
+E0980 Road
+E0970 Road
+RM Ew 093
+E 950 Road
+4th Avenue
+N 1690 Road
+N 1680 Road
+E0920 Road
+N1680 Road
+Santa Fe Avenue
+Oklahoma Street
+N 1760 Road
+S Oklahoma Street
+N1750 Road
+5th Avenue
+E0910 Road
+E 1030 Road
+N 1740 Road
+E0940 Road
+E 1000 Road
+Doty Road
+N1710 Road
+Pampa Street
+N 1790 Road
+E 1020 Road
+E0880 Road
+E 1010 Road
+RM Ew 092

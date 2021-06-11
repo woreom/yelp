@@ -1,0 +1,56 @@
+W Center Street
+W 100 North Street
+W 200 South Street
+E Valley Circle
+N 100 West Street
+Factory Lane
+S 400 E
+W 400 North Street
+E 400 South Street
+E Factory Lane
+N 300 E
+Railroad Lane
+W 13250 S
+Clarion Road
+S 100 W
+E 200 South Street
+S 200 E
+W 200 N
+US Highway 89
+N 400 East Street
+Jensen Lane
+S 300 E
+N 100 W
+500 E
+W 300 South Street
+E 100 North Street
+S 400 East Street
+E 400 N
+Neilson Lane
+S 500 E
+S 200 W
+E 300 South Street
+N Main Street
+S Main Street
+N 200 West Street
+W 100 S
+E 100 S
+Windmill Lane
+E 470 N
+N 100 East Street
+Dairy Road
+Hansen Lane
+N 100 E
+S 100 E
+W 300 North Street
+N 200 E
+E Center Street
+S 150 West Street
+S State Street
+E 100 South Street
+E 200 North Street
+Crowley Lane
+W 400 South Street
+W 100 South Street
+Christensen Lane
+W 200 S

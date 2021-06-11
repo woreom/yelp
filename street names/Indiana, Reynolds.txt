@@ -1,0 +1,134 @@
+S 300 W
+Rose Loop
+100 E
+E 2nd Street
+375 N
+200 W
+County Road 50 S
+300 W
+E Jefferson Street
+State Road 43
+Meridian Road
+Smithson Road
+300 S
+400 W
+1st Street
+E Buell
+275 N
+E 100 S
+2nd Street
+S German Street
+700 W
+US Highway 24
+25 E
+S Washington Street
+W 50 N
+225 W
+100 S
+W 3rd Street
+300 N
+ West
+Shoop Road
+E 375 N
+S State Road 43
+Diener Road
+Clark Street
+S Boone Street
+W 200 N
+4th Street
+Harrison Street
+E 275 N
+Center Street
+N Meridian Road
+Jefferson Street
+100 N
+S Meridian Road
+E 4th Street
+E 100 N
+N 25 E
+W 100 S
+W Smithson Road
+E Wayne Street
+W 25 S
+E Division Road
+3rd Street
+S 225 W
+E 50 N
+Buell
+E Hillside Drive
+W 300 N
+Rail Road Street
+S 125 E
+S 450 W
+325 S
+500 W
+W 2nd Street
+Hillside Drive
+Shielos Road
+N Kenton Street
+N 400 W
+S 75 W
+N 200 W
+E Logan Street
+Boone Street
+W Logan Street
+N Diener Road
+25 N
+S 700 W
+N Main Street
+S Main Street
+125 E
+N 300 W
+Washington Street
+E 150 N
+400 S
+W 300 S
+E Smithson Road
+N Boone Street
+200 N
+N Rose Loop
+600 W
+US Highway 421
+150 N
+200 E
+75 W
+S 600 W
+W 200 S
+ East
+ North
+Kenton Street
+W Hillside Drive
+N 225 W
+200 S
+W Shoop Road
+400 N
+25 S
+W 100 N
+W 1st Street
+N Washington Street
+N 100 W
+100 W
+W 400 N
+Division Road
+S 500 W
+Wayne Street
+W Jefferson Street
+E 25 N
+E 3rd Street
+W 325 S
+N Clark Street
+ South
+E 300 N
+S Kenton Street
+German Street
+Main Street
+N 100 E
+450 W
+S 100 E
+N 175 E
+W 400 S
+N 200 E
+Logan Street
+175 E
+E 1st Street
+50 N

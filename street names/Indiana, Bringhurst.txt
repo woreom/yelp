@@ -1,0 +1,120 @@
+E Westview Drive
+E 145 S
+150 E
+155 S
+S 75
+S 100 W
+S 150 E
+S 350 E
+75 E
+W 500 S
+Lynn Street
+Prince William Road
+W 155 S
+S 4 W
+300 S
+730 E
+6 W
+E 300 S
+400 E
+10 W
+S Center Street
+300 E
+500 S
+S 75 E
+S 9 E
+S 150 W
+S 350 W
+4 W
+S Prince William Road
+Grand Street
+S 730 E
+ West
+S 95 E
+9 E
+Michigan Street
+740 E
+S 50 E
+S Westview Drive
+S State Road 75
+W 145 S
+State Road 39
+S 562 E
+S 675 E
+350 S
+Center Street
+Walnut Street
+Burris Street
+E 250 S
+State Road 29
+E 140 S
+Wabash Street
+Eller Drive
+Elm Street
+150 S
+S 6 W
+Westview Drive
+State Road 75
+145 S
+675 E
+S 740 E
+Valleyview Pt
+350 W
+W Wabash Street
+S 125 E
+S 10 W
+S 400 E
+325 S
+500 W
+Bringhurst Road
+W 250 S
+Front Street
+E 400 S
+350 E
+E 325 S
+E Woodland Way
+575 E
+125 E
+562 E
+400 S
+E Valleyview Pt
+W 300 S
+S 625 E
+250 S
+S Bringhurst Road
+600 W
+US Highway 421
+200 E
+S 600 W
+ East
+S 750 E
+200 S
+95 E
+625 E
+S 200 E
+S 250 W
+S 300 E
+E 150 S
+500 E
+100 W
+250 W
+E 350 S
+S 575 E
+E 200 S
+S 500 E
+Woodland Way
+750 E
+W 150 S
+E Wabash Street
+E Main Street
+S 500 W
+150 W
+140 S
+75
+S State Road 29
+ South
+50 E
+W 140 S
+Main Street
+W Main Street
+W 400 S

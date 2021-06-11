@@ -1,0 +1,503 @@
+35th Street
+S Broadway
+E Saltaire Road
+E Hollywood Avenue
+Bangor Street
+Hamilton Avenue
+42nd Street
+S 3rd Street
+Delaware Avenue
+Buffalo Avenue
+Fir Street
+S 7
+S Wellwood Avenue
+McKinley Avenue
+Venetian Promenade
+Pine Street
+38th Street
+Strong Avenue
+S Broome Avenue
+W Belle Terre Avenue
+S 16
+11th Street
+Rose Court
+Reade Avenue
+Hollywood Avenue
+1st Street
+High Street
+6
+Hoffman Avenue
+Wood Place
+Elm Avenue
+Gulf Street
+Dover Street
+W John Street
+S High Street
+Austin Street
+John Street
+W Hollywood Avenue
+Marie Street
+52nd Street
+Garfield Place
+45th Street
+N Fulton Avenue
+Babylon Farmingdale Road
+W Granada Avenue
+Cedar Place
+Oak Avenue
+4th Street
+S Erie Avenue
+E Hoffman Avenue
+W Hoffman Avenue
+S Travis Street
+Doges Promenade
+Richmond Avenue
+34th Street
+33rd Street
+Cordiero Avenue
+Kane Street
+Pebler Lane
+50th Street
+Schley Avenue
+Wilson Place
+Miramar Boulevard
+S Fulton Avenue
+S 5
+32nd Street
+Richards Lane
+Frank Street
+16th Street
+W Neptune Avenue
+32
+Bahama Street
+Smalling Place
+9th Street
+Irving Avenue
+Merrick Road
+53rd Street
+Mortell Court
+N Queens Avenue
+Kissimee Road
+Verdi Terrace
+Forsythe Avenue
+Laurel Road
+13th Street
+Brown Place
+County Road 2
+31st Street
+Colonial Road
+S 11th Street
+Snedecor Avenue
+Lewis Avenue
+16
+Centre Avenue
+Palm Street
+Taft Place
+S Pecan Street
+Paine Street
+N Hamilton Avenue
+Bayview Avenue E
+Access Drive
+S 11
+29th Street
+Ash Street
+41st Street
+ East
+Constance Court
+Perry Street
+S 6
+W Minerva Road
+Jerome Street
+Santapogue Drive
+New Highway
+Roosevelt Avenue
+Albin Avenue
+Alhambra Avenue
+E Seacrest Avenue
+Gary Street
+Adams Avenue
+N Richmond Avenue
+Evergreen Drive
+Club House Drive
+Hancock Place
+Houston Street
+Fremont Street
+Shore Place
+June Street
+Stuyvesant Avenue
+N Monroe Avenue
+Granada Avenue
+Charles Street
+ South
+13
+Albert Street
+N Niagara Avenue
+E Merritt Street
+Neptune Avenue
+S Delaware Avenue
+S Alleghany Avenue
+Garden Place
+Smith Street
+49
+E Santa Barbara Road
+Heling Boulevard
+Cedar Street
+N Strongs Avenue
+Tenety Avenue
+Orchard Street
+Maple Avenue
+N 7th Street
+Texas Street
+Atlantic Street
+Idaho Street
+Granada Pkwy
+E Minerva Road
+Newark Street
+Canal Street
+N 8
+Rd 47
+46
+Anthony Drive
+Copiague Road
+Ohio Street
+8th Street
+East Drive
+E Granada Avenue
+Inlet Drive
+Riviera Pkwy
+Muncy Street
+Surf Road
+Kansas Street
+10th Street
+7th Street
+Grant Place
+Lido Pkwy
+Clinton Avenue
+49th Street
+Pine Place
+35
+S Hamilton Avenue
+N 9th Street
+Reid Street
+Winchester Drive
+3rd Avenue
+S 10th Street
+Fulton Avenue
+Bedell Street
+Maple Drive
+Harrington Avenue
+Ocean Street
+Ontario Avenue
+Oxford
+41
+Washington Avenue
+Lincoln Avenue
+S 16th Street
+Shore Walk
+Lake Drive
+Merrick Lane
+9
+1st Avenue
+Albany Avenue
+Delta Street
+Lenox Street
+5th Street
+Buena Vista Boulevard
+E Hampton Road
+46th Street
+N 6th Street
+W Riviera Drive
+N 7
+N Ontario Avenue
+Bayview Avenue W
+47
+Park Avenue
+S 3
+E Marine Avenue
+Gladys Street
+Bay Street
+N Jefferson Avenue
+2nd Avenue
+Wyona Avenue
+S 4
+Robbins Street
+Washington Drive
+Bay Place
+Hartford Street
+Prairie Lane
+Vermont Street
+Linton Avenue
+7
+Monroe Drive
+Copiage Road
+Feustal Street
+Lake Street
+Bendix Place
+Monroe Avenue
+Herbert Avenue
+N 4
+W Gates Avenue
+W Marine Avenue
+N Erie Avenue
+S 6th Street
+47th Street
+Beach Street
+Beacon Avenue
+Ithaca Street
+Minerva Road
+State Route 109
+S 7th Street
+Willow Lane
+Venetian Boulevard
+S 4th Street
+S 12th Street
+Daniel Street
+8
+Travis Street
+Plain Street
+36th Street
+Harding Avenue
+40th Street
+Wellbrock Street
+Belle Terre Avenue
+Clearwater Road
+N Broome Avenue
+Easton Street
+36
+4th Avenue
+E Clearwater Road
+W Santa Barbara Road
+Rainbow Lane
+Concord Avenue
+43rd Street
+N Putnam Avenue
+N Delaware Avenue
+Lake Boulevard
+Merritt Street
+Broadway
+2nd Street
+State Route 27A
+Tompkins Lane
+Catskill Avenue
+38
+Piave Terrace
+Bolton Street
+Byrd Street
+44th Street
+New York Avenue
+Herzel Boulevard
+County Road 12
+Birch Street
+Greene Avenue
+Queens Avenue
+E Montauk Highway
+S Greene Avenue
+Lane Street
+39th Street
+N Indiana Avenue
+Erie Avenue
+E Gates Avenue
+Brook Street
+Cambridge Drive E
+Lido Promenade
+N 5
+11
+S 9th Street
+Grand Avenue
+N Strong Avenue
+3rd Street
+Strongs Avenue
+Chestnut Street
+Farmingdale Road
+W Lake Drive
+N 10
+Brooktree Circle
+Surf Street
+W Kissimee Road
+Akron Street
+Perry Place
+Henry Street
+Lido Promenade E
+Cortland Street
+N Railroad Avenue
+Madison Avenue
+Kramer Drive
+Mound Street
+Shore Road
+Frank
+14th Street
+Kellum Street
+Wellwood Avenue
+S 14
+Santa Barbara Road
+County Road 3
+School Street
+Hampton Road
+Waco Street
+Nevada Street
+W Alhambra Avenue
+Marionette Walk
+Gear Avenue
+Bergen Court
+Leibrock Avenue
+ North
+State Route 27
+W Saltaire Road
+Stevens Street
+E Alhambra Avenue
+Phyllis Drive
+Webster Avenue
+E Neptune Avenue
+Jackson Avenue
+Burton Place
+Narragansett Villas Drive
+Sunrise Highway
+Farragut Avenue
+S 8
+Heathcote Road
+N Clinton Avenue
+N 10th Street
+Dekalb Avenue
+Hoyt Place
+Ritz Place
+Montauk Highway
+Irene Street
+Niagara Avenue
+W Clearwater Road
+3
+Marine Avenue
+Grove Street
+37th Street
+Santapogue Street
+Madison Drive
+S Walnut Street
+Dallas Street
+Linden Street
+S Railroad Avenue
+27th Street
+Jefferson Avenue
+N Alleghany Avenue
+S Bay Street
+S Smith Street
+Halycon Road
+Sand Lane
+Knoll Street
+N Lewis Avenue
+N Broadway
+S 13
+Mal Drive
+N Greene Avenue
+Oak Street
+ West
+E John Street
+Irmish Avenue
+S Strong Avenue
+40
+South Place
+10
+Auburn Street
+Farmers Avenue
+E Riviera Drive
+Dewey Place
+Kent Avenue
+Straight Path
+Sunrise Avenue
+Verona Pkwy
+E Beach Promenade
+Riviera Drive
+34
+Liberty Avenue
+W Montauk Highway
+Sidney Court
+N Kings Avenue
+S Pennsylvania Avenue
+Walnut Street
+E Belle Terre Avenue
+Spiegelhagen Avenue
+Holly Lane
+6th Street
+S 2nd Street
+S Hickory Street
+Spruce Place
+Kings Avenue
+E Kissimee Road
+S 13th Street
+E June Street
+W Venetian Promenade
+Walnut Place
+Davenport Street
+Union Road
+Indiana Avenue
+N 4th Street
+River Street
+Bond Street
+Carolina Street
+Bristol Street
+S 8th Street
+Hicks Street
+Heiling Boulevard
+51st Street
+Great Place
+W Hampton Road
+Spruce Street
+W Lido Promenade
+Alleghany Avenue
+Macon Street
+30th Street
+Saltaire Road
+N 5th Street
+Rebel Ridge Road
+26th Street
+W Seacrest Avenue
+E Shore Road
+Irmisch Avenue
+Hickory Street
+S 14th Street
+Birs Avenue
+Seacrest Avenue
+Bono Court
+Pecan Street
+33
+5
+Spiegelhagen Street
+Dominick Court
+Tremont Road
+14
+S 1st Street
+N 9
+Beechmont Avenue
+Old New Highway
+12th Street
+Pennsylvania Avenue
+Leonard Court
+4
+43
+Broome Avenue
+Johnson Place
+37
+Deauville Pkwy
+Spring Street
+Arctic Street
+Lincoln Drive
+48th Street
+Snapper Court
+Beach Promenade
+Oxford Street
+Victoria Avenue
+Gates Avenue
+28th Street
+Railroad Avenue
+S 5th Street
+Thorburn Avenue
+Pacific Street
+Halsey Place
+Putnam Avenue
+Berry Street
+Sherbrooke Road
+N 8th Street
+Courtland Street
+N Wellwood Avenue
+S Clinton Avenue
+Lee Avenue
+Sampson Place
+Storz Place

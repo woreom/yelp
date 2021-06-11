@@ -1,0 +1,39 @@
+E 900 N
+N 800 E
+ North
+N 700 E
+W Co Road 500 N
+900 N
+E 500 N
+W Co Road 300 N
+Rea Street
+Co Road 500 N
+1000 N
+County Road 800 E
+N Co Road 850 W
+500 N
+County Road 850 W
+E 1000 N
+N 600 E
+Co Road 400 N
+800 E
+700 N
+450 E
+E 700 N
+N Co Road 650 W
+E 800 N
+Co Road 850 W
+Co Road 650 W
+600 E
+600 N
+575 E
+N 450 E
+Main Street
+700 E
+Co Road 300 N
+W Co Road 400 N
+ West
+800 N
+E 600 N
+N 575 E
+ East

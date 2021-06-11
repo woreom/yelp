@@ -1,0 +1,111 @@
+W 500 N
+W 200 South Street
+W Center Street
+S 800 E
+N 1800 W
+S 800 East Street
+S 100 W
+E 200 S Canyon Road
+W 1700 North Street
+W 1500 North Street
+Cedar Mt Road
+S 4950 W
+W 500 S
+S 4300 W
+E 340 S
+S 500 East Street
+W 600 N
+State Route 133
+Chalk Creek Canyon Road
+S 300 West Street
+700 E
+200 S Canyon Road
+300 N
+W 3300 N
+E 100 South Street
+N 3900 West Street
+E 200 North Street
+Valley View Road
+W 1800 North Street
+State Route 99
+Highland Drive
+Sandrock Ridge Road
+Old Field Road
+E 400 South Street
+N 300 E
+Cedar Mountain Road
+E 300 North Street
+S Main
+E 200 South Street
+W 200 N
+Highland Avenue
+E 100 North Street
+State Route 64
+W 100 N Street
+N 4600 W
+Center Street
+W 4000 North Street
+N 1100 West Street
+W 900 South Street
+E 300 South Street
+Mountain View Road
+W 100 S
+E 100 N
+Flowell Road
+E Canyon Road
+E Center Street
+E 600 N
+E 500 South Street
+W 100 North Street
+W 300 N
+E Valley View Road
+Mc Bride Lane
+Eagle Avenue
+S 400 E
+E 500 N
+W 400 South Street
+370 E
+W 500 North Street
+N 400 W
+N 200 W
+800 E
+N 3200 W
+W 1600 South Street
+340 S
+N Main Street
+S Main Street
+Higland Avenue
+Sandhill Road
+N 300 W
+S 500 West Street
+N 100 East Street
+S 700 East Street
+Martindale Lane
+W 1200 N
+W 2100 North Street
+E 1550 North Street
+E 440 South Street
+380
+S 400 West Street
+S 200 West Street
+Hill Drive
+S 200 E
+W 100 N
+E 575 South Street
+S 4100 W
+N 100 W
+W 300 South Street
+W Canyon Road
+E 240 S
+N 400 E
+S 3900 W
+E 400 N
+W 400 N
+N 3900 W
+W 4000 N
+N 100 E
+S 100 E
+N 200 E
+W 100 South Street
+State Route 100
+N 500 W

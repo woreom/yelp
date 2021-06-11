@@ -1,0 +1,28 @@
+N 4400 W
+W 6000 N Street
+W 5600 N
+N 4400 W Street
+5200 W
+W 5680 N
+4700 W
+N 4500 W Street
+W 6100 N Street
+N 4800 W
+W 7200 N
+N 4850 W
+W 5900 N
+N 4700 W Street
+W 5800 N
+N 4600 W
+State Route 13
+W McLellan Road
+N 4700 W
+W 6200 N Street
+5200 W Road
+W 5700 N Street
+N 5200 W
+W 6100 N
+W 5400 N
+W 6000 N
+N 4800 W Street
+W 5500 N

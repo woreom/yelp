@@ -1,0 +1,83 @@
+W 500 N
+S 300 W
+W 200 South Street
+900 N
+S 100 W
+S 470 East Street
+River Lane
+N 600 West Street
+W 500 S
+S 500 East Street
+S 200 W
+E 300 S
+E 100 S
+100 S
+W 800 North Street
+E 100 South Street
+E 200 North Street
+N 300 East Street
+N 100 West Street
+E 300 North Street
+E Keller Lane
+E 200 South Street
+W 200 N
+E 100 North Street
+S 400 East Street
+E 300 South Street
+State Route 132
+W 100 S
+E 100 N
+E Union Street
+S 1060 W
+E 500 South Street
+W Manti Road
+W 100 North Street
+W 300 N
+Keller Road
+W 600 South Street
+S 600 West Street
+US Highway 89
+W 500 North Street
+W 500 South Street
+E 400 North Street
+E 400 S
+N 200 W
+S 600 East Street
+N 200 East Street
+N Main Street
+S Main Street
+N 300 W
+E 500 North Street
+W 800 N Street
+N 100 East Street
+Duncan Court
+2500 N
+S 600 W
+325 West Street
+W 200 S
+W Union Street
+S 400 West Street
+W 400 North Street
+S 200 E
+W 100 N
+E 600 South Street
+S 300 E
+N 100 W
+W 300 South Street
+E 200 S
+Pea Factory Lane
+S 500 W
+S 500E
+E 300 N
+N 400 West Street
+Main Street
+W 200 North Street
+N 100 E
+S 100 E
+N 470 E
+S 100 East Street
+W 400 S
+S 100 West Street
+Duck Springs Drive
+W 100 South Street
+N 500 W

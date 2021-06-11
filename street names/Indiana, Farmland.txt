@@ -1,0 +1,172 @@
+W 500 N
+875 N
+W Walnut Street
+N 1100 W
+W Maxville Road
+Mae Road
+Pursley Street
+Morris Street
+W 500 S
+Gym Street
+S 1000 W
+W 600 N
+300 S
+Wolf Street
+N Olive Street
+W State Road 32
+S 750 W
+50 S
+500 S
+E Elm Street
+700 W
+Angling Road
+County Road 800 W
+W 50 N
+W Co Road 400 N
+100 S
+300 N
+ West
+Lone Oak Drive
+635 W
+E Church Street
+Co Road 1150 W
+800 W
+750 N
+E Jackson Street
+Wall Street
+Plum Street
+Indian Trail Lake Road
+W 200 N
+N Co Road 1150 W
+W 250 N
+N 650 W
+500 N
+S Plum Street
+550 N
+700 N
+W Jackson Street
+Short Street
+Walnut Street
+W 50 S
+100 N
+600 N
+Rd 400 N
+Co Road 550 N
+W 100 S
+W Williams Street
+SW Indian Trail Lake Road
+550 W
+E Pursley Street
+Elm Street
+150 S
+Mainst
+N 1200 W
+S Indian Trail
+Rd 275 N
+W 875 N
+W Pursley Street
+S State Road 1
+State Road 32
+W 700 N
+250 N
+Base Road
+State Road 1
+750 W
+S 635 W
+N Mulberry Street
+W 450 S
+W 300 N
+East Street
+County Road 200 N
+Church Street
+55 S
+500 W
+S Mulberry Street
+N 800 W
+S 950 W
+Henry Street
+W 250 S
+N Plum Street
+650 W
+W Base Road
+N 675 W
+Windsor Road
+450 S
+County Road 950 W
+1100 W
+N Co Road 1200 W
+W Angling Road
+625 W
+W Elm Street
+S Olive Street
+1000 W
+E Williams Street
+Hickory Street
+S 700 W
+N Main Street
+Mulberry Street
+County Road 450 S
+New York Street
+S 625 W
+S Main Street
+N 700 W
+N State Road 1
+400 S
+1200 W
+Indian Trail
+Mae Avenue
+250 S
+W 300 S
+N 550 W
+W 550 N
+Winsor Road
+200 N
+W 55 S
+600 W
+Jackson Street
+County Road 55 S
+SE Indian Trail Lake Road
+Indian Trail Road
+W 200 S
+ East
+W 750 N
+W Windsor Road
+E Henry Street
+S 900 W
+ North
+N 600 W
+200 S
+Western Avenue
+400 N
+ Southwest
+N 1000 W
+W 100 N
+Olive Street
+Wolf Avenue
+Williams Street
+N Morris Street
+Co Road 400 N
+Beechwood Drive
+W 400 N
+W Co Road 550 N
+N Pursley Street
+South Street
+950 W
+W 150 S
+S 500 W
+County Road 900 W
+W Henry Street
+900 W
+ South
+County Road 940
+N 900 W
+Main Street
+W West Base Road
+ Southeast
+W 400 S
+875 W
+675 W
+West Base Road
+Maxville Road
+50 N
+Co Road 1200 W

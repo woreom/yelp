@@ -1,0 +1,401 @@
+Nixon Court
+Floyd Street
+Kussoth Street
+Newport Court
+Pine Street
+Woodcreek Court
+Acorn Street
+Glasgow Avenue
+1
+11th Street
+Fairlawn Drive
+1st Street
+6
+Dakota Street
+Elmira Street
+Hendel Circle
+Brook Avenue
+22
+Ocean Avenue
+Brevoort Place
+19th Street
+Oakland Avenue
+Gail Court
+Mayflower Street
+W 15th Street
+4th Street
+Volta Drive
+2
+N 24
+W 11
+E Industry Court
+Suffolk Place
+Carto Circle
+Herman
+E 8
+Bergen Drive
+W 22
+Pearsall Place
+Oneida Street
+16th Street
+Eastern Avenue
+Merle Place
+Howell Avenue
+9th Street
+Irving Avenue
+Rutland Street
+Osceola Avenue
+Tiber Avenue
+Hawthorne Street
+Jefryn Boulevard
+Ponder Lane
+W 14
+13th Street
+N 1st Street
+Sharon Lane
+Pine Acres Boulevard
+Westwood Avenue
+Homer Avenue
+Livingston Street
+Pearsall Avenue
+W 16th Street
+W 20
+Rockaway Avenue
+16
+Columbo Drive
+W 21st Street
+Defeo Court
+E 6th Street
+W 13
+Dunton Avenue
+Woods Road
+W 24th Street
+ East
+Totten Avenue
+Quail Run Drive
+Nassau Place
+Pana Court
+E 8th Street
+Industry Court
+Claremont Street
+Byway Drive
+Half Hollow Road
+E 5th Street
+E 7th Street
+W 23
+W 17th Street
+E Jefryn Boulevard
+Clinton Place
+Earl Street
+Connor Lane
+Bark Court
+W 23rd Street
+ South
+13
+Pearl Street
+Wellington Avenue
+Raintree Court
+Kathryn Lane
+Emerson Street
+Mohawk Avenue
+E 1
+Oregon Street
+Smith Street
+22nd Street
+Carlls Path
+Gregg Court
+Delamere Place
+Grove Avenue
+E 2nd Street
+Sunburst Drive
+Angelica Street
+Kathleen Lane
+Jersey Street
+18
+Hillside Road
+Saint Marks Place
+Ellensue Drive
+Wright Avenue
+Long Island Avenue
+24
+Wyandotte Street
+Maida Avenue
+Modena Avenue
+Essex Place
+W 18
+W 3rd Street
+8th Street
+Haight Street
+10th Street
+7th Street
+County Road 57
+Rolan Drive
+Sabatino Court
+Stevenson Place
+Alo Court
+Andover Drive
+Elmwood Road
+Little Court
+15th Street
+N Industry Court
+Brennan Place
+E 2
+20
+Collins Avenue
+W 21
+12
+Maple Drive
+W 2
+Crossway Drive
+Iroquois
+Spindle Court
+Lawrence Road
+Prescott Avenue
+Washington Avenue
+Van Cott Road
+W Jefryn Boulevard
+Albany Street
+Lincoln Avenue
+County Road 4
+Countrywood Court
+Saxwood Street
+18th Street
+Pitt Avenue
+17th Street
+Green Meadow Court
+17
+Wilson Avenue
+Sammis Avenue
+5th Street
+Wakefield Court
+Grand Boulevard
+Prospect Place
+Moss Avenue
+Pine Boulevard
+Park Avenue
+W 17
+Crown Street
+Gleeland Street
+Eastwood Avenue
+County Place
+7
+Saint Clair Street
+Orchard Drive
+Franklin Avenue
+S Skidmore Road
+Conklin Street
+N 4
+Woodlawn Avenue
+Patricia Avenue
+Schwartz Place
+Fulton Street
+Ithaca Street
+Thelma Place
+Haas Street
+Tarn Court
+Skidmores Road
+Scott Avenue
+Prince Avenue
+Brooklyn Street
+Parkcenter Drive
+8
+E 6
+Taft Court
+Wheeler Court
+Claremont Avenue
+Brandywine Drive
+Hemlock Street
+Fillmore Avenue
+Steven Court
+Greenmeadow Court
+Greenmeadow Drive
+W 3
+23rd Street
+Morrisey Place
+Headline Road
+2nd Street
+Weston Avenue
+Deer Park Avenue
+E 5
+W 24
+Lucille Lane
+Chatham Street
+Sussex Place
+Villa Avenue
+W Industry Court
+Willowridge Court
+Lombard Street
+Christopher Court
+Commons Way
+W 6th Street
+New York Avenue
+Mark Lane
+Walden Avenue
+15
+W 12th Street
+Warwick Street
+Oak Park Court
+Baldwin Path
+Monmouth Street
+W 19th Street
+Somerset Place
+Sunhollow Court
+Hollings Drive
+Old Country Road
+N 5
+Summerfield Court
+Susan Court
+11
+Atlantic Avenue
+Union Avenue
+Elm Street
+20th Street
+3rd Street
+21
+W 5
+Winthrop Place
+W 2nd Street
+Fairview Avenue
+Ida Avenue
+Lindquist Lane
+N 1
+Madison Avenue
+Miller Place
+W 9th Street
+Dunkirk Street
+W 14th Street
+14th Street
+W 15
+White Oak Street
+Burlington Avenue
+Adams Street
+Carlls Straight Path
+Dix Street
+W 6
+Chelsea Place
+Marcus Boulevard
+Priscilla Avenue
+Bowling Lane
+ North
+W 10
+Richard Lane
+Morgan Avenue
+Skidmore Road
+Pebble Lane
+Dartmouth Drive
+Liberty Street
+Westview Avenue
+Cara Court
+E 3rd Street
+Weiss Place
+Elise Place
+Florida Street
+Lapeer Street
+S 24th Street
+Asbury Street
+Commack Road
+Wildwood Avenue
+Bay Shore Road
+Kingston Street
+John Place
+Dahlia Lane
+E 1st Street
+W 7th Street
+W 7
+Leo Lane
+3
+Nantucket Lane
+Grove Street
+Winnecomac Avenue
+Kelly Place
+Newport Street
+W 4th Street
+Jefferson Avenue
+W 8th Street
+Lisa Drive
+Willow Street
+Taca Place
+Venezia Court
+Mayflower Place
+Golden Avenue
+Walden Court
+Oak Street
+ West
+Namleps Lane
+W 16
+W 11th Street
+Central Avenue
+10
+Arthur Place
+Sandy Court
+Overton Street
+Straight Path
+Roxbury Court
+Kossuth Street
+W 18th Street
+Goshen Street
+Burt Drive
+W 4
+Seaman Place
+E 4
+Evergreen Place
+E 4th Street
+6th Street
+S 2nd Street
+Antelope Street
+Drake Avenue
+W 8
+N 4th Street
+Salem Place
+Cambridge Street
+Lake Avenue
+Deforest Street
+W 22nd Street
+Hampton Place
+Prince Street
+Church Street
+Haas Avenue
+N 5th Street
+23
+W 13th Street
+Lucon Drive
+Leon Place
+Hickory Street
+Deer Park Boulevard
+Glenda Drive
+Orange Street
+5
+de Kay Place
+E 3
+Reed Drive
+14
+Jessen Avenue
+12th Street
+4
+Toysome Lane
+W 5th Street
+W 12
+Western Avenue
+Milleridge Drive
+Pacific Avenue
+Morris Drive
+W 1st Street
+White Oak Boulevard
+W 19
+24th Street
+Morris Place
+State Route 231
+Suburban Avenue
+W 20th Street
+Cayuga Avenue
+Tell Avenue
+Glenn Drive
+Nicolls Road
+Duke Street
+19
+Wakefield Street
+Cricket Court
+Taca Boulevard
+21st Street
+Geiger Place
+W 10th Street

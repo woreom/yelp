@@ -1,0 +1,882 @@
+E 1900 N
+W 500 N
+N 565 W
+Hyclone Road
+Schiess Court
+N 50 W
+N 1800 W
+E 1325 N
+N 250 W
+S 660 W
+S 100 W
+S 700 E
+N 870 E
+W 640 N
+Nibley Pkwy
+S 1260 W
+S 670 W
+N 950 E
+W 720 S
+W 2400 N
+Green Canyon Drive
+Heritage Cove
+W 280 S
+S 4300 W
+N 670 W
+W 2730 S
+N 340 W
+W 4200 S
+E 700 N
+N 425 W
+300 S
+N 1420 E
+N 920 E
+Cobblestone
+E 290 N
+E 650 S
+Ellendale Avenue
+W 630 S
+S 1360 W
+W 2900 S
+Canterbury Circle
+W 1465 N
+W 2880 S
+70 N
+N 1780 E
+Canyon Boulevard
+E 505
+N 2050 E
+E 800 S
+N 1000 E
+N 1480 E
+N 2150 E
+Oakcreek Place
+S 1330 W
+W 710 S
+N 640 E
+E 3400 N
+S 1350 E
+N 1800 E
+N 1410 E
+Highland Drive
+E 1185 N
+W 780 S
+E 2000 N
+W 550 S
+3430 S
+S 3200 W
+Island Drive
+N 540 W
+W 370 S
+Ridge View Drive
+Fonnesbeck Avenue
+Foothill Road
+E 660 N
+N 1200 E
+S 1250 W
+Quail Way
+N Canyon View Way E
+Law Court
+S 800 W
+W 3650 S
+E 1385 N
+E 2820 N
+S 270 W
+N 750 W
+W 530 S
+1400 E
+N 1950 E
+S 560 E
+W 3500 S
+S 2400 W
+E 3850 S
+W 3900 S
+Country Manor Drive
+N 1200 W
+Shari Street
+W 2850 S
+W 700 N
+Blake Court
+N 570 E
+N 80 W
+N 750 E
+S Riverwalk Drive
+W 300 N
+US Highway 91
+Sundown Way
+Canyon Ridge Drive
+Oakwood Court
+E 500 N
+S 1565 W
+S 1500 W
+W 800 N
+W 3000 S
+S 1600 W
+Haddies Circle
+N 120 W
+E 2520 N
+Hollyhock Lane
+N 1600 E
+S 830 W
+W 1285 S
+E 400 S
+E Stadium Drive
+N 2100 E
+N 200 W
+E 3250 N
+N 1525 E
+E 1370 N
+E 3000 N
+N 1520 E
+N 630 E
+1500 South Place
+80 E
+Coventry Place
+E 1250 N
+E 1425 N
+N 1770 E
+W Emme Way
+Young Ward Road
+N Main Street
+N 360 E
+Riverwalk Pkwy
+Weston Drive
+E 2650 N
+E 3100 N
+W 1800 N
+N 300 W
+River Park Drive
+800 S
+Hyclone Drive
+Quarter Circle Drive
+Lydia Lane
+Pepple Creek Court
+Juniper Drive
+E 1300 N
+Federal Avenue
+W 1900 S
+W 3200 S
+S 1200 W
+N 2140 E
+S Spring Hollow Circle
+Blacksmith Fork Canyon Road
+S 1000 E
+1800 E
+S 600 W
+Brookside Place
+S 1460 W
+Mt Logan Loop
+S Oak Place
+N 2600 W
+W 1200 S
+Brittany Place
+E University Drive
+E 2400 N
+N 290 W
+Linden
+E 2440 N
+E 1700 N
+Ballard Way
+E 1140 N
+E 1270 N
+E 2420 N
+N 560 W
+E 2330 N
+Fairway Lane
+W 3430 S
+W 2930 S
+Mountain View Drive
+Evergreen Drive
+2000 E
+E 200 S
+S 500 E
+S 5500 W
+S 780 W
+Condor Hts
+Stirling Place
+S 3400 W
+Three Point Avenue
+Varva Way
+S 500 W
+N 550 E
+W 1310 S
+N 710 W
+Cliffside Drive
+S 1900 W
+Southgate Court
+Braxton Place
+N 740 E
+E 2050 N
+E 3025 N
+S 1100 W
+S 1155 W
+W 910 N
+N 2000 E
+W 505 S
+S 4200 W
+S 300 W
+W 1400 S
+S 800 E
+Mountain Shadow Drive
+E 3200 N
+Pheasant Court
+E 1220 N
+Clear Creek Circle
+W 3575 S
+Crockett Avenue
+Cottonwood Lane
+Legrand Street
+W 1350 N
+W 2500 N
+E 442 N
+W 500 S
+S 1000 W
+N 360 W
+N Winding Way
+N 310 W
+W 1925 S
+W 1780 N
+E 2300 N
+W 2980 S
+W 1030 S
+W 3200 N
+N 220 W
+W 3140 S
+Wood Lane
+Apple Drive
+E 3375 N
+University Hillway
+Paintbrush Drive
+Raymond Court
+Mallard Loop
+S 1400 W
+N 2300 E
+W 780 N
+N 1250 E
+Trail Drive
+S 350 W
+W 675 S
+E 2600 N
+Willow Way
+S Rodeo Lane W
+Snowflake Circle
+W 640 S
+Naomi Drive
+N 1140 W
+W 1400 N
+S 960 W
+E 1400 S Place
+Kensington Place
+Palomino Circle
+Stone Creek Drive
+E 2750 N
+W 2625 S
+1700 N
+River Circle Drive
+E 1260 N
+Green Field Circle
+W 1330 N
+S Riverwalk Pkwy W
+W 1700 S
+S Country Manor Drive
+W 2675 S
+W 925 N
+N 320 W
+N 730 E
+S 515 W
+Upper Birch Glen Road
+N 460 W
+E 2900 N
+N 425 E
+Sunset Drive
+Mashie Circle
+N 1450 E
+E 2250 N
+1150 N
+W 750 S
+Wild Rose Circle
+W 3740 S
+Marindale Avenue
+E 2780 N
+E 275 N
+W 1610 S
+Willow Drive
+Elkhorn Drive
+W 660 S
+W 2280 S
+E 250 S
+Aggie Village
+Mount Logan Drive
+Lower Pine Glen Cove Road
+Meadow View Lane
+W 100 S
+Sunset Park
+E 170 S
+N 1500 E
+N 525 E
+W 1825 S
+Terrace Place
+E 1780 N
+Box Elder Circle
+E 1540 N
+Majestic Drive
+E 2470 N
+E Center Street
+Maple Drive
+S 1060 W
+E 600 N
+W 870 N
+E 500 South Street
+N 1430 E
+W 1100 S
+E 1455 N
+Canyon Road
+Orchard Hill Drive
+W 1000 N
+Winding Way
+Golf Course Road
+S 450 W
+Riverwood Court
+Skyline Drive
+Appletree Lane
+N 800 W
+E 1950 N
+W 2450 S
+US Highway 89
+S 2800 W
+450 S
+W Spring Hollow Circle
+Lauralin Drive
+W 3800 S
+S 1365 W
+Saddle Hill Drive
+3940 S
+N 600 E
+S 275 W
+Stewart Hill Drive
+Bridger Drive
+Card Canyon Road
+E 770 N
+Circle View Drive
+E 1625 N
+E 290 S
+Farm Hollow Road
+Windsor Drive
+S 700 W
+W 1960 S
+W 470 N
+N 230 E
+S 600 E
+N 1120 E
+W 1600 S
+W 1320 S
+E 200 N
+Spring Lane
+S 730 W
+E 1800 N
+Kendrick Court
+Mountain Road
+E 1500 N
+1200 W
+Douglas Drive
+N 450 W
+W 690 S
+Penny Lane
+N 550 W
+Hillcrest Avenue
+Juniper Circle
+Park Avenue
+Grace Lane
+Temple Avenue
+Warm Springs Lane
+2680 S
+E 1370 South Place
+Haddie's Circle
+Lamplighter Drive
+W 200 S
+Deercrest Lane
+S 1400 E
+Aspen Drive
+W 900 N
+E 900 N
+S 900 W
+E 1030 N
+Crescent Drive
+W 800 S
+W 2770 S
+N 630 W
+Thomas Court
+W 1325 S
+Hayden Ct E
+S 50 W
+E 1280 N
+N 1150 E
+N 1680 E
+S 200 E
+Canyon Cove Street
+W 100 N
+W 1380 N
+E 820 N
+3800 S
+Quail Canyon Drive
+E 1490 South Place
+N 1060 E
+W 3515 S
+W 1570 N
+S 1325 W
+Chokecherry Circle
+Orchard Drive
+W 1750 S
+Country Club Drive
+W 400 N
+E 2475 N
+E 800 N
+E 1650 N
+W 2600 S
+W 1040 S
+S 1380 W
+E 1530 N
+Nibley Road
+W 1150 N
+Darwin Avenue
+W 3480 S
+Crayon Court
+N 900 W
+Mendon Road
+Deerhaven Drive
+Wild Rose
+Deercrest Circle
+450 W
+W 3045 S
+W 3170 S
+W 350 S
+N 1255 E
+Southwest Street
+N 150 W
+W 725 N
+W 2320 S
+W 365 S
+Bluegrass Way
+Maple Circle
+Airport Road
+Hillside Circle
+E 1850 N
+W 650 N
+S 720 W
+W 1050 N
+W 1550 S
+N Green Canyon View Loop E
+N 260 W
+Summerwild Avenue
+W 950 N
+N 1350 E
+W 1124 N
+N 1460 E
+Pine Glen Cove Road
+W 1190 N
+W 760 S
+S 1020 W
+Riverview Avenue
+W 2700 S
+Riverbend Road
+Johnson Road
+Le Ruisseau Drive
+W 4600 S
+S 200 W
+Park Circle
+E 300 S
+E 1150 N
+W 775 N
+E 100 S
+N 230 W
+N 275 W
+Overlay North Place
+Lynnwood Avenue
+S 540 E
+S 640 W
+W 1250 S
+W 680 N
+N 660 E
+W 1625 S
+E 500 S
+700 E
+Orchard Hts Drive
+Quarter Drive
+W 2475 S
+S 980 W
+Yarrow Court
+Ptarmigan Loop
+E 1630 N
+W 330 S
+S 385 W
+E 2950 N
+Shadow Mt Drive
+N 728 E
+N 1550 E
+W 2200 S
+N 780 W
+Panorama Circle
+S Hollow Road
+N 225 E
+S Winding Way
+W 1845 S
+Pinewood Drive
+W 880 N
+Meadow Circle
+Riverdale Avenue
+W 200 N
+W 880 S
+Quail Hollow Road
+25 N Street
+N 510 W
+E 2850 N
+S 300 East Street
+N 1170 E
+Three Pointe Avenue
+W Haven Drive
+Willow Circle
+W 730 N
+E 1770 N
+E 4300 S
+Mahogany Valley Road
+E 1350 N
+S 220 W
+Somerset Place
+W 535 S
+E 100 N
+S 1540 W
+N Harmony Circle E
+Sage Circle
+Sunstone Circle
+W 1595 N
+N 730 W
+E 2980 N
+Crimson Drive
+Sunstone Court
+Temple View Drive
+Fox Farm Road
+W 1780 S
+N 1220 E
+N 350 W
+E 2200 N
+Oakview Drive
+Wild Onion Circle
+E 970 N
+E 1460 N
+W 1315 S
+Knowles Lane
+N 25 W
+E 1550 N
+W 1309 S
+N 700 E
+Cedar Heights Drive
+Penhurst Place
+W 2200 N
+Stonebridge Drive
+E 1600 N
+N 1850 E
+N 590 W
+Henrys Point Drive
+N 850 W
+W 1010 S
+W 1740 N
+W 3300 S
+N 1650 E
+Hawthorne Drive
+N 400 W
+W 3100 N
+Cottonwood Circle
+W 940 S
+W 1140 N
+W 2550 S
+N 4130 W
+W 1458 S
+W 900 S
+1350 E
+Bitterbrush Circle
+Canterbury Drive
+N 270 E
+W 790 S
+Sunset Circle
+W 2965 S
+Kings Court
+S 1080 W
+W 1600 N
+W 300 S
+S 170 W
+Birch Circle
+E 600 S
+S 1120 W
+W 1100 N
+W 3450 S
+S 1275 W
+N 260 E
+Garden Circle
+W 1395 S
+S 2000 W
+W 1690 S
+E 2290 N
+Snowshoe Circle
+N 600 W
+W 3400 S
+Oak Creek
+N 1875 E
+N 1000 W
+Usu Trailer Court
+E 1400 N
+E 50 S
+Aspen Park Lane
+Eagle Way
+S 250 W
+S 300 E
+N 100 W
+Stuart Court
+W 1275 S
+Stewart Hill Drive E
+Trail Circle
+S 1170 E
+W 1490 N
+N 400 E
+E 350 S
+N 1340 E
+N 330 E
+White Pine Place
+E 25 N
+Canterbury Lane
+N 1640 E
+Bonneville Avenue
+S 535 W
+Main Street
+N 1730 E
+Foothill Drive
+S 100 E
+W 400 S
+1430 E
+S 460 E
+E 700 S
+Meadowbrook Drive
+N 370 E
+Palisade Circle
+N 500 W
+S 5900 W
+E 2120 N
+W Center Street
+E 870 N
+Niblick Circle
+Valley View Drive
+Paintbrush Lane
+Eastridge Circle
+W 815 S
+State Route 101
+N 500 E
+Pheasant Hill Place
+W 1530 N
+S 350 E
+W 4800 S
+Miller Road
+N 240 W
+N 580 E
+Paintbrush Circle
+N 1750 E
+Clear Creek Road
+S 1280 W
+N 180 W
+N 250 E
+E 3550 N
+W 600 N
+E 1050 N
+E 1815 N
+Rainbow Drive
+S 260 W
+400 E
+S 1580 W
+E 260 N
+N 650 E
+S 1300 E
+River Pointe Drive
+Teal Loop
+E 2170 N
+Larkspur Drive
+E 2720 N
+S 1250 E
+Crystal Avenue
+Rosewood Circle
+W 3020 S
+Eastridge Lane
+E 1820 N
+North Place
+S 550 E
+Sagewood Lane
+N 1560 E
+Elkhorn Ranch Road
+S 50 E
+Nibley Park Avenue
+Hilltop Lane
+S 280 W
+800 W
+W 1060 S
+E 3700 S
+750 N
+Forest Lane
+N 300 E
+W 1000 S
+Water Street
+W 620 S
+Wasatch Drive
+2050 E
+E 1225 N
+State Route 165
+Partridge Place
+Kc Lane
+Sunset Ridge
+S 770 W
+N 2200 E
+Sumac Circle
+Riverwood Drive
+Beech
+Gateway Drive
+Thrushwood Drive
+N 1515 E
+Antler Lane
+Poplar Avenue
+N 1100 E
+E 320 N
+Center Avenue
+Red Fox Trce
+S 845 W
+Westwood
+Canal Road
+Elderberry Circle
+Rose Street
+Trailview Court
+Davis Avenue
+W 1290 S
+S 5400 W
+E 1240 N
+S 575 W
+Sumac Drive
+W 430 S
+S 180 W
+E 2060 N
+Boulevard
+N 1720 E
+N Woodside Drive W
+E 2500 N
+S 1430 W
+Conifer Place
+Spring Circle
+W 1060 N
+Camelot Drive
+Southview
+E 50 N
+S 3600 W
+1700 S
+S 740 E
+River Heights Boulevard
+View Crest Circle
+W 3750 S
+Greenville Drive
+W 1800 S
+Hampton Place
+Church Street
+Chestnut Lane
+S 400 E
+E 2160 N
+Pheasant Creek Drive
+W 4400 S
+N 1380 E
+N 680 E
+N 970 E
+N 1810 E
+Talon Drive
+S Riverwalk Circle W
+W 4000 S
+Research Park Way
+E 1120 N
+E 2100 N
+Meadowview Court
+S 1240 W
+Stewart Hill Court
+E 2700 N
+Oakbrook Circle
+Legend Drive
+W Maple Valley Road
+3900 S
+W 810 S
+S 1070 W
+S Main Street
+E 850 N
+Haddie Circle
+W 600 S
+E 150 N
+400 S
+E 2180 N
+Eastridge Drive
+W 550 N
+W 700 S
+Southview Circle
+W 1200 N
+W 480 S
+W 1260 S
+N 1900 W
+470 E
+Mountainview Lane
+S 1220 E
+Dee Avenue
+N 1300 E
+N 1570 E
+W 750 N
+1750 S
+N 800 E
+W 2000 S
+E 1580 N
+E 60 S
+N 150 E
+S 400 W
+E 1200 N
+Sterling Place
+Riverside Drive
+Pioneer Street
+W 2380 S
+Bristol Road
+N Thrushwood Drive
+Aggie Village Drive
+N 1700 E
+Park Vw
+3480 S
+E 1000 N
+W 2500 S
+N 1400 E
+E 1500 S Place
+E 400 N
+S 1150 W
+S 650 W
+W Haven Circle
+E 1080 N
+Gibbons Pkwy
+W 2740 S
+Blacksmith Court
+E 1100 N
+Preston Avenue
+N 900 E
+W 2775 S
+E 300 N
+Lone Brook Court
+N 315 W
+W 240 N
+N 875 E
+N 100 E
+Laura Avenue
+Crestwood Lane
+E 1730 N
+E 1980 N
+N 375 W
+N 200 E
+E Clover Circle
+E 2230 N
+N 350 E
+W 1305 S
+1000 E
+Beirdneau Summer Home Site Road
+E 2900 S
+Boxwood Circle

@@ -1,0 +1,7 @@
+W 1000 N
+ North
+N Washington Street
+Washington Street
+ West
+Leeds Street
+1000 N

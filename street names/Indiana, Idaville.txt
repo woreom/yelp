@@ -1,0 +1,100 @@
+E 250 N
+900 N
+Hanna Street
+Cross Street
+E 450 N
+1150 E
+E 475 N
+E 700 N
+E 100 S
+S 1300 E
+US Highway 24
+N 1250 E
+South Railroad Street
+1250 N
+N 1000 E
+100 S
+300 N
+475 N
+ West
+450 N
+E State Road 16
+Water Street
+N 1075 E
+N 1025 E
+County Road 100 S
+500 N
+Stringtown Road
+1150 N
+550 N
+N 1200 E
+W Cross Street
+700 N
+1025 E
+N 1100 E
+W Water Street
+Timmons Road
+600 N
+625 N
+W South Railroad Street
+State Street
+S Logan Street
+E Division Road
+E 600 N
+250 N
+E 50 N
+1200 E
+E South Railroad Street
+State Road 16
+500 W
+E 500 N
+1200 N
+E Timmons Road
+1100 E
+County Road 1300 N
+E Stringtown Road
+W 1250 N
+1075 E
+W Hanna Street
+25 N
+W State Street
+N Main Street
+S Main Street
+E 200 N
+W 1100 N
+200 N
+W 1200 N
+600 W
+800 N
+1100 N
+ East
+N 1300 E
+E 900 N
+W 1300 N
+ North
+N 600 W
+N Logan Street
+N 1150 E
+400 N
+N 1125 E
+1300 N
+E 550 N
+S 1150 E
+E 400 N
+E 800 N
+Division Road
+E Cross Street
+E 25 N
+W 1150 N
+ South
+E 300 N
+West Street
+1125 E
+Main Street
+1300 E
+E 625 N
+1250 E
+Logan Street
+1000 E
+50 N
+N 500 W

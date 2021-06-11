@@ -1,0 +1,430 @@
+Jasmine Avenue
+Lahey Street
+Mayfair Road
+Nugent Street
+Emmett Street
+S 3rd Street
+Falmouth Avenue
+11th Avenue
+Cedar Drive W
+Pine Street
+Robby Lane
+11th Street
+1st Street
+Jeffrey Place
+Yorkshire Road
+Eastern Drive
+Dail Street
+Denton Avenue S
+Evergreen Lane
+Bryant Avenue
+Pilgrim Street
+Elm Drive
+Brook Ct N
+Gerard Avenue
+Brooklyn Avenue
+Grattan Street
+Kalda Avenue
+Old Farm Road S
+Dogwood Lane
+8th Avenue
+Denton Avenue
+Thorens Avenue
+Camden Place
+Cedar Drive
+Soma Street
+1st Place
+4th Street
+Carole Avenue
+Locust Lane
+State Route 25
+Kenneth Place
+Woodland Drive
+Regent Lane
+N 12th Street
+Langdale Street
+Ashland Avenue
+Castlewood Street
+Baer Place
+Imperial Avenue
+Joseph Street
+Beech Street
+Hilton Avenue
+Wilton Street
+Manor Ct S
+Brill Place
+265th Street
+16th Street
+Premier Boulevard
+Leonard Circle Court
+Birchwood Drive
+9th Street
+Carwin Avenue
+76th Avenue
+N 11th Street
+268th Street
+13th Street
+S 16th
+267th Street
+266th Street
+Covert Avenue
+Manor Court
+N 1st Street
+W Vale Court
+Tottenham Place
+Brown Place
+Spruce Lane
+Hampshire Drive
+S 11th Street
+Lewis Avenue
+Betty Road
+Willow Road
+N 2nd Street
+Continental Drive
+Country Village Court
+77th Road
+Greenway E
+Aberdeen Road
+Irwin Street
+Flower Lane
+Herrick Court
+Center Drive
+Jericho Tpke
+Sperry Blvd N
+Knolls Drive N
+Executive Drive
+Laurel Drive
+Corbin Avenue
+New Hyde Park Road
+Herricks Road
+Royal Way
+South Street
+Hoffman Road
+Leonard Circle
+Charles Street
+ South
+Albert Street
+Pearl Street
+Haddon Road
+Michael Lane
+Howard Avenue
+Midland Drive
+Durham Road
+Kamda Boulevard
+Brussel Drive
+Lloyd Street
+Oak Lane
+Flag Lane
+270th Street
+Tulip Place
+Courthouse Road
+Svc Road
+S Park Place
+Birch Drive
+Lakeville Drive
+Maple Court
+N 7th Street
+Nottingham Court
+Hillside Drive S
+Hunting Hill Road
+Carling Drive
+Ingraham Lane
+Whitehall Lane
+Bellwood Drive
+8th Street
+Corwin Avenue
+Ohio Drive
+Old Farm Road N
+Major Lane
+Dunhill Road
+10th Street
+Tryon Court
+Windsor Gate Drive
+Powell Place
+7th Street
+Olive Lane
+Beaumont Court
+Mason Street
+80th Avenue
+Lakeville Road
+Irving Lane
+79th Avenue
+3rd Avenue
+Hillside Court
+Surrey Road
+Norman Street
+S 10th Street
+Elm Court
+Bregman Avenue
+Fulton Avenue
+East Lane
+Maple Drive
+Nortema Court
+Maple Drive W
+Marcus Avenue
+Hickory Road
+East Street
+Whittier Avenue
+County Courthouse Road
+Washington Avenue
+Lincoln Avenue
+S 16th Street
+18th Street
+17th Street
+Tulip Lane
+Lake Drive
+Orchid Lane
+Long Island Expy
+Strattford Road
+Valentine Drive
+Peter Lane
+1st Avenue
+81st Avenue
+5th Street
+Irons Place
+N 6th Street
+Park Avenue
+Delaware Drive
+2nd Avenue
+Scott Street
+Joseph Road
+Charles Road
+Avon Road
+Monterey Drive
+Millers Lane
+Allen Street
+Blossom Lane
+Franklin Avenue
+Kent Street
+Gilford Avenue
+Mapleleaf Lane
+Summit Lane
+Bretton Road
+Garden Court
+Kent Road
+S 6th Street
+Magnolia Drive
+Manly Place
+Crest Road
+Pubins Lane
+Dennis Street
+Brisbane Street
+Aster Drive
+S 4th Street
+Herkomer Street
+S 12th Street
+Maple Circle
+Fairfield Lane
+Lawrence Street
+Eric Lane
+Kings Lane
+Park E
+Yale Boulevard
+Ash Place
+4th Avenue
+Bolton Road
+Dakota Drive
+End Avenue
+Talbot Street
+Park Circle
+Eton Road
+5th Avenue
+Broadway
+Wayne Avenue
+2nd Street
+Clausen Place
+Cedar Drive E
+Devonshire Drive
+Park Circle E
+Quaker Street
+269th Street
+Celler Avenue
+Leamar Drive
+Central Boulevard
+Nassau Boulevard
+Dallas Avenue
+Stanwood Road
+Primrose Drive
+Heywood Street
+Park Circle W
+State Highway 25B
+Holiday Gate
+Highland Avenue
+N 3rd Street
+Union Tpke
+Jefferson Street
+Cherrywood Drive
+Atlantic Avenue
+S 9th Street
+Belmont Avenue
+Nottingham Road
+Sperry Boulevard
+3rd Street
+Kate Drive
+Birch Lane
+Brook Ct S
+Hull Avenue
+Nassau Terminal Road
+Sutton Hill Lane
+Moore Street
+Brian Street
+Leslie Lane
+S Svc Road
+Cedar Drive N
+Daley Street
+6th Avenue
+Union Street
+Beechwood Lane
+Madison Avenue
+Meadowfarm Road
+Knolls Drive
+14th Street
+Bixley Drive
+State Route 25B
+Shelter Rock Road
+Oak Drive
+Argon Place
+Old Courthouse Road
+Cornelia Avenue
+W End Avenue
+Vale Court
+Churchill Drive
+Rowe Place
+Kingston Court
+ North
+South Drive
+Stanley Lane
+Schumacher Drive
+Nevada Drive
+Jackson Avenue
+Duke Drive
+Aspen Lane
+Queens Lane
+Rose Place
+Ruxton Street
+Gould Street
+Hillside Park Drive
+10th Avenue
+Park Place
+Old Stewart Avenue
+Tenafly Drive
+N 10th Street
+Paul Avenue
+Kingston Street
+Stephen Avenue
+Elm Lane
+Nassau Drive
+Joy Drive
+James Street
+Greenway W
+William Street
+Linden Street
+Winthrop Street
+Terrace Boulevard
+North Drive
+83rd Avenue
+9th Place
+Hillside Avenue
+Jara Court
+Iris Lane
+Heather Lane
+Villa Place
+Maple Lane
+ West
+N 9th Place
+Interstate 495
+Central Avenue
+Old Broadway
+Brookfield Road
+Atlas Court
+Greenway
+Suburban Gate
+Armstrong Road
+North Street
+Kemp Lane
+Norton Avenue
+Hillside Boulevard
+Foxhurst Court
+Croyden Street
+Pond Lane
+7th Avenue
+Cary Road
+Patton Boulevard
+Sylvia Lane
+Dyckman Avenue
+Herbert Drive
+Redwood Road
+Tuxedo Avenue
+Edgewood Drive
+S 17th Street
+Farrel Street
+6th Street
+Bly Court
+271st Street
+Plymouth Street
+S 2nd Street
+S 13th Street
+Crystal Place
+Baxter Avenue
+Evergreen Avenue
+Park W
+Larch Drive
+Hillside Lane
+N 4th Street
+Pinewood Lane
+Shelbourne Lane
+S 8th Street
+Ivy Place
+Stephan Marc Lane
+Surrey Lane
+Prince Street
+Regents Lane
+N 5th Street
+Stoothoff Drive
+Hollow Lane
+Delano Court
+Independence Drive
+Country Village Lane
+Cedar Drive S
+Cedar Lane
+Herricks Ct Rmp
+Aladdin Avenue
+Fir Drive
+Rhodes Street
+Tudor Drive
+Majestic Court
+Bryn Mawr Place
+S 14th Street
+Wilben Court
+Campbell Street
+Evans Street
+S 1st Street
+12th Street
+77th Avenue
+Rhodes Drive
+White Avenue
+Leonard Boulevard
+82nd Avenue
+Stewart Avenue
+Bryn Mawr Road
+Morris Drive
+16th
+Rose Lane
+Sycamore Drive
+Oxford Street
+Claudy Lane
+78th Avenue
+Railroad Avenue
+Conway Road
+S 5th Street
+Lords Way
+S 18th Street
+Clyde Street
+Sperry Court
+West Street
+Jones Street
+Bedford Avenue
+Wicks Road
+McNulty Place
+Plaza Avenue
+Lowell Avenue

@@ -1,0 +1,124 @@
+W 1050 N
+N 50 W
+Co Road 100 S
+E 250 N
+W Church Street
+N 250 W
+N Lockport Drive
+E 2nd Street
+N 1350 E
+County Road 300 W
+W 4th Street
+N Co Road 1100 W
+300 W
+Lockport Drive
+W Railroad Street
+400 W
+N Co Road 250 W
+1st Street
+S Farmington Road
+2nd Street
+S 1300 E
+US Highway 24
+S Washington Street
+1250 N
+1050 N
+W 3rd Street
+E 950 N
+N Burnettsville Road
+ West
+S 1450 E
+W 1040 N
+W 6th Street
+E State Road 16
+1000 N
+4th Street
+N 1450 E
+50 W
+500 N
+1150 N
+950 N
+N 1200 E
+100 N
+600 N
+E 4th Street
+E 100 N
+6th Street
+Burnettsville Road
+Alaska Street
+1400 E
+N 350 W
+Farmington Road
+S Logan Street
+E Division Road
+3rd Street
+E 600 N
+250 N
+Carolina Street
+E 50 N
+1200 E
+W 1000 N
+350 W
+State Road 16
+Church Street
+Eastlawn Road
+500 W
+E 500 N
+W 2nd Street
+1200 N
+N West Street
+South Carolina Street
+S Burnettsville Road
+N 400 W
+S West Street
+W 1250 N
+1350 E
+E Railroad Street
+Railroad Street
+S Main Street
+5th Street
+N 300 W
+Washington Street
+County Line
+E 200 N
+W Co Road 100 S
+W 1100 N
+200 N
+W 1200 N
+E 6th Street
+1100 N
+1040 N
+ East
+N 1300 E
+Co Road 1100 W
+Co Road 250 W
+W 5th Street
+ North
+County Road 1500 E
+400 N
+W Eastlawn Road
+W 1st Street
+E 5th Street
+S Barnes Street
+250 W
+N 1400 E
+E 400 N
+Barnes Street
+Division Road
+150 W
+E 3rd Street
+S Alaska Street
+1450 E
+W 1150 N
+ South
+West Street
+Pearl Street
+Main Street
+1300 E
+N 150 W
+Logan Street
+W Towpath Road
+E 1st Street
+Towpath Road
+50 N
+N 500 W

@@ -1,0 +1,95 @@
+W Center Street
+S 300 W
+W 1400 S
+S 425 W
+W 200 South Street
+N 500 E
+S 100 W
+S 200 W
+E Horrock's Lane
+400 W
+E 300 S
+Horse Valley Road
+S 375 W
+E 100 S
+N 650 E
+S 300 West Street
+W 300 North Street
+E 100 South Street
+S Freemont Road
+E 200 North Street
+N 100 West Street
+W 120 N
+N 1050 E
+S 1170 W
+E 175 N
+E 300 North Street
+E 200 South Street
+W 200 N
+100 N Street
+Jakes Place Road
+500 N
+N Hillside Drive
+W 125 N
+W 100 N Street
+Center Street
+E Pso Juan Tabo
+E 300 South Street
+W 100 S
+E 475N
+200 West Street
+E Center Street
+E 100 N Street
+N 3540 E
+Horrock's Lane
+N 200 W Street
+W 100 North Street
+200 S Street
+E 500 N
+W 100 S Street
+E 400 North Street
+W Freemont Road
+N 200 East Street
+100 W Street
+W 200 S Street
+N Main Street
+S Main Street
+N 200 West Street
+E 200 N
+N 100 East Street
+W 300 S
+N 400 W Street
+Big Rocks Road
+S 600 W
+W 200 S
+N 300 West Street
+S 200 West Street
+S 400 W
+S 200 E
+W 100 N
+State Route 72
+Tidwell Road
+Fremont Road
+W 1400 S Street
+N 100 W
+E 1000 N
+W 300 South Street
+E 200 S Street
+E 400 N
+W 400 N
+E 200 S
+S 500 W
+State Route 24
+N 900 E
+Red Canyon Road
+E 300 N
+Main Street
+S 200 East Street
+W 200 North Street
+W Main Street
+N 100 E
+S 100 E
+S 100 East Street
+N 200 E
+S 100 West Street
+W 100 South Street

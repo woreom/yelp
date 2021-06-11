@@ -1,0 +1,19 @@
+S Popular Street
+W 1050 S
+200 W
+Cherry Street
+Popular Street
+S 200 W
+Blake Street
+ East
+Railroad Street
+Walnut Street
+Reed Street
+E Poplar Street
+S Elm Street
+ South
+Fulton Street
+Elm Street
+ West
+1050 S
+Poplar Street

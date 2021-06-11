@@ -1,0 +1,345 @@
+S 725 E
+Ems B21 Lane
+S 3rd Street
+Ems R4D Lane
+Ems B17 Lane
+E 450 N
+E Wooster Road
+S 700 E
+W 150 S-92
+Pine Street
+Ems R4F Lane
+1st Street
+E 650 S
+Perry Drive
+Ems B9 Lane
+S Main Lane
+Ems R4B1 Lane
+S Washington Street
+N Adams Street
+N 1000 E
+N 925 E
+N Indiana Street
+Tower Street
+W Pine Street
+Ems B26 Lane
+W Lincolnway
+4th Street
+N Grant Street
+State Road 5-57
+W Arthur Street
+S 675 E
+350 S
+N 12th Street
+Center Street
+100 N
+Franklin Street
+E Ryerson Road
+E Keith Street
+Ems B29 Lane
+E 200
+150 S
+N 950 W-92
+W 750 N-92
+675 E
+250 N
+Ems B25A Lane
+W Division Rd-92
+Ems B28A Lane
+S 950 W
+US Highway 30
+County Road 950 W
+E 125 S
+E 400 S
+E 575 S
+County Road 850 W
+950 W-92
+Ems B28 Lane
+N 1st Street
+N 850 W-92
+Ems B24 Lane
+E Shoop Road
+N Main Street
+575 E
+W Market Street
+N 2nd Street
+Ems B15 Lane
+Robinson Lake Road
+South Barbee Drive
+Ems B28B Lane
+Ryerson Road
+Ems R4B Lane
+200 S-57
+ East
+E Washington Road
+State Road 13
+900 E
+Lakeridge
+E 150 S
+500 E
+S Reasoner Drive
+450 E
+E 200 S
+S 500 E
+950 W
+W 150 S
+Ems B20 Lane
+S 775 E
+Sycamore Bay
+ South
+Adams Road
+Harmony Court
+Ems R2A Lane
+County Road 550 N
+Ems B16 Lane
+200
+350 N
+E 250 N
+Ems B20C1 Lane
+150 S-92
+Arthur Street
+N 7th Street
+E Heritage Drive
+125 S
+600 E
+E Elm Street
+E South Barbee Drive
+8th Street
+Rail Street
+Ems B11 Lane
+Wooster Road
+850 E
+10th Street
+7th Street
+S Brallier Road
+E 750 S
+850 W-92
+Kyle Road
+Old Road 30
+E 250 S
+Ems R 4 A Lane
+S 450 E
+Van Curen Road
+E Center Street
+S State Road 5-57
+Ems R4 Lane
+Market Street
+Ems B13 Lane
+Co Road 1000 E
+E 850 S
+N 600 E
+S State Road 5
+Cherry Street
+S 950 W-92
+Columbia Street
+Ems B8 Lane
+Ems B10 Lane
+S 600 E
+5th Street
+E 200 N
+525 E
+E Walnut Street
+N 6th Street
+200 N
+Heritage Drive
+E Van Ness Road
+S 900 W
+Bayfield Road
+200 S
+Mill Street
+400 N
+N Washington Street
+N Rail Street
+Ems B20B Lane
+750 E
+W 550 N-92
+N Oak Street
+County Road 1200 W
+S 6th Street
+1200 W-57
+S 7th Street
+W 350 S
+550 N-92
+725 S
+S 4th Street
+N Reasoner Drive
+E Market Street
+S 650 E
+N Cherry Street
+N 850 E
+E M S R3E Lane
+Ems B25 Lane
+775 E
+Old Trail Road
+Catholic Street
+River Bend Drive
+Ems B23 Lane
+650 S
+E Catholic Street
+E 100 S
+2nd Street
+State Road 5
+Ems R4G Lane
+Ems B28C Lane
+W Columbia Street
+E 500 S
+700 E
+E Columbia Street
+Shoop Road
+Ems B20D Lane
+E Adams Road
+E Church Street
+925 E
+W 6th Street
+Monroe Street
+E 350 N
+N 3rd Street
+S 900 E
+N Franklin Street
+650 E
+E 100 N
+Ems R41 Lane
+Reasoner Drive
+Ems R2B Lane
+E Wayne Street
+W Wayne Street
+Ems B20A1 Lane
+Ems B29 W
+Main Lane
+Elm Street
+3rd Street
+W Tower Street
+Division Rd-92
+Old State Road 13
+Celia Drive
+County Line Road
+575 S
+E 725 S
+Freedom Pkwy
+Ems B19 Lane
+Ems R 4 Lane
+Tulip Street
+Ems R4C Lane
+Lincolnway
+E Old Road 30
+900 W-92
+Maple Street
+850 S
+Adams Street
+Indiana Street
+250 S
+School Street
+E 600 S
+N Co Road 1000 E
+S Old State Road 13
+Ems R4I Lane
+Legacy Lane
+S 750 E
+750 N-92
+ North
+County Road 650 N
+E Miller Street
+Brallier Road
+Grant Street
+E 350 S
+Ems R4E Lane
+Division Road
+Wayne Street
+900 W
+N 10th Street
+Main Street
+Pierceton Road
+Van Ness Road
+E 700 S
+Ems B20A Lane
+W Center Street
+750 S
+550 E
+Miller Street
+W Walnut Street
+W Tulip Street
+Ems B12 Lane
+North Drive
+400 E
+Ems R2 Lane
+500 S
+Ems B14 Lane
+N 650 E
+Sunrise Lane
+S 525 E
+S 1200 W-57
+100 S
+S Village Street
+Village Street
+Oak Street
+ West
+S 550 E
+Ems R4A Lane
+450 N
+750 N
+E Arthur Street
+S 900 W-92
+North Street
+S First Street
+Ems B18 Lane
+550 N
+Keith Street
+N State Road 5
+S Monroe Street
+County Road 150 S
+Walnut Street
+S Franklin Street
+6th Street
+S 2nd Street
+W 200 S-57
+W Old Trail Road
+N 4th Street
+E Kyle Road
+Washington Road
+Ems R4H Lane
+Ems B27 Lane
+Church Street
+600 S
+S 400 E
+E Pierceton Road
+Shangri-la Lane
+S Robinson Lake Road
+N 5th Street
+Ems B22 Lane
+W Elm Street
+S Main Street
+Old Trail Rd-92
+Washington Street
+725 E
+N Perry Drive
+E 150 N
+400 S
+Ems B20C2 Lane
+Ems R 4 E Lane
+N Monroe Street
+W 550 N
+M S R3Lane
+S 1st Street
+150 N
+12th Street
+Matchette Industrial Park Road
+W 750 N
+E Tulip Street
+Ems B20C Lane
+E 400 N
+S 575 E
+Liberty Drive
+County Road 900 W
+S 5th Street
+Ems R4E1 Lane
+700 S
+N 900 E
+E Mill Street
+County Road 950 NW
+W Old Trail Rd-92
+W Catholic Street
+Pequignot Drive
+N 8th Street
+1000 E
+First Street
+N 575 E

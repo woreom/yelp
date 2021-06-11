@@ -1,0 +1,180 @@
+W 500 N
+N 68 E
+550 E
+James Street
+E 750 N
+350 N
+150 E
+900 N
+W Cumberland Street
+100 E
+N 500 E
+E 450 N
+200 W
+Sycamore Street
+E 475 N
+E 445 N
+650 N
+N 75 W
+Cumberland Street
+Meridian Road
+E 700 N
+Newer Street
+N 250 E
+S Armstrong Street
+400 E
+600 E
+E 575 N
+N 705 E
+N State Road 25
+300 E
+E 470 N
+N Church Street
+County Road 75 W
+Ohio Street
+300 N
+475 N
+ West
+Baltimore Street
+S Sanderson Street
+705 E
+Armstrong Street
+N Armstrong Street
+445 N
+N Indiana Street
+E 480 N
+Michigan Street
+480 N
+E 884 N
+N 225 E
+W 425 N
+Monroe Street
+450 N
+750 N
+E 350 N
+N 300 E
+Water Street
+W 200 N
+County Road 800 E
+Madison Street
+N 425 E
+W 250 N
+E 650 N
+500 N
+550 N
+Alma Street
+700 N
+State Road 25
+N Meridian Road
+S Monroe Street
+W 350 N
+N Co Road 800 E
+600 N
+S Meridian Road
+E 775 N
+State Road 29
+250 E
+N 325 E
+460 N
+Lee Street
+Meridian Line Road
+N Illinois Street
+State Road 75
+E 600 N
+470 N
+250 N
+N Union Street
+N 50 E
+N Ohio Street
+Illinois Street
+E Cumberland Street
+W 300 N
+E 876 N
+325 N
+N Water Street
+225 E
+Church Street
+Fouts Street
+E 500 N
+Front Street
+N 95 E
+Union Street
+425 N
+350 E
+N 600 E
+N 200 W
+Sanderson Street
+800 E
+E 325 N
+N Meridian Line Road
+575 N
+575 E
+W Cliff Drive
+Maple Street
+Washington Street
+725 E
+E 200 N
+Indiana Street
+N Monroe Street
+W 550 N
+200 N
+E James Street
+Jackson Street
+N Lee Street
+800 N
+N 725 E
+200 E
+75 W
+N State Road 29
+325 E
+Co Road 800 E
+ East
+Cliff Drive
+775 N
+E Washington Street
+E 900 N
+N 800 E
+ North
+884 N
+99 E
+S Union Street
+N 150 E
+N State Road 75
+W State Road 218
+95 E
+400 N
+S Church Street
+425 E
+E 550 N
+E State Road 218
+E Co Road 400 N
+W James Street
+500 E
+Co Road 400 N
+N Sycamore Street
+N 400 E
+E 400 N
+State Road 218
+E 800 N
+E Main Street
+N 550 E
+175 W
+876 N
+N 175 W
+ South
+E 300 N
+720 E
+Platt Street
+50 E
+N 720 E
+Main Street
+W Main Street
+N 100 E
+E 460 N
+68 E
+N 200 E
+N 350 E
+N 99 E
+W Washington Street
+S Water Street
+N 575 E

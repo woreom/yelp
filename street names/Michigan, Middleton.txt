@@ -1,0 +1,62 @@
+Elm Street E
+Bliss Road
+S Caroline Street
+S Bliss Road
+ North
+S Pendell Road
+Ely Highway
+W Johnson Road
+Jane Street S
+Elm Street W
+Garfield Road
+Pingree Road
+E Davis
+Caroline Street
+Middleton Street W
+State Highway 57
+County Road 543
+N Newton Street
+George Street W
+Buchanan Road
+Johnson Road
+Howell Street S
+W Roosevelt Road
+W Cleveland Road
+Naldrett Street
+W Grant Road
+Roosevelt Road
+Oak Street W
+S Ely Highway
+Jane Street
+N Caroline Street
+S Rich Road
+S Warner Road
+W Buchanan Road
+W Garfield Road
+ South
+George Street E
+Newton Road
+Hayes Road
+Davis Street
+County Road 549
+Middleton Street E
+Howell Street N
+S Pingree Road
+W Hayes Road
+Davis
+Grant Road
+Warner Road
+Jane Street N
+S Newton Street
+Cleveland Road
+Fulton Street E
+Elizabeth Street N
+ West
+Oak Street E
+Pendell Road
+Ennis Road
+Newton Street
+Rich Road
+Elizabeth Street S
+Ranger Road
+ East

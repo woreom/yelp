@@ -1,0 +1,32 @@
+S 300 W
+18400 N Road
+N 4400 W
+N Yacht Club Drive
+E 450 S
+N 4000 W
+S 100 W
+S 200 E
+W 100 N
+E 400 S
+N 400 W
+N 100 W
+N 200 W
+E 200 S
+S 200 W
+E Main Street
+E 300 S
+S Center Street
+W 100 S
+N 300 W
+E 100 S
+N Center Street
+N 450 W
+W 300 S
+W 16800 N
+W Main Street
+N 100 E
+450 W
+S 100 E
+N 200 E
+N 3600 W
+W 200 S

@@ -1,0 +1,23 @@
+N 8800 W
+N 9200 W Street
+N 9200 W
+8900 W
+W 26000 N Street
+N 9100 W
+N 9000 W
+Wild Rose Lane
+W Wild Rose Lane N
+W 25800 N Street
+Center Street
+E New River Road
+Frontage Road
+8800 W
+26100 N
+N 8800 W Street
+W 25700 N Street
+Main Street
+N 9100 W Street
+9000W
+N 9000 W Street
+W 25600 N
+N 8900 W Street

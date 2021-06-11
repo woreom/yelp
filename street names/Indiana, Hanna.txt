@@ -1,0 +1,96 @@
+S 300 W
+United States Highway 30 Alternate Rte
+W 1400 S
+1250 S
+1475 S
+S 100 W
+1425 S
+W 1375 S
+Jersey Street
+S Hunsley Road
+W Hopper Street
+E West Street
+300 W
+W 1450 S
+Long Lane
+400 W
+County Highway 1300 S
+S 375 W
+1800 S
+1650 S
+E Jersey Street
+W 1250 S
+S 475 W
+1375 S
+Ohio Street
+ West
+E Young Street
+N Indiana Street
+S 550 W
+Npennsylvania Street
+W Wheeler Street
+W Volk Road
+W 1650 S
+State Road 39
+1400 S
+Center Street
+Lincoln Highway
+W 1475 S
+Pennsylvania Street
+550 W
+S Pennsylvania Street
+S Ohio Street
+E Wheeler Street
+N Illinois Street
+Thompson Street
+E Hopper Street
+N 50 E
+N Ohio Street
+Illinois Street
+1600 S
+W 1800 S
+1200 S
+Moore Street
+Hopper Street
+Barker Street
+S 450 W
+500 W
+E 1300 S
+US Highway 30
+375 W
+W 1425 S
+Nthompson Street
+W Young Street
+S Thompson Street
+475 W
+1450 S
+W 1600 S
+Indiana Street
+1300 S
+Hunsley Road
+600 W
+1350 S
+S 600 W
+ East
+1750 S
+ North
+N Thompson Street
+W 1200 S
+S 400 W
+S 250 W
+Volk Road
+100 W
+250 W
+W 1750 S
+W 1500 S
+Young Street
+S 500 W
+ South
+West Street
+50 E
+N Pennsylvania Street
+W 1350 S
+1500 S
+450 W
+W 1300 S
+Wheeler Street

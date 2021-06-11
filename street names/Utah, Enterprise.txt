@@ -1,0 +1,29 @@
+S 100 W
+Bench Road
+S 150 E
+S 200 E
+S 300 E
+S 275 W
+W 300 South Street
+E 200 S
+S 200 W
+Center Street
+Juniper Road
+E Main Street
+Bentley Lane
+400 E
+Center Street N
+E 250 S
+S Center Street
+W 100 S
+Cedar Slope Road
+Main Street
+Quail Court
+Loop Road
+W Main Street
+N 1000 E
+Diagonal Street
+E 100 South Street
+Old Mine Road
+S 550 E
+W 200 S

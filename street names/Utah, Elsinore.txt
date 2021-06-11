@@ -1,0 +1,54 @@
+750 S
+1240 S
+S 300 W
+W 1400 S
+W 300 N
+1320 W
+200 S
+E 500 N
+W 2200 N
+N 300 E
+W 2100 N
+S 100 W
+S 200 E
+W 100 N
+W 200 N
+Huffman Street
+E 1200 S
+S 300 E
+N 100 W
+N 200 W
+Monroe Road
+E 1360 S
+E 400 N
+Bridges Street
+1400 S
+W 2150 N
+W 400 N
+S 200 W
+Center Street
+Canal Road
+E Main Street
+Jacobson Street
+S Center Street
+W 100 S
+E 100 S
+N Torrey Lane
+Sevier Highway
+E 1320 S
+E 1240 S
+E 300 N
+E 200 N
+W 2050 N
+N Center Street
+Temleton Street
+E 1280 S
+N 100 E
+S 100 E
+W Main Street
+Christiansen Street
+Brooklyn Road
+N 200 E
+E 1400 S
+540 N
+E 1150 S

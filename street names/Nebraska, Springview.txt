@@ -1,0 +1,39 @@
+ North
+E Aster Avenue
+Rose Avenue
+W Aster Avenue
+S Walnut Street
+Birch Street
+Linden Street
+S Linden Street
+Aster Avenue
+Viola Avenue
+N Ash Street
+N Elm Street
+S Oak Street
+Walnut Street
+N Main Street
+S Ash Street
+N Oak Street
+Football Avenue
+S Main Street
+W Rose Avenue
+S Elm Street
+ South
+Turbine Avenue
+Main Street
+Daisy Avenue
+W Turbine Avenue
+N Linden Street
+W Viola Avenue
+S Birch Street
+Elm Street
+State Highway 12
+Oak Street
+ West
+E Turbine Avenue
+E Viola Avenue
+E Rose Avenue
+Ash Street
+Courthouse Drive
+ East

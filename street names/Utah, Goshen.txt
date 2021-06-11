@@ -1,0 +1,48 @@
+W 100 North Street
+W 200 South Street
+Goshen Slant Road
+N 100 West Street
+S 11130 West Street
+S Goshen Bay Road
+S 200 West Street
+S 240 West Street
+US Highway 6
+S 100 W
+E 200 South Street
+E 370 North Street
+Goshen Bay Road
+S 250 W
+N 100 W
+E 360 N
+E 100 North Street
+E 350 S
+E 200 S
+S 12800 West Street
+S 200 W
+Center Street
+E Main Street
+State Highway 68
+S 10400 W
+S Center Street
+W 100 S
+Sandhill Road
+W 15800 South Street
+E 100 S
+W 350 South Street
+S 250 West Street
+N Center Street
+S 300 West Street
+W 50 South Street
+W 200 North Street
+W 15200 S
+W 370 North Street
+S 100 E
+W Main Street
+W 350 S
+S 100 East Street
+Goshen Canyon Road
+E 100 South Street
+E 350 South Street
+S 100 West Street
+W 100 South Street
+W 200 S
