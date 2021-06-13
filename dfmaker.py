@@ -6,7 +6,7 @@ def get_states(df):
     return list(set(df['state']))
 
 def get_cities(state, df):
-    df1=df[df['state']==states]
+    df1=df[df['state']==state]
     return list(set(df1['city']))
 
 def get_streets(city,df):
@@ -23,7 +23,7 @@ def make_streets(df,output):
     for state in states:
         cities=get_cities(state, df)
         for city in cities:
-            streets = get_cities(city, df)
+            streets = get_streets(city, df)
             with open(output+state+', '+city+'.txt', 'w') as f:
                 for street in streets:
                     f.write(street+'\n')
