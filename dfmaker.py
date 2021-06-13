@@ -1,5 +1,7 @@
 import pandas as pd
 import argparse
+import tqdm
+import traceback
 
 
 def get_states(df):
@@ -19,14 +21,17 @@ def get_streets(city,df):
     return list(set(out))
 
 def make_streets(df,output):
-    states=get_states(df)
-    for state in states:
-        cities=get_cities(state, df)
-        for city in cities:
-            streets = get_streets(city, df)
-            with open(output+state+', '+city+'.txt', 'w') as f:
-                for street in streets:
-                    f.write(street+'\n')
+    try:
+        states=get_states(df)
+        for (j,state) in enumerate(tqdm(states)):
+            cities=get_cities(state, df)
+            for city in cities:
+                streets = get_streets(city, df)
+                with open(output+state+', '+city+'.txt', 'w') as f:
+                    for street in streets:
+                        f.write(street+'\n')
+    except:
+        traceback.print_exc()
                     
                     
 if __name__ == "__main__":
