@@ -16,6 +16,8 @@ import traceback
 
 from tqdm import tqdm
 import pandas as pd
+import time
+import os
 
 
 
@@ -34,13 +36,14 @@ from urllib.parse import urlencode
 
 
 class Args():
-    def __init__(self, term='restaurants', location='Philadelphia, Pa', streets_path='street_name.txt', data_path= 'data.pkl',iteration=0):
+    def __init__(self, term='restaurants', location='Philadelphia, Pa', streets_path='street_name.txt', data_path= 'data.pkl',iteration=0, iteration_main=0):
         
         self.term=term
         self.location=location
         self.streets_path=streets_path
         self.data_path=data_path
         self.iteration=iteration
+        self.iteration_main=iteration_main
         
     def init_parsearges(self):
         ap = argparse.ArgumentParser()
@@ -56,7 +59,10 @@ class Args():
         ap.add_argument("--data_path", default=self.data_path,
                         type=str, help='path to save data')
         
-        ap.add_argument("--iteration", default=self.iteration,
+        ap.add_argument("-j","--iteration", default=self.iteration,
+                         type=int, help='starting iteration')
+        
+        ap.add_argument("-i","--iteration-main", default=self.iteration,
                          type=int, help='starting iteration')
 
         args = ap.parse_args()
@@ -145,7 +151,17 @@ def get_business(api_key, business_id):
     return request(API_HOST, business_path, api_key)
 
 
-def query_api(term, location):
+def logger(response,location ,i):
+    error=response['error']['code']
+    description=response['error']['description']
+    with open('error.log', 'a') as f:
+        string=f'{location} iteration={str(i)}\n    Error: "{error}"\n    Description: "{description}"\n'
+        f.write(string)
+        f.close()
+    print(error)
+    return error
+    
+def query_api(term, location, i):
     """Queries the API by the input values from the user.
 
     Args:
@@ -157,7 +173,10 @@ def query_api(term, location):
     businesses = response.get('businesses')
 
     if not businesses:
-        print(response)
+        error=logger(response, location,i)
+        if error == "ACCESS_LIMIT_REACHED":
+            time.sleep(3600)
+            return query_api(term, location, i)
         return []
 
 #     business_id = businesses[0]['id']
@@ -199,7 +218,7 @@ def main(term='restaurants', location='Philadelphia, Pa', streets_path='street_n
     	for (i, street) in tqdm(enumerate(streets)):
         	if i>=iteration:
         		address = street +' '+ location
-        		data.extend(query_api(term, address))
+        		data.extend(query_api(term, address,i))
         	else:
         		pass
         
@@ -215,13 +234,20 @@ def main(term='restaurants', location='Philadelphia, Pa', streets_path='street_n
         df.to_pickle(data_path)
         traceback.print_exc()
         sys.exit()
-
-
-# In[5]:
-
+        
+def super_main(term='restaurants', streets_path='street names/', data_path="Data/", i=0, j=0):
+    files_and_directories = os.listdir(streets_path)
+    cities = [ file[:file.find('.txt')] for file in files_and_directories if file.find('.txt')!=-1]
+    inputs = [c.split(", ") for c in cities]
+    for (k, arg) in tqdm(enumerate(inputs)):
+        if k>=i:
+            main(term='restaurants', location=arg[1]+', '+arg[0], streets_path='street names/'+arg[0]+', '+arg[1]+'.txt', data_path= data_path+arg[1]+', '+arg[0]+'.pkl',iteration=j)
+        else:
+            pass
+        
 if __name__ == '__main__':
-    args=Args(term='restaurants', location='Los Angeles, CA', streets_path='street names/LA.txt', data_path= 'Data/LA.pkl',iteration=0)
+    args=Args(term='restaurants', streets_path='street names/', data_path="Data/",iteration_main=0, iteration=0)
     args=args.init_parsearges()
-    main(term=args.term, location=args.location, streets_path=args.streets_path, data_path= args.data_path,iteration=args.iteration)
+    super_main(term=args.term, streets_path=args.streets_path, i=args.iteration_main, j=args.iteration)
 
 
