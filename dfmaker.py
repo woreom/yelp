@@ -1,6 +1,6 @@
 import pandas as pd
 import argparse
-import tqdm
+from tqdm import tqdm
 import traceback
 
 
@@ -17,21 +17,23 @@ def get_streets(city,df):
     out = []
     for i in street_col:
         out.extend(i.split(','))
-    
+
     return list(set(out))
+    
 
 def make_streets(df,output):
-    try:
-        states=get_states(df)
-        for (j,state) in enumerate(tqdm(states)):
-            cities=get_cities(state, df)
-            for city in cities:
+    states=get_states(df)
+    for (j,state) in enumerate(tqdm(states)):
+        cities=get_cities(state, df)
+        for city in cities:
+            try:
                 streets = get_streets(city, df)
                 with open(output+state+', '+city+'.txt', 'w') as f:
                     for street in streets:
                         f.write(street+'\n')
-    except:
-        traceback.print_exc()
+            except:
+                print(state,",",city)
+    
                     
                     
 if __name__ == "__main__":
